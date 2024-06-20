@@ -66,8 +66,21 @@ for (const entry of data) {
     //   }
     // }
     if (entry.wikidata) {
-      const wdData = await getWikidata(entry.wikidata)
-      Object.assign(entry, wdData)
+      if (entry.wikipediaTitle && !getSlug(entry.wikipediaTitle).startsWith(getSlug(entry.prenomNom1))) {
+        console.error('dubious match', getSlug(entry.prenomNom1), getSlug(entry.wikipediaTitle))
+        delete entry.wikipediaTitle
+        delete entry.commonsImage
+        delete entry.assembleeNationalUrl
+        delete entry.nosDeputesUrl
+        delete entry.viePublicUrl
+        delete entry.radioFranceUrl
+      }
+      const { wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, facebook, instagram, twitter, tiktok, youtube, mastodonUrl } = await getWikidata(entry.wikidata)
+      Object.assign(entry, { wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, youtube, mastodonUrl })
+      if (!entry.facebook) entry.facebook = facebook
+      if (!entry.instagram) entry.instagram = instagram
+      if (!entry.twitter) entry.twitter = twitter
+      if (!entry.tiktok) entry.tiktok = tiktok
     }
     entry.feminin1 ??= sexById[entry.wikidata] ? sexById[entry.wikidata] === 'Q6581072' : null
     entry.prenomNom1 = `${prenom1} ${nom1}`
