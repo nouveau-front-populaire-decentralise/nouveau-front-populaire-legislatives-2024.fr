@@ -118,7 +118,7 @@ return `
         <!-- <p>Présentation</p> -->
         <ul>
           ${site ? `<li><a target="_blank" href="${site}">${new URL(site).host + new URL(site).pathname}</a></li>` : ''}
-          ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/${encodeURIComponent(wikipediaTitle)}">Wikipedia</a></li>` : ''}
+          ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/wiki/${encodeURIComponent(wikipediaTitle)}">Wikipedia</a></li>` : ''}
           ${assembleeNationalUrl ? `<li><a target="_blank" href="${assembleeNationalUrl}">Page sur le site de l'Assemblée Nationale</a></li>` : ''}
           ${nosDeputesUrl ? `<li><a target="_blank" href="${nosDeputesUrl}">Page sur nosdeputes.fr</a></li>` : ''}
           ${viePublicUrl ? `<li><a target="_blank" href="${viePublicUrl}">Page sur vie-publique.fr</a></li>` : ''}
@@ -247,7 +247,8 @@ return `
 
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites votez autour de vous !</h2>
 
-    <p>Que vous soyez électeur ou électrice à ${joinedCommunes}… <strong>chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</strong></p>
+    <p>
+      ${communes.length > 1 ? `Que vous soyez électeur ou électrice à ${joinedCommunes}…`: '' } <strong>Chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</strong></p>
   </div>
 </section>
 
