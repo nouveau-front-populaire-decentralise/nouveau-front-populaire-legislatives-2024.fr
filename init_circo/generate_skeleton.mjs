@@ -43,7 +43,7 @@ return `
   <div>
     <img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
-<div>
+  <div>
     <h1>Le 30 juin et le 7 juillet, <br />votez ${prenomNOM1} !</h1>
     <h2>${nomCirco}</h2>
   </div>
