@@ -66,7 +66,7 @@
     "boucle": "",
     "slug": "charline-liotier",
     "prenomNOM1": "Charline LIOTIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "01",
@@ -83,7 +83,7 @@
     "boucle": "",
     "slug": "florence-pisani",
     "prenomNOM1": "Florence PISANI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "02",
@@ -100,7 +100,7 @@
     "boucle": "",
     "slug": "charles-culioli",
     "prenomNOM1": "Charles CULIOLI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "02",
@@ -117,7 +117,7 @@
     "boucle": "",
     "slug": "anne-sophie-dujancourt",
     "prenomNOM1": "Anne-Sophie DUJANCOURT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "02",
@@ -154,7 +154,7 @@
     "boucle": "",
     "slug": "lola-prie",
     "prenomNOM1": "Lola PRIÉ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "02",
@@ -227,7 +227,7 @@
     "boucle": "",
     "slug": "aline-jeudi",
     "prenomNOM1": "Aline JEUDI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "04",
@@ -244,7 +244,7 @@
     "boucle": "",
     "slug": "felix-blanc",
     "prenomNOM1": "Félix BLANC",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "04",
@@ -298,7 +298,7 @@
     "boucle": "",
     "slug": "francis-cruz",
     "prenomNOM1": "Françis CRUZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "06",
@@ -315,7 +315,7 @@
     "boucle": "",
     "slug": "olivier-salerno",
     "prenomNOM1": "Olivier SALERNO",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "06",
@@ -332,7 +332,7 @@
     "boucle": "",
     "slug": "leila-tonnerre",
     "prenomNOM1": "Leïla TONNERRE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "06",
@@ -349,7 +349,7 @@
     "boucle": "",
     "slug": "virigine-parent",
     "prenomNOM1": "Virigine PARENT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "06",
@@ -366,7 +366,7 @@
     "boucle": "",
     "slug": "fabrice-decoupigny",
     "prenomNOM1": "Fabrice DECOUPIGNY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "06",
@@ -383,7 +383,7 @@
     "boucle": "",
     "slug": "nicole-mazella",
     "prenomNOM1": "Nicole MAZELLA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "06",
@@ -400,7 +400,7 @@
     "boucle": "",
     "slug": "arthur-meyer-abatucci",
     "prenomNOM1": "Arthur MEYER ABATUCCI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "06",
@@ -417,7 +417,7 @@
     "boucle": "",
     "slug": "lucia-soudant",
     "prenomNOM1": "Lucia SOUDANT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "06",
@@ -434,7 +434,7 @@
     "boucle": "",
     "slug": "jose-garcia-abia",
     "prenomNOM1": "José GARCIA ABIA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "07",
@@ -490,7 +490,7 @@
     "boucle": "",
     "slug": "florence-pallot",
     "prenomNOM1": "Florence PALLOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "08",
@@ -507,7 +507,7 @@
     "boucle": "",
     "slug": "damien-lerouge",
     "prenomNOM1": "Damien LEROUGE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "08",
@@ -524,7 +524,7 @@
     "boucle": "",
     "slug": "gilles-loyez",
     "prenomNOM1": "Gilles LOYEZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "08",
@@ -559,7 +559,7 @@
     "boucle": "",
     "slug": "alice-barry",
     "prenomNOM1": "Alice BARRY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "10",
@@ -576,7 +576,7 @@
     "boucle": "",
     "slug": "samira-sebbari",
     "prenomNOM1": "Samira SEBBARI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "10",
@@ -649,7 +649,7 @@
     "boucle": "",
     "slug": "philippe-andrieu",
     "prenomNOM1": "Philippe ANDRIEU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "12",
@@ -666,7 +666,7 @@
     "boucle": "",
     "slug": "leon-thebault",
     "prenomNOM1": "Léon THEBAULT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "12",
@@ -683,7 +683,7 @@
     "boucle": "https://t.me/+77tGd75rFBgxMGNk",
     "slug": "laurent-alexandre",
     "prenomNOM1": "Laurent ALEXANDRE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "12",
@@ -718,7 +718,7 @@
     "boucle": "",
     "slug": "pascaline-lecorche",
     "prenomNOM1": "Pascaline LECORCHÉ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "13",
@@ -811,7 +811,7 @@
     "boucle": "",
     "slug": "christine-juste",
     "prenomNOM1": "Christine JUSTE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "13",
@@ -847,7 +847,7 @@
     "boucle": "",
     "slug": "alexandre-beddock",
     "prenomNOM1": "Alexandre BEDDOCK",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -864,7 +864,7 @@
     "boucle": "",
     "slug": "bernard-ougourlou-oglou",
     "prenomNOM1": "Bernard OUGOURLOU-OGLOU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -899,7 +899,7 @@
     "boucle": "",
     "slug": "marc-pena",
     "prenomNOM1": "Marc PENA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -916,7 +916,7 @@
     "boucle": "",
     "slug": "maryline-czurka",
     "prenomNOM1": "Maryline CZURKA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "13",
@@ -964,7 +964,7 @@
     "nom1": "Aidarous",
     "prenom1": "Wassila",
     "prenomNom1": "Wassila Aidarous",
-    "twitter": "",
+    "twitter": "wassilaaidarous",
     "instagram": "",
     "facebook": "",
     "facebookUrl": "",
@@ -972,7 +972,7 @@
     "boucle": "",
     "slug": "wassila-aidarous",
     "prenomNOM1": "Wassila AIDAROUS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "13",
@@ -1045,7 +1045,7 @@
     "boucle": "",
     "slug": "olivier-truffaut",
     "prenomNOM1": "Olivier TRUFFAUT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "14",
@@ -1116,7 +1116,7 @@
     "boucle": "",
     "slug": "veronique-rueda",
     "prenomNOM1": "Véronique RUEDA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "15",
@@ -1133,7 +1133,7 @@
     "boucle": "",
     "slug": "zoe-pebay",
     "prenomNOM1": "Zoé PEBAY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "16",
@@ -1169,7 +1169,7 @@
     "boucle": "",
     "slug": "carole-ballu",
     "prenomNOM1": "Carole BALLU",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "16",
@@ -1260,7 +1260,7 @@
     "boucle": "",
     "slug": "daniele-desselles",
     "prenomNOM1": "Danièle DESSELLES",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "17",
@@ -1277,7 +1277,7 @@
     "boucle": "",
     "slug": "anne-brachet",
     "prenomNOM1": "Anne BRACHET",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "18",
@@ -1294,7 +1294,7 @@
     "boucle": "",
     "slug": "hugo-lefelle",
     "prenomNOM1": "Hugo LEFELLE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "18",
@@ -1330,7 +1330,7 @@
     "boucle": "",
     "slug": "emma-moreira",
     "prenomNOM1": "Emma MOREIRA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "19",
@@ -1367,7 +1367,7 @@
     "boucle": "",
     "slug": "amandine-dewaele",
     "prenomNOM1": "Amandine DEWAELE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "21",
@@ -1384,7 +1384,7 @@
     "boucle": "",
     "slug": "oceane-godard",
     "prenomNOM1": "Océane GODARD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "21",
@@ -1439,7 +1439,7 @@
     "boucle": "",
     "slug": "valerie-jacq",
     "prenomNOM1": "Valérie JACQ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "21",
@@ -1474,7 +1474,7 @@
     "boucle": "",
     "slug": "marion-gorgiard",
     "prenomNOM1": "Marion GORGIARD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "22",
@@ -1546,7 +1546,7 @@
     "boucle": "",
     "slug": "marielle-lemaitre",
     "prenomNOM1": "Marielle LEMAITRE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "23",
@@ -1563,7 +1563,7 @@
     "boucle": "https://t.me/CatherineCouturierCreuse",
     "slug": "catherine-couturier",
     "prenomNOM1": "Catherine COUTURIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "24",
@@ -1617,7 +1617,7 @@
     "boucle": "",
     "slug": "christelle-druillole",
     "prenomNOM1": "Christelle DRUILLOLE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "24",
@@ -1654,7 +1654,7 @@
     "boucle": "",
     "slug": "severine-vezies",
     "prenomNOM1": "Séverine VEZIES",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "25",
@@ -1727,7 +1727,7 @@
     "boucle": "",
     "slug": "matthieu-cassez",
     "prenomNOM1": "Matthieu CASSEZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "26",
@@ -1762,7 +1762,7 @@
     "boucle": "",
     "slug": "karim-chkeri",
     "prenomNOM1": "Karim CHKERI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "26",
@@ -1798,7 +1798,7 @@
     "boucle": "",
     "slug": "isabelle-pagani",
     "prenomNOM1": "Isabelle PAGANI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "27",
@@ -1815,7 +1815,7 @@
     "boucle": "https://chat.whatsapp.com/HkoO9rdfZm6DRAwMbIHxiB",
     "slug": "christine-le-bonte",
     "prenomNOM1": "Christine LE BONTÉ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "27",
@@ -1850,7 +1850,7 @@
     "boucle": "",
     "slug": "jean-christophe-turpin",
     "prenomNOM1": "Jean-Christophe TURPIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "27",
@@ -1887,7 +1887,7 @@
     "boucle": "",
     "slug": "pierre-yves-jourdain",
     "prenomNOM1": "Pierre-Yves JOURDAIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "28",
@@ -1904,7 +1904,7 @@
     "boucle": "",
     "slug": "jean-francois-bridet",
     "prenomNOM1": "Jean-François BRIDET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "28",
@@ -1921,7 +1921,7 @@
     "boucle": "",
     "slug": "nadia-faveris",
     "prenomNOM1": "Nadia FAVERIS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "28",
@@ -1938,7 +1938,7 @@
     "boucle": "",
     "slug": "sylviane-boens",
     "prenomNOM1": "Sylviane BOËNS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "29",
@@ -1955,7 +1955,7 @@
     "boucle": "https://chat.whatsapp.com/JGx2AoUGHxM6pA4gpQnGCp",
     "slug": "gregory-lebert",
     "prenomNOM1": "Grégory LEBERT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "29",
@@ -1990,7 +1990,7 @@
     "boucle": "",
     "slug": "pierre-smolarz",
     "prenomNOM1": "Pierre SMOLARZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "29",
@@ -2025,7 +2025,7 @@
     "boucle": "",
     "slug": "gladys-grelaud",
     "prenomNOM1": "Gladys GRELAUD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "29",
@@ -2061,7 +2061,7 @@
     "boucle": "https://chat.whatsapp.com/DvvJ3dTOURyGmuymUD2oR3",
     "slug": "jugdeep-harvinder",
     "prenomNOM1": "Jugdeep HARVINDER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "29",
@@ -2096,7 +2096,7 @@
     "boucle": "",
     "slug": "angelique-suissini",
     "prenomNOM1": "Angélique SUISSINI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "2A",
@@ -2113,7 +2113,7 @@
     "boucle": "",
     "slug": "salma-ghislaine",
     "prenomNOM1": "Salma GHISLAINE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "2B",
@@ -2130,7 +2130,7 @@
     "boucle": "https://t.me/+RPOrPIkPeeAyZmVk",
     "slug": "sacha-bastelica",
     "prenomNOM1": "Sacha BASTELICA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "2B",
@@ -2147,7 +2147,7 @@
     "boucle": "",
     "slug": "brigitte-sassou",
     "prenomNOM1": "Brigitte SASSOU",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "30",
@@ -2164,7 +2164,7 @@
     "boucle": "",
     "slug": "charles-menard",
     "prenomNOM1": "Charles MENARD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "30",
@@ -2181,7 +2181,7 @@
     "boucle": "",
     "slug": "kathy-guyot",
     "prenomNOM1": "Kathy GUYOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "30",
@@ -2216,7 +2216,7 @@
     "boucle": "",
     "slug": "arnaud-bord",
     "prenomNOM1": "Arnaud BORD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "30",
@@ -2312,7 +2312,7 @@
     "boucle": "",
     "slug": "agathe-roby",
     "prenomNOM1": "Agathe ROBY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "31",
@@ -2349,7 +2349,7 @@
     "boucle": "https://t.me/NFP3105",
     "slug": "sylvie-espagnolle",
     "prenomNOM1": "Sylvie ESPAGNOLLE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "31",
@@ -2461,7 +2461,7 @@
     "boucle": "",
     "slug": "pascal-levieux",
     "prenomNOM1": "Pascal LEVIEUX",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "32",
@@ -2497,7 +2497,7 @@
     "boucle": "",
     "slug": "celine-papin",
     "prenomNOM1": "Céline PAPIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2649,7 +2649,7 @@
     "boucle": "",
     "slug": "corrine-martinez",
     "prenomNOM1": "Corrine MARTINEZ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2666,7 +2666,7 @@
     "boucle": "",
     "slug": "pascal-bourgois",
     "prenomNOM1": "Pascal BOURGOIS",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2683,7 +2683,7 @@
     "boucle": "",
     "slug": "cecilia-fonseca",
     "prenomNOM1": "Cécilia FONSECA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2815,7 +2815,7 @@
     "boucle": "",
     "slug": "magali-crozier",
     "prenomNOM1": "Magali CROZIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "34",
@@ -2888,7 +2888,7 @@
     "boucle": "",
     "slug": "marie-mesmeur",
     "prenomNOM1": "Marie MESMEUR",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "35",
@@ -2905,7 +2905,7 @@
     "boucle": "",
     "slug": "tristan-lahais",
     "prenomNOM1": "Tristan LAHAIS",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "35",
@@ -2961,7 +2961,7 @@
     "boucle": "",
     "slug": "gilles-renault",
     "prenomNOM1": "Gilles RENAULT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "35",
@@ -2978,7 +2978,7 @@
     "boucle": "",
     "slug": "elsa-lafaye",
     "prenomNOM1": "Elsa LAFAYE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "35",
@@ -2995,7 +2995,7 @@
     "boucle": "",
     "slug": "nicolas-guivarch",
     "prenomNOM1": "Nicolas GUIVARC'H",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "35",
@@ -3032,7 +3032,7 @@
     "boucle": "",
     "slug": "eloise-gonzalez",
     "prenomNOM1": "Eloïse GONZALEZ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "36",
@@ -3087,7 +3087,7 @@
     "boucle": "https://actionpopulaire.fr/groupes/8c36ec81-eb63-4c7c-b0ba-e10a54fc492c/",
     "slug": "christelle-gobert",
     "prenomNOM1": "Christelle GOBERT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "37",
@@ -3104,7 +3104,7 @@
     "boucle": "",
     "slug": "sandra-barbier",
     "prenomNOM1": "Sandra BARBIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "37",
@@ -3141,7 +3141,7 @@
     "boucle": "",
     "slug": "marina-coccia",
     "prenomNOM1": "Marina COCCIA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -3158,7 +3158,7 @@
     "boucle": "",
     "slug": "hugo-prevost",
     "prenomNOM1": "Hugo PREVOST",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "38",
@@ -3254,7 +3254,7 @@
     "boucle": "",
     "slug": "yaqine-di-spigno",
     "prenomNOM1": "Yaqine DI SPIGNO",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -3271,7 +3271,7 @@
     "boucle": "",
     "slug": "dominique-dichard",
     "prenomNOM1": "Dominique DICHARD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -3288,7 +3288,7 @@
     "boucle": "",
     "slug": "cecile-michel",
     "prenomNOM1": "Cécile MICHEL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -3323,7 +3323,7 @@
     "boucle": "https://linktr.ee/3810NFP",
     "slug": "joelle-richol",
     "prenomNOM1": "Joëlle RICHOL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "39",
@@ -3340,7 +3340,7 @@
     "boucle": "",
     "slug": "anthony-brondel",
     "prenomNOM1": "Anthony BRONDEL",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "39",
@@ -3357,7 +3357,7 @@
     "boucle": "",
     "slug": "evelyne-ternant",
     "prenomNOM1": "Evelyne TERNANT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "39",
@@ -3374,7 +3374,7 @@
     "boucle": "https://t.me/+evngP7J4SzFkNDI0",
     "slug": "herve-prat",
     "prenomNOM1": "Hervé PRAT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "40",
@@ -3391,7 +3391,7 @@
     "boucle": "",
     "slug": "marie-laure-lafargue",
     "prenomNOM1": "Marie-Laure LAFARGUE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "40",
@@ -3446,7 +3446,7 @@
     "boucle": "https://actionpopulaire.fr/groupes/0e04595b-c815-4460-b581-9419ab6e67bf/",
     "slug": "reda-belkadi",
     "prenomNOM1": "Reda BELKADI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "41",
@@ -3482,7 +3482,7 @@
     "boucle": "https://chat.whatsapp.com/JG8ppfE2wnU0aR8iy8k1Py",
     "slug": "noe-petit",
     "prenomNOM1": "Noé PETIT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "42",
@@ -3556,7 +3556,7 @@
     "boucle": "",
     "slug": "bernard-paemelaere",
     "prenomNOM1": "Bernard PAEMELAERE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "42",
@@ -3573,7 +3573,7 @@
     "boucle": "https://actionpopulaire.fr/groupes/eb93c6d1-3a70-4148-aa8f-417cd2e5da75/",
     "slug": "ismael-stevenson",
     "prenomNOM1": "Ismael STEVENSON",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "42",
@@ -3590,7 +3590,7 @@
     "boucle": "",
     "slug": "marie-paule-olive",
     "prenomNOM1": "Marie Paule OLIVE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "43",
@@ -3607,7 +3607,7 @@
     "boucle": "",
     "slug": "celine-gacon",
     "prenomNOM1": "Céline GACON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "43",
@@ -3643,7 +3643,7 @@
     "boucle": "https://chat.whatsapp.com/DVUwiinRWC1AVyGLelZ3is",
     "slug": "karim-benbrahim",
     "prenomNOM1": "Karim BENBRAHIM",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3720,7 +3720,7 @@
     "boucle": "https://chat.whatsapp.com/LwMynSwhq6zHuCbEZnkDdz",
     "slug": "fabrice-roussel",
     "prenomNOM1": "Fabrice ROUSSEL",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3757,7 +3757,7 @@
     "boucle": "",
     "slug": "veronique-mahe",
     "prenomNOM1": "Véronique MAHE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "44",
@@ -3793,7 +3793,7 @@
     "boucle": "https://t.me/+RsVtAr-S0QI0NjE0",
     "slug": "helene-macon",
     "prenomNOM1": "Hélène MACON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "44",
@@ -3810,7 +3810,7 @@
     "boucle": "https://t.me/+nipf28W4vTYyNzQ0",
     "slug": "maxime-viancin",
     "prenomNOM1": "Maxime VIANCIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "45",
@@ -3827,7 +3827,7 @@
     "boucle": "",
     "slug": "ghislaine-kounowski",
     "prenomNOM1": "Ghislaine KOUNOWSKI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "45",
@@ -3844,7 +3844,7 @@
     "boucle": "",
     "slug": "emmanuel-duplessy",
     "prenomNOM1": "Emmanuel DUPLESSY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "45",
@@ -3861,7 +3861,7 @@
     "boucle": "https://x.com/ClementVerde",
     "slug": "clement-verde",
     "prenomNOM1": "Clément VERDE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "45",
@@ -3896,7 +3896,7 @@
     "boucle": "",
     "slug": "anne-laure-boutet",
     "prenomNOM1": "Anne-Laure BOUTET",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "45",
@@ -3967,7 +3967,7 @@
     "boucle": "",
     "slug": "paul-vo-van",
     "prenomNOM1": "Paul VO VAN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "47",
@@ -4002,7 +4002,7 @@
     "boucle": "",
     "slug": "xavier-czapla",
     "prenomNOM1": "Xavier CZAPLA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "48",
@@ -4039,7 +4039,7 @@
     "boucle": "",
     "slug": "elsa-richard",
     "prenomNOM1": "Elsa RICHARD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "49",
@@ -4056,7 +4056,7 @@
     "boucle": "",
     "slug": "leo-metayer",
     "prenomNOM1": "Léo MÉTAYER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "49",
@@ -4091,7 +4091,7 @@
     "boucle": "",
     "slug": "charline-bouvet",
     "prenomNOM1": "Charline BOUVET",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "49",
@@ -4108,7 +4108,7 @@
     "boucle": "",
     "slug": "france-moreau",
     "prenomNOM1": "France MOREAU",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "49",
@@ -4125,7 +4125,7 @@
     "boucle": "",
     "slug": "sylvie-gabin",
     "prenomNOM1": "Sylvie GABIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "49",
@@ -4142,7 +4142,7 @@
     "boucle": "",
     "slug": "guillaume-jouanneau",
     "prenomNOM1": "Guillaume JOUANNEAU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "50",
@@ -4195,7 +4195,7 @@
     "boucle": "",
     "slug": "gaelle-verove",
     "prenomNOM1": "Gaëlle VÉROVE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "50",
@@ -4231,7 +4231,7 @@
     "boucle": "",
     "slug": "evelyne-bourgoin",
     "prenomNOM1": "Evelyne BOURGOIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "51",
@@ -4248,7 +4248,7 @@
     "boucle": "https://framaforms.org/campagne-nouveau-front-populaire-reims-1718454856",
     "slug": "stephane-pirouelle",
     "prenomNOM1": "Stéphane PIROUELLE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "51",
@@ -4265,7 +4265,7 @@
     "boucle": "",
     "slug": "chantal-berthelemy",
     "prenomNOM1": "Chantal BERTHELEMY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "51",
@@ -4282,7 +4282,7 @@
     "boucle": "",
     "slug": "maxence-laurent",
     "prenomNOM1": "Maxence LAURENT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "51",
@@ -4299,7 +4299,7 @@
     "boucle": "",
     "slug": "chantal-berthelemy",
     "prenomNOM1": "Chantal BERTHÉLÉMY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "52",
@@ -4316,7 +4316,7 @@
     "boucle": "",
     "slug": "benjamin-lambert",
     "prenomNOM1": "Benjamin LAMBERT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "52",
@@ -4333,7 +4333,7 @@
     "boucle": "",
     "slug": "ingrid-viot",
     "prenomNOM1": "Ingrid VIOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "53",
@@ -4370,7 +4370,7 @@
     "boucle": "",
     "slug": "gregory-boisseau",
     "prenomNOM1": "Grégory BOISSEAU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "53",
@@ -4387,7 +4387,7 @@
     "boucle": "",
     "slug": "stephanie-lefoulon",
     "prenomNOM1": "Stéphanie LEFOULON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "54",
@@ -4404,7 +4404,7 @@
     "boucle": "",
     "slug": "estelle-mercier",
     "prenomNOM1": "Estelle MERCIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "54",
@@ -4440,7 +4440,7 @@
     "boucle": "",
     "slug": "martine-etienne",
     "prenomNOM1": "Martine ETIENNE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "54",
@@ -4457,7 +4457,7 @@
     "boucle": "",
     "slug": "barbara-bertozzi-bievelot",
     "prenomNOM1": "Barbara BERTOZZI BIEVELOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "54",
@@ -4532,7 +4532,7 @@
     "boucle": "",
     "slug": "johan-laflotte",
     "prenomNOM1": "Johan LAFLOTTE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "56",
@@ -4549,7 +4549,7 @@
     "boucle": "",
     "slug": "anne-gallo",
     "prenomNOM1": "Anne GALLO",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "56",
@@ -4566,7 +4566,7 @@
     "boucle": "",
     "slug": "jade-beniguel",
     "prenomNOM1": "Jade BÉNIGUEL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "56",
@@ -4583,7 +4583,7 @@
     "boucle": "",
     "slug": "marie-madeleine-dore-lucas",
     "prenomNOM1": "Marie-Madeleine DORE-LUCAS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "56",
@@ -4600,7 +4600,7 @@
     "boucle": "",
     "slug": "lhea-le-flecher",
     "prenomNOM1": "Lhéa LE FLECHER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "56",
@@ -4617,7 +4617,7 @@
     "boucle": "https://chat.whatsapp.com/EGp74TfhDP8KBwuB6P915S",
     "slug": "damien-girard",
     "prenomNOM1": "Damien GIRARD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "56",
@@ -4634,7 +4634,7 @@
     "boucle": "",
     "slug": "jean-michel-baudry",
     "prenomNOM1": "Jean-Michel BAUDRY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "57",
@@ -4724,7 +4724,7 @@
     "boucle": "",
     "slug": "lisa-lahore",
     "prenomNOM1": "Lisa LAHORE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "57",
@@ -4741,7 +4741,7 @@
     "boucle": "",
     "slug": "claire-bladt",
     "prenomNOM1": "Claire BLADT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "57",
@@ -4813,7 +4813,7 @@
     "boucle": "",
     "slug": "brice-larepe",
     "prenomNOM1": "Brice LARÈPE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "58",
@@ -4908,7 +4908,7 @@
     "boucle": "",
     "slug": "charlotte-brun",
     "prenomNOM1": "Charlotte BRUN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -4925,7 +4925,7 @@
     "boucle": "",
     "slug": "ophelie-delneste",
     "prenomNOM1": "Ophélie DELNESTE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -4960,7 +4960,7 @@
     "boucle": "",
     "slug": "karima-chouia",
     "prenomNOM1": "Karima CHOUIA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -4977,7 +4977,7 @@
     "boucle": "",
     "slug": "david-guiraud",
     "prenomNOM1": "David GUIRAUD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4994,7 +4994,7 @@
     "boucle": "",
     "slug": "odile-vidal-sagnier",
     "prenomNOM1": "Odile VIDAL-SAGNIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -5011,7 +5011,7 @@
     "boucle": "",
     "slug": "leslie-mortreux",
     "prenomNOM1": "Leslie MORTREUX",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -5048,7 +5048,7 @@
     "boucle": "",
     "slug": "bernard-baudoux",
     "prenomNOM1": "Bernard BAUDOUX",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -5065,7 +5065,7 @@
     "boucle": "",
     "slug": "damien-lacroix",
     "prenomNOM1": "Damien LACROIX",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -5082,7 +5082,7 @@
     "boucle": "",
     "slug": "philippine-heyman",
     "prenomNOM1": "Philippine HEYMAN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -5099,7 +5099,7 @@
     "boucle": "",
     "slug": "emilie-ducourant",
     "prenomNOM1": "Émilie DUCOURANT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -5136,7 +5136,7 @@
     "boucle": "",
     "slug": "frederic-chereau",
     "prenomNOM1": "Frederic CHEREAU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -5172,7 +5172,7 @@
     "boucle": "",
     "slug": "cedric-brun",
     "prenomNOM1": "Cédric BRUN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -5209,7 +5209,7 @@
     "boucle": "",
     "slug": "pierrick-colpin",
     "prenomNOM1": "Pierrick COLPIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "60",
@@ -5226,7 +5226,7 @@
     "boucle": "",
     "slug": "roxane-lundy",
     "prenomNOM1": "Roxane LUNDY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "60",
@@ -5243,7 +5243,7 @@
     "boucle": "",
     "slug": "marianne-seck",
     "prenomNOM1": "Marianne SECK",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "60",
@@ -5260,7 +5260,7 @@
     "boucle": "",
     "slug": "amadou-ka",
     "prenomNOM1": "Amadou KA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "60",
@@ -5277,7 +5277,7 @@
     "boucle": "",
     "slug": "mohamed-assamti",
     "prenomNOM1": "Mohamed ASSAMTI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "60",
@@ -5368,7 +5368,7 @@
     "boucle": "",
     "slug": "guillaume-sacriste",
     "prenomNOM1": "Guillaume SACRISTE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "61",
@@ -5403,7 +5403,7 @@
     "boucle": "",
     "slug": "jean-michel-sauvage",
     "prenomNOM1": "Jean-Michel SAUVAGE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5420,7 +5420,7 @@
     "boucle": "",
     "slug": "alexandre-cousin",
     "prenomNOM1": "Alexandre COUSIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5474,7 +5474,7 @@
     "boucle": "",
     "slug": "olivier-barbarin",
     "prenomNOM1": "Olivier BARBARIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5491,7 +5491,7 @@
     "boucle": "",
     "slug": "aurore-pageaud",
     "prenomNOM1": "Aurore PAGEAUD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "62",
@@ -5508,7 +5508,7 @@
     "boucle": "",
     "slug": "jean-pierre-moussally",
     "prenomNOM1": "Jean-Pierre MOUSSALLY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5525,7 +5525,7 @@
     "boucle": "",
     "slug": "bertand-petit",
     "prenomNOM1": "Bertand PETIT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5542,7 +5542,7 @@
     "boucle": "",
     "slug": "estelle-harremoes",
     "prenomNOM1": "Estelle HARREMOES",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "62",
@@ -5559,7 +5559,7 @@
     "boucle": "",
     "slug": "sandrine-coquerie",
     "prenomNOM1": "Sandrine COQUERIE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "62",
@@ -5594,7 +5594,7 @@
     "boucle": "",
     "slug": "alain-bavay",
     "prenomNOM1": "Alain BAVAY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "63",
@@ -5651,7 +5651,7 @@
     "boucle": "",
     "slug": "nicolas-bonnet",
     "prenomNOM1": "Nicolas BONNET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "63",
@@ -5706,7 +5706,7 @@
     "boucle": "",
     "slug": "jean-sanroman",
     "prenomNOM1": "Jean SANROMAN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "64",
@@ -5723,7 +5723,7 @@
     "boucle": "",
     "slug": "julien-brunel",
     "prenomNOM1": "Julien BRUNEL",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "64",
@@ -5740,7 +5740,7 @@
     "boucle": "",
     "slug": "joelle-losson",
     "prenomNOM1": "Joëlle LOSSON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "64",
@@ -5757,7 +5757,7 @@
     "boucle": "",
     "slug": "inaki-echaniz",
     "prenomNOM1": "Iñaki ECHANIZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "64",
@@ -5794,7 +5794,7 @@
     "boucle": "",
     "slug": "peio-dufau",
     "prenomNOM1": "Peio DUFAU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "65",
@@ -5849,7 +5849,7 @@
     "boucle": "",
     "slug": "francis-daspe",
     "prenomNOM1": "Francis DASPE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "66",
@@ -5866,7 +5866,7 @@
     "boucle": "",
     "slug": "david-berrue",
     "prenomNOM1": "David BERRUÉ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "66",
@@ -5883,7 +5883,7 @@
     "boucle": "",
     "slug": "nathalie-cullel",
     "prenomNOM1": "Nathalie CULLEL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "66",
@@ -5900,7 +5900,7 @@
     "boucle": "",
     "slug": "julien-baraille",
     "prenomNOM1": "Julien BARAILLÉ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -5957,7 +5957,7 @@
     "boucle": "",
     "slug": "thierry-sother",
     "prenomNOM1": "Thierry SOTHER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -5974,7 +5974,7 @@
     "boucle": "",
     "slug": "raphaele-krattinger",
     "prenomNOM1": "Raphaële KRATTINGER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "67",
@@ -5991,7 +5991,7 @@
     "boucle": "",
     "slug": "marc-ruhlmann",
     "prenomNOM1": "Marc RUHLMANN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -6026,7 +6026,7 @@
     "boucle": "",
     "slug": "serge-bloch",
     "prenomNOM1": "Serge BLOCH",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -6043,7 +6043,7 @@
     "boucle": "",
     "slug": "myriam-zekagh",
     "prenomNOM1": "Myriam ZEKAGH",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "67",
@@ -6078,7 +6078,7 @@
     "boucle": "",
     "slug": "aicha-fritsch",
     "prenomNOM1": "Aïcha FRITSCH",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "68",
@@ -6095,7 +6095,7 @@
     "boucle": "https://t.me/+1islAgIT-XgxZTdk",
     "slug": "lilian-bourgeois",
     "prenomNOM1": "Lilian BOURGEOIS",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "68",
@@ -6112,7 +6112,7 @@
     "boucle": "",
     "slug": "benedicte-viroulet",
     "prenomNOM1": "Bénédicte VIROULET",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "68",
@@ -6129,7 +6129,7 @@
     "boucle": "",
     "slug": "simone-fest",
     "prenomNOM1": "Simone FEST",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "68",
@@ -6164,7 +6164,7 @@
     "boucle": "",
     "slug": "florence-claudepierre",
     "prenomNOM1": "Florence CLAUDEPIERRE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -6181,7 +6181,7 @@
     "boucle": "",
     "slug": "anais-belouassa-cherifi",
     "prenomNOM1": "Anaïs BELOUASSA CHERIFI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -6291,7 +6291,7 @@
     "boucle": "",
     "slug": "abdelkader-lahmar",
     "prenomNOM1": "Abdelkader LAHMAR",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -6308,7 +6308,7 @@
     "boucle": "",
     "slug": "anne-reymbaut",
     "prenomNOM1": "Anne REYMBAUT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -6325,7 +6325,7 @@
     "boucle": "https://t.me/frontpopulaire9emecirco69",
     "slug": "jean-henri-soumireu-lartigue",
     "prenomNOM1": "Jean-Henri SOUMIREU-LARTIGUE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -6342,7 +6342,7 @@
     "boucle": "",
     "slug": "florence-perrin",
     "prenomNOM1": "Florence PERRIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -6395,7 +6395,7 @@
     "boucle": "https://actionpopulaire.fr/groupes/235c7d1a-29c0-47f3-abee-d20a3e27133a/",
     "slug": "victor-prandt",
     "prenomNOM1": "Victor PRANDT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -6431,7 +6431,7 @@
     "boucle": "",
     "slug": "sebastien-poyard",
     "prenomNOM1": "Sébastien POYARD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "70",
@@ -6448,7 +6448,7 @@
     "boucle": "",
     "slug": "eric-houllez",
     "prenomNOM1": "Eric HOULLEZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "71",
@@ -6465,7 +6465,7 @@
     "boucle": "",
     "slug": "jean-luc-deulpeuch",
     "prenomNOM1": "Jean-Luc DEULPEUCH",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "71",
@@ -6482,7 +6482,7 @@
     "boucle": "",
     "slug": "sebastien-gautheron",
     "prenomNOM1": "Sébastien GAUTHERON",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "71",
@@ -6537,7 +6537,7 @@
     "boucle": "",
     "slug": "fatima-kouriche",
     "prenomNOM1": "Fatima KOURICHE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "72",
@@ -6591,7 +6591,7 @@
     "boucle": "",
     "slug": "mathilde-jack",
     "prenomNOM1": "Mathilde JACK",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "72",
@@ -6608,7 +6608,7 @@
     "boucle": "",
     "slug": "elise-leboucher",
     "prenomNOM1": "Elise LEBOUCHER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "72",
@@ -6625,7 +6625,7 @@
     "boucle": "",
     "slug": "christophe-rouillon",
     "prenomNOM1": "Christophe ROUILLON",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "73",
@@ -6642,7 +6642,7 @@
     "boucle": "",
     "slug": "christel-granata",
     "prenomNOM1": "Christel GRANATA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "73",
@@ -6659,7 +6659,7 @@
     "boucle": "",
     "slug": "pascale-martinot",
     "prenomNOM1": "Pascale MARTINOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "73",
@@ -6676,7 +6676,7 @@
     "boucle": "",
     "slug": "daniel-ibanez",
     "prenomNOM1": "Daniel IBANEZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "73",
@@ -6713,7 +6713,7 @@
     "boucle": "",
     "slug": "anne-valerie-duval",
     "prenomNOM1": "Anne-Valérie DUVAL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "74",
@@ -6731,7 +6731,7 @@
     "slug": "guillaume-tatu",
     "wikidata": "Q90242867",
     "prenomNOM1": "Guillaume TATU",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "74",
@@ -6766,7 +6766,7 @@
     "boucle": "",
     "slug": "dominique-lachenal",
     "prenomNOM1": "Dominique LACHENAL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "74",
@@ -6783,7 +6783,7 @@
     "boucle": "",
     "slug": "jean-baptiste-baud",
     "prenomNOM1": "Jean-Baptiste BAUD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "74",
@@ -6800,7 +6800,7 @@
     "boucle": "",
     "slug": "delphine-vuagnoux",
     "prenomNOM1": "Delphine VUAGNOUX",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6871,7 +6871,7 @@
     "boucle": "",
     "slug": "thea-fourdrinier",
     "prenomNOM1": "Théa FOURDRINIER",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6987,7 +6987,7 @@
     "boucle": "",
     "slug": "rodrigo-arenas",
     "prenomNOM1": "Rodrigo ARENAS",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "75",
@@ -7058,7 +7058,7 @@
     "boucle": "https://chat.whatsapp.com/Kdm4KT5Q2752orqfEcWGHx",
     "slug": "hugo-rota",
     "prenomNOM1": "Hugo ROTA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "75",
@@ -7152,7 +7152,7 @@
     "boucle": "https://chat.whatsapp.com/FrRLzrhCsdMCs4tzqO7GuZ",
     "slug": "vincent-decorde",
     "prenomNOM1": "Vincent DECORDE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -7169,7 +7169,7 @@
     "boucle": "",
     "slug": "edouard-benard",
     "prenomNOM1": "Édouard BÉNARD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -7246,7 +7246,7 @@
     "boucle": "",
     "slug": "florence-martin-pereon",
     "prenomNOM1": "Florence MARTIN-PÉRÉON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "76",
@@ -7283,7 +7283,7 @@
     "boucle": "",
     "slug": "christiane-rouxel",
     "prenomNOM1": "Christiane ROUXEL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "76",
@@ -7300,7 +7300,7 @@
     "boucle": "",
     "slug": "handy-barre",
     "prenomNOM1": "Handy BARRÉ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "77",
@@ -7328,14 +7328,14 @@
     "prenom1": "Nour",
     "prenomNom1": "Nour Benaissa-Watbot",
     "twitter": "cyranoour",
-    "instagram": "\nnour.benaissawatbot",
-    "facebook": "",
+    "instagram": "nour.benaissawatbot",
+    "facebook": "nbenaissawatbot",
     "facebookUrl": "",
     "site": "https://scanned.page/p/666aff4006473",
     "boucle": "https://scanned.page/666aff4006473",
     "slug": "nour-benaissa-watbot",
     "prenomNOM1": "Nour BENAISSA-WATBOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -7352,7 +7352,7 @@
     "boucle": "",
     "slug": "laura-vallee-hans",
     "prenomNOM1": "Laura VALLÉE-HANS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -7369,7 +7369,7 @@
     "boucle": "",
     "slug": "mathieu-garnier",
     "prenomNOM1": "Mathieu GARNIER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "77",
@@ -7386,7 +7386,7 @@
     "boucle": "https://t.me/+r-ItxaX5tcoxNDU0",
     "slug": "laurie-caenberg",
     "prenomNOM1": "Laurie CAENBERG",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -7441,7 +7441,7 @@
     "boucle": "https://airtable.com/apprbZihCDuElEZAy/shrGx0pZFX7raNDfs",
     "slug": "arnaud-bonnet",
     "prenomNOM1": "Arnaud BONNET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "77",
@@ -7458,7 +7458,7 @@
     "boucle": "https://chat.whatsapp.com/CvgUl4EF7LtFbLtOfU6Vyx",
     "slug": "celine-thiebault-martinez",
     "prenomNOM1": "Céline THIÉBAULT-MARTINEZ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -7533,7 +7533,7 @@
     "boucle": "",
     "slug": "maite-carrive-bedouani",
     "prenomNOM1": "Maïté CARRIVE-BEDOUANI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "78",
@@ -7550,7 +7550,7 @@
     "boucle": "",
     "slug": "thomas-ciano",
     "prenomNOM1": "Thomas CIANO",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7567,7 +7567,7 @@
     "boucle": "",
     "slug": "celine-bourdon",
     "prenomNOM1": "Céline BOURDON",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "78",
@@ -7677,7 +7677,7 @@
     "boucle": "",
     "slug": "cedric-briolais",
     "prenomNOM1": "Cédric BRIOLAIS",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7714,7 +7714,7 @@
     "boucle": "",
     "slug": "christophe-massiaux",
     "prenomNOM1": "Christophe MASSIAUX",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "79",
@@ -7769,7 +7769,7 @@
     "boucle": "",
     "slug": "juliette-woillez",
     "prenomNOM1": "Juliette WOILLEZ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "80",
@@ -7806,7 +7806,7 @@
     "boucle": "",
     "slug": "zahia-hamdane",
     "prenomNOM1": "Zahia HAMDANE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "80",
@@ -7843,7 +7843,7 @@
     "boucle": "",
     "slug": "elodie-heren",
     "prenomNOM1": "Elodie HEREN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "80",
@@ -7860,7 +7860,7 @@
     "boucle": "",
     "slug": "simon-mauget",
     "prenomNOM1": "Simon MAUGET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "81",
@@ -7877,7 +7877,7 @@
     "boucle": "",
     "slug": "margot-lapeyre",
     "prenomNOM1": "Margot LAPEYRE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "81",
@@ -7913,7 +7913,7 @@
     "boucle": "https://linktr.ee/julienlassalle",
     "slug": "julien-lassalle",
     "prenomNOM1": "Julien LASSALLE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "82",
@@ -7950,7 +7950,7 @@
     "boucle": "",
     "slug": "claudie-chretien",
     "prenomNOM1": "Claudie CHRÉTIEN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -7967,7 +7967,7 @@
     "boucle": "",
     "slug": "eric-habouzit",
     "prenomNOM1": "Eric HABOUZIT",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "83",
@@ -7984,7 +7984,7 @@
     "boucle": "",
     "slug": "isaline-cornil",
     "prenomNOM1": "Isaline CORNIL",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -8001,7 +8001,7 @@
     "boucle": "",
     "slug": "julia-peironet-bremond",
     "prenomNOM1": "Julia PEIRONET-BRÉMOND",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -8018,7 +8018,7 @@
     "boucle": "",
     "slug": "sabine-cristofani-viglione",
     "prenomNOM1": "Sabine CRISTOFANI-VIGLIONE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -8035,7 +8035,7 @@
     "boucle": "",
     "slug": "aurelien-lacour",
     "prenomNOM1": "Aurelien LACOUR",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "83",
@@ -8052,7 +8052,7 @@
     "boucle": "",
     "slug": "sylvie-vinceneux",
     "prenomNOM1": "Sylvie VINCENEUX",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -8069,7 +8069,7 @@
     "boucle": "",
     "slug": "claudie-cartereau",
     "prenomNOM1": "Claudie CARTEREAU",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "83",
@@ -8086,7 +8086,7 @@
     "boucle": "",
     "slug": "sarah-breffy",
     "prenomNOM1": "Sarah BREFFY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "84",
@@ -8122,7 +8122,7 @@
     "boucle": "",
     "slug": "francois-sandoz",
     "prenomNOM1": "François SANDOZ",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "84",
@@ -8139,7 +8139,7 @@
     "boucle": "",
     "slug": "muriel-duenas",
     "prenomNOM1": "Muriel DUENAS",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "84",
@@ -8156,7 +8156,7 @@
     "boucle": "",
     "slug": "monia-galvez",
     "prenomNOM1": "Monia GALVEZ",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "84",
@@ -8173,7 +8173,7 @@
     "boucle": "",
     "slug": "celine-celce",
     "prenomNOM1": "Céline CELCE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "85",
@@ -8208,7 +8208,7 @@
     "boucle": "",
     "slug": "nicolas-helary",
     "prenomNOM1": "Nicolas HELARY",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "85",
@@ -8225,7 +8225,7 @@
     "boucle": "",
     "slug": "pascale-marchand",
     "prenomNOM1": "Pascale MARCHAND",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "85",
@@ -8242,7 +8242,7 @@
     "boucle": "",
     "slug": "julie-mariel-godard",
     "prenomNOM1": "Julie MARIEL-GODARD",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "85",
@@ -8259,7 +8259,7 @@
     "boucle": "",
     "slug": "pierre-hugues-fourage",
     "prenomNOM1": "Pierre-Hugues FOURAGE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "86",
@@ -8292,11 +8292,12 @@
     "instagram": "circo8602",
     "facebook": "Vienne86Circo2",
     "facebookUrl": "",
-    "site": "https://www.tiktok.com/@circo8602",
+    "tiktok": "circo8602",
+    "site": "",
     "boucle": "https://t.me/+G0eev9GT1XoxZTU8",
     "slug": "valerie-soumaille",
     "prenomNOM1": "Valérie SOUMAILLE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "86",
@@ -8332,7 +8333,7 @@
     "boucle": "",
     "slug": "yves-trouselle",
     "prenomNOM1": "Yves TROUSELLE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "87",
@@ -8407,7 +8408,7 @@
     "boucle": "",
     "slug": "dominique-perrin",
     "prenomNOM1": "Dominique PERRIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "88",
@@ -8424,7 +8425,7 @@
     "boucle": "",
     "slug": "julie-xicola",
     "prenomNOM1": "Julie XICOLA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "88",
@@ -8441,7 +8442,7 @@
     "boucle": "",
     "slug": "etienne-bachelart",
     "prenomNOM1": "Étienne BACHELART",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "88",
@@ -8458,7 +8459,7 @@
     "boucle": "",
     "slug": "francois-xavier-wein",
     "prenomNOM1": "François Xavier WEIN",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "89",
@@ -8511,7 +8512,7 @@
     "boucle": "",
     "slug": "nicolas-soret",
     "prenomNOM1": "Nicolas SORET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "90",
@@ -8528,7 +8529,7 @@
     "boucle": "",
     "slug": "marie-eve-belorgey",
     "prenomNOM1": "Marie-Eve BELORGEY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "90",
@@ -8585,7 +8586,7 @@
     "boucle": "",
     "slug": "mathieu-hillaire",
     "prenomNOM1": "Mathieu HILLAIRE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8602,7 +8603,7 @@
     "boucle": "https://chat.whatsapp.com/CMLxhstHxgCLh6euaIyr19",
     "slug": "steevy-gustave",
     "prenomNOM1": "Steevy GUSTAVE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8676,7 +8677,7 @@
     "boucle": "https://chat.whatsapp.com/J4FXNZILyAQIZlolE5zW6i",
     "slug": "claire-lejeune",
     "prenomNOM1": "Claire LEJEUNE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "91",
@@ -8693,7 +8694,7 @@
     "boucle": "",
     "slug": "beranger-cernon",
     "prenomNOM1": "Béranger CERNON",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8710,7 +8711,7 @@
     "boucle": "",
     "slug": "julie-ozenne",
     "prenomNOM1": "Julie OZENNE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "91",
@@ -8843,7 +8844,7 @@
     "boucle": "",
     "slug": "sihame-muscianisi",
     "prenomNOM1": "Sihame MUSCIANISI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8860,7 +8861,7 @@
     "boucle": "",
     "slug": "lucas-peyret",
     "prenomNOM1": "Lucas PEYRET",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8877,7 +8878,7 @@
     "boucle": "",
     "slug": "salome-nicolas-chavance",
     "prenomNOM1": "Salomé NICOLAS-CHAVANCE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8894,7 +8895,7 @@
     "boucle": "https://chat.whatsapp.com/DTqL5uafCmH2iEM4mdorpM",
     "slug": "pauline-rapilly-ferniot",
     "prenomNOM1": "Pauline RAPILLY FERNIOT",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8911,7 +8912,7 @@
     "boucle": "https://chat.whatsapp.com/LUh7Kapleyi6ohouVuNgUg",
     "slug": "cecile-soubelet",
     "prenomNOM1": "Cécile SOUBELET",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -9043,7 +9044,7 @@
     "boucle": "",
     "slug": "soumya-bourouhaha",
     "prenomNOM1": "Soumya BOUROUHAHA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "93",
@@ -9238,7 +9239,7 @@
     "boucle": "https://forms.gle/gRoHESkbcenxfhzy7",
     "slug": "adel-amara",
     "prenomNOM1": "Adel AMARA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -9255,7 +9256,7 @@
     "boucle": "",
     "slug": "julien-leger",
     "prenomNOM1": "Julien LEGER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "94",
@@ -9272,7 +9273,7 @@
     "boucle": "",
     "slug": "may-bouhada",
     "prenomNOM1": "May BOUHADA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -9386,7 +9387,7 @@
     "boucle": "",
     "slug": "maximilien-jules-arthur",
     "prenomNOM1": "Maximilien JULES-ARTHUR",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -9403,7 +9404,7 @@
     "boucle": "",
     "slug": "ayda-hadizadeh",
     "prenomNOM1": "Ayda HADIZADEH",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "95",
@@ -9440,7 +9441,7 @@
     "boucle": "",
     "slug": "karine-lacouture",
     "prenomNOM1": "Karine LACOUTURE",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "95",
@@ -9457,7 +9458,7 @@
     "boucle": "",
     "slug": "paul-vannier",
     "prenomNOM1": "Paul VANNIER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -9474,7 +9475,7 @@
     "boucle": "",
     "slug": "gabrielle-cathala",
     "prenomNOM1": "Gabrielle CATHALA",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "95",
@@ -9566,7 +9567,7 @@
     "boucle": "",
     "slug": "oussama-laraichi",
     "prenomNOM1": "Oussama LARAICHI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "99",
@@ -9657,7 +9658,7 @@
     "boucle": "",
     "slug": "halina-delimi",
     "prenomNOM1": "Halina DELIMI",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9674,7 +9675,7 @@
     "boucle": "",
     "slug": "asma-rharmaoui-claquin",
     "prenomNOM1": "Asma RHARMAOUI-CLAQUIN",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9766,7 +9767,7 @@
     "boucle": "",
     "slug": "olivier-serva",
     "prenomNOM1": "Olivier SERVA",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "971",
@@ -9783,7 +9784,7 @@
     "boucle": "",
     "slug": "christian-baptiste",
     "prenomNOM1": "Christian BAPTISTE",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "971",
@@ -9800,7 +9801,7 @@
     "boucle": "",
     "slug": "elie-kalifer",
     "prenomNOM1": "Elie KALIFER",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "972",
@@ -9817,7 +9818,7 @@
     "boucle": "",
     "slug": "william-giovanni",
     "prenomNOM1": "William GIOVANNI",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "972",
@@ -9834,7 +9835,7 @@
     "boucle": "",
     "slug": "marcellin-nadaud",
     "prenomNOM1": "Marcellin NADAUD",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "972",
@@ -9851,7 +9852,7 @@
     "boucle": "",
     "slug": "johnny-ahjjar",
     "prenomNOM1": "Johnny AHJJAR",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "972",
@@ -9945,7 +9946,8 @@
     "boucle": "https://actionpopulaire.fr/groupes/ddf5f510-2b6d-4038-808a-0918405549ce/",
     "slug": "alexis-chaussalet",
     "prenomNOM1": "Alexis CHAUSSALET",
-    "feminin1": null
+    "feminin1": true,
+    "siteCampagne": "https://alexischaussalet.re/"
   },
   {
     "departement": "974",
@@ -9962,7 +9964,7 @@
     "boucle": "",
     "slug": "emeline-k-bidy",
     "prenomNOM1": "Emeline K BIDY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "974",
@@ -10037,7 +10039,7 @@
     "boucle": "",
     "slug": "yasmina-aouny",
     "prenomNOM1": "Yasmina AOUNY",
-    "feminin1": null
+    "feminin1": true
   },
   {
     "departement": "976",
@@ -10054,7 +10056,7 @@
     "boucle": "",
     "slug": "kira-bacar-adacolo",
     "prenomNOM1": "Kira BACAR ADACOLO",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "987",
@@ -10062,7 +10064,7 @@
     "nomDepartement": "Polynésie française",
     "nom1": "Le Gayic",
     "prenom1": "Temata'i",
-    "prenomNom1": "Temata'i Le Gayic",
+    "prenomNom1": "Q112630812",
     "twitter": "",
     "instagram": "",
     "facebook": "",
@@ -10071,7 +10073,7 @@
     "boucle": "",
     "slug": "tematai-le-gayic",
     "prenomNOM1": "Temata'i LE GAYIC",
-    "feminin1": null
+    "feminin1": false
   },
   {
     "departement": "987",
