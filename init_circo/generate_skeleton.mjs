@@ -118,7 +118,7 @@ return `
         <!-- <p>Présentation</p> -->
         <ul>
           ${site ? `<li><a target="_blank" href="${site}">${new URL(site).host + new URL(site).pathname}</a></li>` : ''}
-          ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/${encodeURIComponent(wikipediaTitle)}">wikipediaTitle</a></li>` : ''}
+          ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/${encodeURIComponent(wikipediaTitle)}">Wikipedia</a></li>` : ''}
           ${assembleeNationalUrl ? `<li><a target="_blank" href="${assembleeNationalUrl}">Page sur le site de l'Assemblée Nationale</a></li>` : ''}
           ${nosDeputesUrl ? `<li><a target="_blank" href="${nosDeputesUrl}">Page sur nosdeputes.fr</a></li>` : ''}
           ${viePublicUrl ? `<li><a target="_blank" href="${viePublicUrl}">Page sur vie-publique.fr</a></li>` : ''}
@@ -264,11 +264,8 @@ ${
 
 <section class="footer">
   <p>
-    <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibilier sa campagne.
+    <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibilier sa campagne. Si une page web dédiée à la campagne existe déjà, merci de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous en informer</a> pour que la présente page redirige vers celle-ci. Si vous avez des notions de HTML, vous pouvez contribuer à améliorer cette page directement depuis son <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/${slug}/index.html">code source</a>. Si ce n'est pas votre cas, le plus simple est encore de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous écrire</a>.
   </p>
-  <span>
-    <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">Contact</a> - <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/${slug}">Code source</a>
-  </span>
 </section>
 
 </body>
