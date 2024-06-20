@@ -13,7 +13,8 @@
     "site": "",
     "boucle": "",
     "slug": "sebastien-gueraud",
-    "prenomNOM1": "Sébastien GUERAUD"
+    "prenomNOM1": "Sébastien GUERAUD",
+    "feminin1": false
   },
   {
     "departement": "01",
@@ -30,7 +31,8 @@
     "boucle": "https://chat.whatsapp.com/C2rvetzaYeh6nREjA4oGpU",
     "slug": "maxime-meyer",
     "wikidata": "Q516375",
-    "prenomNOM1": "Maxime MEYER"
+    "prenomNOM1": "Maxime MEYER",
+    "feminin1": false
   },
   {
     "departement": "01",
@@ -46,7 +48,8 @@
     "site": "",
     "boucle": "",
     "slug": "christian-jolie",
-    "prenomNOM1": "Christian JOLIE"
+    "prenomNOM1": "Christian JOLIE",
+    "feminin1": false
   },
   {
     "departement": "01",
@@ -62,7 +65,8 @@
     "site": "",
     "boucle": "",
     "slug": "charline-liotier",
-    "prenomNOM1": "Charline LIOTIER"
+    "prenomNOM1": "Charline LIOTIER",
+    "feminin1": null
   },
   {
     "departement": "01",
@@ -78,7 +82,8 @@
     "site": "",
     "boucle": "",
     "slug": "florence-pisani",
-    "prenomNOM1": "Florence PISANI"
+    "prenomNOM1": "Florence PISANI",
+    "feminin1": null
   },
   {
     "departement": "02",
@@ -94,7 +99,8 @@
     "site": "",
     "boucle": "",
     "slug": "charles-culioli",
-    "prenomNOM1": "Charles CULIOLI"
+    "prenomNOM1": "Charles CULIOLI",
+    "feminin1": null
   },
   {
     "departement": "02",
@@ -110,7 +116,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-sophie-dujancourt",
-    "prenomNOM1": "Anne-Sophie DUJANCOURT"
+    "prenomNOM1": "Anne-Sophie DUJANCOURT",
+    "feminin1": null
   },
   {
     "departement": "02",
@@ -129,7 +136,8 @@
     "wikidata": "Q3166655",
     "wikipediaTitle": "Jean-Louis Bricout",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis%20Bricout.jpg?width=1000",
-    "prenomNOM1": "Jean-Louis BRICOUT"
+    "prenomNOM1": "Jean-Louis BRICOUT",
+    "feminin1": false
   },
   {
     "departement": "02",
@@ -145,7 +153,8 @@
     "site": "",
     "boucle": "",
     "slug": "lola-prie",
-    "prenomNOM1": "Lola PRIÉ"
+    "prenomNOM1": "Lola PRIÉ",
+    "feminin1": null
   },
   {
     "departement": "02",
@@ -162,7 +171,8 @@
     "boucle": "",
     "slug": "karim-belaid",
     "wikidata": "Q102271788",
-    "prenomNOM1": "Karim BELAÏD"
+    "prenomNOM1": "Karim BELAÏD",
+    "feminin1": false
   },
   {
     "departement": "03",
@@ -181,7 +191,8 @@
     "wikidata": "Q112638039",
     "wikipediaTitle": "Yannick Monnet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Yannick%20Monnet%20%C3%A0%20la%20F%C3%AAte%20de%20l%27Humanit%C3%A9%202023.jpg?width=1000",
-    "prenomNOM1": "Yannick MONNET"
+    "prenomNOM1": "Yannick MONNET",
+    "feminin1": false
   },
   {
     "departement": "03",
@@ -198,7 +209,8 @@
     "boucle": "https://t.me/+1c8rVHrZUhIwM2I0",
     "slug": "louise-heritier",
     "wikidata": "Q126596379",
-    "prenomNOM1": "Louise HERITIER"
+    "prenomNOM1": "Louise HERITIER",
+    "feminin1": true
   },
   {
     "departement": "03",
@@ -214,7 +226,8 @@
     "site": "",
     "boucle": "",
     "slug": "aline-jeudi",
-    "prenomNOM1": "Aline JEUDI"
+    "prenomNOM1": "Aline JEUDI",
+    "feminin1": null
   },
   {
     "departement": "04",
@@ -230,7 +243,8 @@
     "site": "https://felixblanc2024.com/",
     "boucle": "",
     "slug": "felix-blanc",
-    "prenomNOM1": "Félix BLANC"
+    "prenomNOM1": "Félix BLANC",
+    "feminin1": null
   },
   {
     "departement": "04",
@@ -248,7 +262,8 @@
     "slug": "leo-walter",
     "wikidata": "Q112570805",
     "wikipediaTitle": "Léo Walter",
-    "prenomNOM1": "Léo WALTER"
+    "prenomNOM1": "Léo WALTER",
+    "feminin1": false
   },
   {
     "departement": "05",
@@ -265,7 +280,8 @@
     "boucle": "",
     "slug": "marie-jose-allemand",
     "wikidata": "Q126688999",
-    "prenomNOM1": "Marie-José ALLEMAND"
+    "prenomNOM1": "Marie-José ALLEMAND",
+    "feminin1": true
   },
   {
     "departement": "05",
@@ -281,7 +297,8 @@
     "site": "",
     "boucle": "",
     "slug": "francis-cruz",
-    "prenomNOM1": "Françis CRUZ"
+    "prenomNOM1": "Françis CRUZ",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -297,7 +314,8 @@
     "site": "https://blogs.mediapart.fr/olivier-salerno/blog",
     "boucle": "",
     "slug": "olivier-salerno",
-    "prenomNOM1": "Olivier SALERNO"
+    "prenomNOM1": "Olivier SALERNO",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -313,7 +331,8 @@
     "site": "",
     "boucle": "",
     "slug": "leila-tonnerre",
-    "prenomNOM1": "Leïla TONNERRE"
+    "prenomNOM1": "Leïla TONNERRE",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -329,7 +348,8 @@
     "site": "",
     "boucle": "",
     "slug": "virigine-parent",
-    "prenomNOM1": "Virigine PARENT"
+    "prenomNOM1": "Virigine PARENT",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -345,7 +365,8 @@
     "site": "",
     "boucle": "",
     "slug": "fabrice-decoupigny",
-    "prenomNOM1": "Fabrice DECOUPIGNY"
+    "prenomNOM1": "Fabrice DECOUPIGNY",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -361,7 +382,8 @@
     "site": "",
     "boucle": "",
     "slug": "nicole-mazella",
-    "prenomNOM1": "Nicole MAZELLA"
+    "prenomNOM1": "Nicole MAZELLA",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -377,7 +399,8 @@
     "site": "",
     "boucle": "",
     "slug": "arthur-meyer-abatucci",
-    "prenomNOM1": "Arthur MEYER ABATUCCI"
+    "prenomNOM1": "Arthur MEYER ABATUCCI",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -393,7 +416,8 @@
     "site": "https://linktr.ee/upcannes",
     "boucle": "",
     "slug": "lucia-soudant",
-    "prenomNOM1": "Lucia SOUDANT"
+    "prenomNOM1": "Lucia SOUDANT",
+    "feminin1": null
   },
   {
     "departement": "06",
@@ -409,7 +433,8 @@
     "site": "",
     "boucle": "",
     "slug": "jose-garcia-abia",
-    "prenomNOM1": "José GARCIA ABIA"
+    "prenomNOM1": "José GARCIA ABIA",
+    "feminin1": null
   },
   {
     "departement": "07",
@@ -427,7 +452,8 @@
     "slug": "herve-saulignac",
     "wikidata": "Q19958573",
     "wikipediaTitle": "Hervé Saulignac",
-    "prenomNOM1": "Hervé SAULIGNAC"
+    "prenomNOM1": "Hervé SAULIGNAC",
+    "feminin1": false
   },
   {
     "departement": "07",
@@ -446,7 +472,8 @@
     "wikidata": "Q44742365",
     "wikipediaTitle": "Michèle Victory",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mvictory.jpg?width=1000",
-    "prenomNOM1": "Michèle VICTORY"
+    "prenomNOM1": "Michèle VICTORY",
+    "feminin1": true
   },
   {
     "departement": "07",
@@ -462,7 +489,8 @@
     "site": "",
     "boucle": "",
     "slug": "florence-pallot",
-    "prenomNOM1": "Florence PALLOT"
+    "prenomNOM1": "Florence PALLOT",
+    "feminin1": null
   },
   {
     "departement": "08",
@@ -478,7 +506,8 @@
     "site": "",
     "boucle": "",
     "slug": "damien-lerouge",
-    "prenomNOM1": "Damien LEROUGE"
+    "prenomNOM1": "Damien LEROUGE",
+    "feminin1": null
   },
   {
     "departement": "08",
@@ -494,7 +523,8 @@
     "site": "",
     "boucle": "",
     "slug": "gilles-loyez",
-    "prenomNOM1": "Gilles LOYEZ"
+    "prenomNOM1": "Gilles LOYEZ",
+    "feminin1": null
   },
   {
     "departement": "08",
@@ -511,7 +541,8 @@
     "boucle": "",
     "slug": "sophie-perrin",
     "wikidata": "Q59690445",
-    "prenomNOM1": "Sophie PERRIN"
+    "prenomNOM1": "Sophie PERRIN",
+    "feminin1": true
   },
   {
     "departement": "10",
@@ -527,7 +558,8 @@
     "site": "",
     "boucle": "",
     "slug": "alice-barry",
-    "prenomNOM1": "Alice BARRY"
+    "prenomNOM1": "Alice BARRY",
+    "feminin1": null
   },
   {
     "departement": "10",
@@ -543,7 +575,8 @@
     "site": "",
     "boucle": "",
     "slug": "samira-sebbari",
-    "prenomNOM1": "Samira SEBBARI"
+    "prenomNOM1": "Samira SEBBARI",
+    "feminin1": null
   },
   {
     "departement": "10",
@@ -560,7 +593,8 @@
     "boucle": "",
     "slug": "olivier-girardin",
     "wikidata": "Q62663955",
-    "prenomNOM1": "Olivier GIRARDIN"
+    "prenomNOM1": "Olivier GIRARDIN",
+    "feminin1": false
   },
   {
     "departement": "11",
@@ -579,7 +613,8 @@
     "wikidata": "Q2631198",
     "wikipediaTitle": "Philippe Poutou",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Poutou%202020%20%28cropped%29.png?width=1000",
-    "prenomNOM1": "Philippe POUTOU"
+    "prenomNOM1": "Philippe POUTOU",
+    "feminin1": false
   },
   {
     "departement": "11",
@@ -596,7 +631,8 @@
     "boucle": "",
     "slug": "viviane-thivent",
     "wikidata": "Q117387145",
-    "prenomNOM1": "Viviane THIVENT"
+    "prenomNOM1": "Viviane THIVENT",
+    "feminin1": true
   },
   {
     "departement": "11",
@@ -612,7 +648,8 @@
     "site": "",
     "boucle": "",
     "slug": "philippe-andrieu",
-    "prenomNOM1": "Philippe ANDRIEU"
+    "prenomNOM1": "Philippe ANDRIEU",
+    "feminin1": null
   },
   {
     "departement": "12",
@@ -628,7 +665,8 @@
     "site": "",
     "boucle": "",
     "slug": "leon-thebault",
-    "prenomNOM1": "Léon THEBAULT"
+    "prenomNOM1": "Léon THEBAULT",
+    "feminin1": null
   },
   {
     "departement": "12",
@@ -644,7 +682,8 @@
     "site": "https://www.laurent-alexandre.fr/",
     "boucle": "https://t.me/+77tGd75rFBgxMGNk",
     "slug": "laurent-alexandre",
-    "prenomNOM1": "Laurent ALEXANDRE"
+    "prenomNOM1": "Laurent ALEXANDRE",
+    "feminin1": null
   },
   {
     "departement": "12",
@@ -661,7 +700,8 @@
     "boucle": "",
     "slug": "richard-bouigue",
     "wikidata": "Q122863863",
-    "prenomNOM1": "Richard BOUIGUE"
+    "prenomNOM1": "Richard BOUIGUE",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -677,7 +717,8 @@
     "site": "",
     "boucle": "",
     "slug": "pascaline-lecorche",
-    "prenomNOM1": "Pascaline LECORCHÉ"
+    "prenomNOM1": "Pascaline LECORCHÉ",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -694,7 +735,8 @@
     "boucle": "",
     "slug": "laurent-lhardit",
     "wikidata": "Q118546910",
-    "prenomNOM1": "Laurent LHARDIT"
+    "prenomNOM1": "Laurent LHARDIT",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -713,7 +755,8 @@
     "wikidata": "Q111367946",
     "wikipediaTitle": "Amine Kessaci",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Amine%20Kessaci.jpg?width=1000",
-    "prenomNOM1": "Amine KESSACI"
+    "prenomNOM1": "Amine KESSACI",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -732,7 +775,8 @@
     "wikidata": "Q29575749",
     "wikipediaTitle": "Manuel Bompard",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Bompard%2020181222.jpg?width=1000",
-    "prenomNOM1": "Manuel BOMPARD"
+    "prenomNOM1": "Manuel BOMPARD",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -749,7 +793,8 @@
     "boucle": "",
     "slug": "allan-popelard",
     "wikidata": "Q126689307",
-    "prenomNOM1": "Allan POPELARD"
+    "prenomNOM1": "Allan POPELARD",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -765,7 +810,8 @@
     "site": "https://www.christine-juste.fr/",
     "boucle": "",
     "slug": "christine-juste",
-    "prenomNOM1": "Christine JUSTE"
+    "prenomNOM1": "Christine JUSTE",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -783,7 +829,8 @@
     "slug": "sebastien-delogu",
     "wikidata": "Q112640278",
     "wikipediaTitle": "Sébastien Delogu",
-    "prenomNOM1": "Sébastien DELOGU"
+    "prenomNOM1": "Sébastien DELOGU",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -799,7 +846,8 @@
     "site": "",
     "boucle": "",
     "slug": "alexandre-beddock",
-    "prenomNOM1": "Alexandre BEDDOCK"
+    "prenomNOM1": "Alexandre BEDDOCK",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -815,7 +863,8 @@
     "site": "",
     "boucle": "",
     "slug": "bernard-ougourlou-oglou",
-    "prenomNOM1": "Bernard OUGOURLOU-OGLOU"
+    "prenomNOM1": "Bernard OUGOURLOU-OGLOU",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -832,7 +881,8 @@
     "boucle": "",
     "slug": "jimmy-bessaih",
     "wikidata": "Q112652864",
-    "prenomNOM1": "Jimmy BESSAIH"
+    "prenomNOM1": "Jimmy BESSAIH",
+    "feminin1": true
   },
   {
     "departement": "13",
@@ -848,7 +898,8 @@
     "site": "",
     "boucle": "",
     "slug": "marc-pena",
-    "prenomNOM1": "Marc PENA"
+    "prenomNOM1": "Marc PENA",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -864,7 +915,8 @@
     "site": "",
     "boucle": "",
     "slug": "maryline-czurka",
-    "prenomNOM1": "Maryline CZURKA"
+    "prenomNOM1": "Maryline CZURKA",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -883,7 +935,8 @@
     "wikidata": "Q30334188",
     "wikipediaTitle": "Pierre Dharréville",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Dharr%C3%A9ville%20.jpg?width=1000",
-    "prenomNOM1": "Pierre DHARREVILLE"
+    "prenomNOM1": "Pierre DHARREVILLE",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -901,7 +954,8 @@
     "slug": "jean-david-ciot",
     "wikidata": "Q1281946",
     "wikipediaTitle": "Jean-David Ciot",
-    "prenomNOM1": "Jean-David CIOT"
+    "prenomNOM1": "Jean-David CIOT",
+    "feminin1": false
   },
   {
     "departement": "13",
@@ -917,7 +971,8 @@
     "site": "",
     "boucle": "",
     "slug": "wassila-aidarous",
-    "prenomNOM1": "Wassila AIDAROUS"
+    "prenomNOM1": "Wassila AIDAROUS",
+    "feminin1": null
   },
   {
     "departement": "13",
@@ -934,7 +989,8 @@
     "boucle": "",
     "slug": "nicolas-koukas",
     "wikidata": "Q63764565",
-    "prenomNOM1": "Nicolas KOUKAS"
+    "prenomNOM1": "Nicolas KOUKAS",
+    "feminin1": false
   },
   {
     "departement": "14",
@@ -952,7 +1008,8 @@
     "slug": "emma-fourreau",
     "wikidata": "Q126372922",
     "wikipediaTitle": "Emma Fourreau",
-    "prenomNOM1": "Emma FOURREAU"
+    "prenomNOM1": "Emma FOURREAU",
+    "feminin1": true
   },
   {
     "departement": "14",
@@ -970,7 +1027,8 @@
     "slug": "arthur-delaporte",
     "wikidata": "Q112641115",
     "wikipediaTitle": "Arthur Delaporte",
-    "prenomNOM1": "Arthur DELAPORTE"
+    "prenomNOM1": "Arthur DELAPORTE",
+    "feminin1": false
   },
   {
     "departement": "14",
@@ -986,7 +1044,8 @@
     "site": "",
     "boucle": "",
     "slug": "olivier-truffaut",
-    "prenomNOM1": "Olivier TRUFFAUT"
+    "prenomNOM1": "Olivier TRUFFAUT",
+    "feminin1": null
   },
   {
     "departement": "14",
@@ -1003,7 +1062,8 @@
     "boucle": "",
     "slug": "pierre-mouraret",
     "wikidata": "Q65594043",
-    "prenomNOM1": "Pierre MOURARET"
+    "prenomNOM1": "Pierre MOURARET",
+    "feminin1": false
   },
   {
     "departement": "14",
@@ -1020,7 +1080,8 @@
     "boucle": "",
     "slug": "thomas-dupont-federici",
     "wikidata": "Q98246768",
-    "prenomNOM1": "Thomas DUPONT FEDERICI"
+    "prenomNOM1": "Thomas DUPONT FEDERICI",
+    "feminin1": false
   },
   {
     "departement": "14",
@@ -1037,7 +1098,8 @@
     "boucle": "",
     "slug": "noe-gauchard",
     "wikidata": "Q126683288",
-    "prenomNOM1": "Noé GAUCHARD"
+    "prenomNOM1": "Noé GAUCHARD",
+    "feminin1": false
   },
   {
     "departement": "15",
@@ -1053,7 +1115,8 @@
     "site": "",
     "boucle": "",
     "slug": "veronique-rueda",
-    "prenomNOM1": "Véronique RUEDA"
+    "prenomNOM1": "Véronique RUEDA",
+    "feminin1": null
   },
   {
     "departement": "15",
@@ -1069,7 +1132,8 @@
     "site": "",
     "boucle": "",
     "slug": "zoe-pebay",
-    "prenomNOM1": "Zoé PEBAY"
+    "prenomNOM1": "Zoé PEBAY",
+    "feminin1": null
   },
   {
     "departement": "16",
@@ -1087,7 +1151,8 @@
     "slug": "rene-pilato",
     "wikidata": "Q116479877",
     "wikipediaTitle": "René Pilato",
-    "prenomNOM1": "René PILATO"
+    "prenomNOM1": "René PILATO",
+    "feminin1": false
   },
   {
     "departement": "16",
@@ -1103,7 +1168,8 @@
     "site": "",
     "boucle": "",
     "slug": "carole-ballu",
-    "prenomNOM1": "Carole BALLU"
+    "prenomNOM1": "Carole BALLU",
+    "feminin1": null
   },
   {
     "departement": "16",
@@ -1120,7 +1186,8 @@
     "boucle": "",
     "slug": "virginie-lebraud",
     "wikidata": "Q98251546",
-    "prenomNOM1": "Virginie LEBRAUD"
+    "prenomNOM1": "Virginie LEBRAUD",
+    "feminin1": true
   },
   {
     "departement": "17",
@@ -1137,7 +1204,8 @@
     "boucle": "",
     "slug": "jean-marc-soubeste",
     "wikidata": "Q126679491",
-    "prenomNOM1": "Jean-Marc SOUBESTE"
+    "prenomNOM1": "Jean-Marc SOUBESTE",
+    "feminin1": false
   },
   {
     "departement": "17",
@@ -1156,7 +1224,8 @@
     "wikidata": "Q63348995",
     "wikipediaTitle": "Benoît Biteau",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Beno%C3%AEt%20Biteau%2002-2024.jpg?width=1000",
-    "prenomNOM1": "Benoît BITEAU"
+    "prenomNOM1": "Benoît BITEAU",
+    "feminin1": false
   },
   {
     "departement": "17",
@@ -1173,7 +1242,8 @@
     "boucle": "",
     "slug": "fabrice-barusseau",
     "wikidata": "Q63765892",
-    "prenomNOM1": "Fabrice BARUSSEAU"
+    "prenomNOM1": "Fabrice BARUSSEAU",
+    "feminin1": false
   },
   {
     "departement": "17",
@@ -1189,7 +1259,8 @@
     "site": "",
     "boucle": "",
     "slug": "daniele-desselles",
-    "prenomNOM1": "Danièle DESSELLES"
+    "prenomNOM1": "Danièle DESSELLES",
+    "feminin1": null
   },
   {
     "departement": "17",
@@ -1205,7 +1276,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-brachet",
-    "prenomNOM1": "Anne BRACHET"
+    "prenomNOM1": "Anne BRACHET",
+    "feminin1": null
   },
   {
     "departement": "18",
@@ -1221,7 +1293,8 @@
     "site": "",
     "boucle": "",
     "slug": "hugo-lefelle",
-    "prenomNOM1": "Hugo LEFELLE"
+    "prenomNOM1": "Hugo LEFELLE",
+    "feminin1": null
   },
   {
     "departement": "18",
@@ -1239,7 +1312,8 @@
     "slug": "nicolas-sansu",
     "wikidata": "Q2506441",
     "wikipediaTitle": "Nicolas Sansu",
-    "prenomNOM1": "Nicolas SANSU"
+    "prenomNOM1": "Nicolas SANSU",
+    "feminin1": false
   },
   {
     "departement": "18",
@@ -1255,7 +1329,8 @@
     "site": "",
     "boucle": "",
     "slug": "emma-moreira",
-    "prenomNOM1": "Emma MOREIRA"
+    "prenomNOM1": "Emma MOREIRA",
+    "feminin1": null
   },
   {
     "departement": "19",
@@ -1274,7 +1349,8 @@
     "wikidata": "Q157",
     "wikipediaTitle": "François Hollande",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Francois%20Hollande%202015.jpeg?width=1000",
-    "prenomNOM1": "François HOLLANDE"
+    "prenomNOM1": "François HOLLANDE",
+    "feminin1": false
   },
   {
     "departement": "19",
@@ -1290,7 +1366,8 @@
     "site": "",
     "boucle": "",
     "slug": "amandine-dewaele",
-    "prenomNOM1": "Amandine DEWAELE"
+    "prenomNOM1": "Amandine DEWAELE",
+    "feminin1": null
   },
   {
     "departement": "21",
@@ -1306,7 +1383,8 @@
     "site": "https://www.linkedin.com/in/oc%C3%A9ane-godard-70477b15b/",
     "boucle": "",
     "slug": "oceane-godard",
-    "prenomNOM1": "Océane GODARD"
+    "prenomNOM1": "Océane GODARD",
+    "feminin1": null
   },
   {
     "departement": "21",
@@ -1323,7 +1401,8 @@
     "boucle": "",
     "slug": "catherine-hervieu",
     "wikidata": "Q112657434",
-    "prenomNOM1": "Catherine HERVIEU"
+    "prenomNOM1": "Catherine HERVIEU",
+    "feminin1": true
   },
   {
     "departement": "21",
@@ -1342,7 +1421,8 @@
     "wikidata": "Q3386685",
     "wikipediaTitle": "Pierre Pribetich",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Pribetich.jpg?width=1000",
-    "prenomNOM1": "Pierre PRIBETICH"
+    "prenomNOM1": "Pierre PRIBETICH",
+    "feminin1": false
   },
   {
     "departement": "21",
@@ -1358,7 +1438,8 @@
     "site": "",
     "boucle": "",
     "slug": "valerie-jacq",
-    "prenomNOM1": "Valérie JACQ"
+    "prenomNOM1": "Valérie JACQ",
+    "feminin1": null
   },
   {
     "departement": "21",
@@ -1375,7 +1456,8 @@
     "boucle": "",
     "slug": "jerome-flache",
     "wikidata": "Q65581635",
-    "prenomNOM1": "Jérôme FLACHE"
+    "prenomNOM1": "Jérôme FLACHE",
+    "feminin1": false
   },
   {
     "departement": "22",
@@ -1391,7 +1473,8 @@
     "site": "",
     "boucle": "",
     "slug": "marion-gorgiard",
-    "prenomNOM1": "Marion GORGIARD"
+    "prenomNOM1": "Marion GORGIARD",
+    "feminin1": null
   },
   {
     "departement": "22",
@@ -1408,7 +1491,8 @@
     "boucle": "",
     "slug": "jeremy-dauphin",
     "wikidata": "Q65576485",
-    "prenomNOM1": "Jeremy DAUPHIN"
+    "prenomNOM1": "Jeremy DAUPHIN",
+    "feminin1": false
   },
   {
     "departement": "22",
@@ -1425,7 +1509,8 @@
     "boucle": "",
     "slug": "antoine-ravard",
     "wikidata": "Q126722796",
-    "prenomNOM1": "Antoine RAVARD"
+    "prenomNOM1": "Antoine RAVARD",
+    "feminin1": false
   },
   {
     "departement": "22",
@@ -1443,7 +1528,8 @@
     "slug": "murielle-lepvraud",
     "wikidata": "Q112641643",
     "wikipediaTitle": "Murielle Lepvraud",
-    "prenomNOM1": "Murielle LEPVRAUD"
+    "prenomNOM1": "Murielle LEPVRAUD",
+    "feminin1": true
   },
   {
     "departement": "22",
@@ -1459,7 +1545,8 @@
     "site": "",
     "boucle": "",
     "slug": "marielle-lemaitre",
-    "prenomNOM1": "Marielle LEMAITRE"
+    "prenomNOM1": "Marielle LEMAITRE",
+    "feminin1": null
   },
   {
     "departement": "23",
@@ -1475,7 +1562,8 @@
     "site": "https://unionpopulaire23.avecjlmpour2022.fr/",
     "boucle": "https://t.me/CatherineCouturierCreuse",
     "slug": "catherine-couturier",
-    "prenomNOM1": "Catherine COUTURIER"
+    "prenomNOM1": "Catherine COUTURIER",
+    "feminin1": null
   },
   {
     "departement": "24",
@@ -1493,7 +1581,8 @@
     "slug": "pascale-martin",
     "wikidata": "Q112641704",
     "wikipediaTitle": "Pascale Martin",
-    "prenomNOM1": "Pascale MARTIN"
+    "prenomNOM1": "Pascale MARTIN",
+    "feminin1": true
   },
   {
     "departement": "24",
@@ -1510,7 +1599,8 @@
     "boucle": "",
     "slug": "christophe-cathus",
     "wikidata": "Q63348927",
-    "prenomNOM1": "Christophe CATHUS"
+    "prenomNOM1": "Christophe CATHUS",
+    "feminin1": false
   },
   {
     "departement": "24",
@@ -1526,7 +1616,8 @@
     "site": "",
     "boucle": "",
     "slug": "christelle-druillole",
-    "prenomNOM1": "Christelle DRUILLOLE"
+    "prenomNOM1": "Christelle DRUILLOLE",
+    "feminin1": null
   },
   {
     "departement": "24",
@@ -1545,7 +1636,8 @@
     "wikidata": "Q112641851",
     "wikipediaTitle": "Sébastien Peytavie",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9bastien%20Peytavie%20en%20manifestation%20contre%20la%20r%C3%A9forme%20des%20retraites.jpg?width=1000",
-    "prenomNOM1": "Sébastien PEYTAVIE"
+    "prenomNOM1": "Sébastien PEYTAVIE",
+    "feminin1": false
   },
   {
     "departement": "25",
@@ -1561,7 +1653,8 @@
     "site": "https://severinevezies.fr/",
     "boucle": "",
     "slug": "severine-vezies",
-    "prenomNOM1": "Séverine VEZIES"
+    "prenomNOM1": "Séverine VEZIES",
+    "feminin1": null
   },
   {
     "departement": "25",
@@ -1580,7 +1673,8 @@
     "wikidata": "Q268669",
     "wikipediaTitle": "Dominique Voynet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Voynet%20-%20Anti-EPR%20demonstration%20in%20Toulouse%200025%202007-03-17%20cropped.jpg?width=1000",
-    "prenomNOM1": "Dominique VOYNET"
+    "prenomNOM1": "Dominique VOYNET",
+    "feminin1": true
   },
   {
     "departement": "25",
@@ -1597,7 +1691,8 @@
     "boucle": "",
     "slug": "virginie-dayet",
     "wikidata": "Q98230051",
-    "prenomNOM1": "Virginie DAYET"
+    "prenomNOM1": "Virginie DAYET",
+    "feminin1": true
   },
   {
     "departement": "25",
@@ -1614,7 +1709,8 @@
     "boucle": "",
     "slug": "magali-duvernois",
     "wikidata": "Q63766242",
-    "prenomNOM1": "Magali DUVERNOIS"
+    "prenomNOM1": "Magali DUVERNOIS",
+    "feminin1": true
   },
   {
     "departement": "25",
@@ -1630,7 +1726,8 @@
     "site": "",
     "boucle": "",
     "slug": "matthieu-cassez",
-    "prenomNOM1": "Matthieu CASSEZ"
+    "prenomNOM1": "Matthieu CASSEZ",
+    "feminin1": null
   },
   {
     "departement": "26",
@@ -1647,7 +1744,8 @@
     "boucle": "https://chat.whatsapp.com/I4d0JKltPCl7B8IFWh2qqB",
     "slug": "paul-christophle",
     "wikidata": "Q96176039",
-    "prenomNOM1": "Paul CHRISTOPHLE"
+    "prenomNOM1": "Paul CHRISTOPHLE",
+    "feminin1": false
   },
   {
     "departement": "26",
@@ -1663,7 +1761,8 @@
     "site": "",
     "boucle": "",
     "slug": "karim-chkeri",
-    "prenomNOM1": "Karim CHKERI"
+    "prenomNOM1": "Karim CHKERI",
+    "feminin1": null
   },
   {
     "departement": "26",
@@ -1681,7 +1780,8 @@
     "slug": "marie-pochon",
     "wikidata": "Q112249169",
     "wikipediaTitle": "Marie Pochon",
-    "prenomNOM1": "Marie POCHON"
+    "prenomNOM1": "Marie POCHON",
+    "feminin1": true
   },
   {
     "departement": "26",
@@ -1697,7 +1797,8 @@
     "site": "",
     "boucle": "",
     "slug": "isabelle-pagani",
-    "prenomNOM1": "Isabelle PAGANI"
+    "prenomNOM1": "Isabelle PAGANI",
+    "feminin1": null
   },
   {
     "departement": "27",
@@ -1713,7 +1814,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/HkoO9rdfZm6DRAwMbIHxiB",
     "slug": "christine-le-bonte",
-    "prenomNOM1": "Christine LE BONTÉ"
+    "prenomNOM1": "Christine LE BONTÉ",
+    "feminin1": null
   },
   {
     "departement": "27",
@@ -1730,7 +1832,8 @@
     "boucle": "",
     "slug": "timour-veyri",
     "wikidata": "Q63313487",
-    "prenomNOM1": "Timour VEYRI"
+    "prenomNOM1": "Timour VEYRI",
+    "feminin1": false
   },
   {
     "departement": "27",
@@ -1746,7 +1849,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-christophe-turpin",
-    "prenomNOM1": "Jean-Christophe TURPIN"
+    "prenomNOM1": "Jean-Christophe TURPIN",
+    "feminin1": null
   },
   {
     "departement": "27",
@@ -1765,7 +1869,8 @@
     "wikidata": "Q112649913",
     "wikipediaTitle": "Philippe Brun",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/LOUVIERS%20-%204e%20circo%20Eure%20-%20Philippe%20Brun%20nouveau%20d%C3%A9put%C3%A9%2022%20juin%202022%20%281%29%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Philippe BRUN"
+    "prenomNOM1": "Philippe BRUN",
+    "feminin1": false
   },
   {
     "departement": "27",
@@ -1781,7 +1886,8 @@
     "site": "",
     "boucle": "",
     "slug": "pierre-yves-jourdain",
-    "prenomNOM1": "Pierre-Yves JOURDAIN"
+    "prenomNOM1": "Pierre-Yves JOURDAIN",
+    "feminin1": null
   },
   {
     "departement": "28",
@@ -1797,7 +1903,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-francois-bridet",
-    "prenomNOM1": "Jean-François BRIDET"
+    "prenomNOM1": "Jean-François BRIDET",
+    "feminin1": null
   },
   {
     "departement": "28",
@@ -1813,7 +1920,8 @@
     "site": "",
     "boucle": "",
     "slug": "nadia-faveris",
-    "prenomNOM1": "Nadia FAVERIS"
+    "prenomNOM1": "Nadia FAVERIS",
+    "feminin1": null
   },
   {
     "departement": "28",
@@ -1829,7 +1937,8 @@
     "site": "",
     "boucle": "",
     "slug": "sylviane-boens",
-    "prenomNOM1": "Sylviane BOËNS"
+    "prenomNOM1": "Sylviane BOËNS",
+    "feminin1": null
   },
   {
     "departement": "29",
@@ -1845,7 +1954,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/JGx2AoUGHxM6pA4gpQnGCp",
     "slug": "gregory-lebert",
-    "prenomNOM1": "Grégory LEBERT"
+    "prenomNOM1": "Grégory LEBERT",
+    "feminin1": null
   },
   {
     "departement": "29",
@@ -1862,7 +1972,8 @@
     "boucle": "",
     "slug": "pierre-yves-cadalen",
     "wikidata": "Q126595850",
-    "prenomNOM1": "Pierre-Yves CADALEN"
+    "prenomNOM1": "Pierre-Yves CADALEN",
+    "feminin1": false
   },
   {
     "departement": "29",
@@ -1878,7 +1989,8 @@
     "site": "",
     "boucle": "",
     "slug": "pierre-smolarz",
-    "prenomNOM1": "Pierre SMOLARZ"
+    "prenomNOM1": "Pierre SMOLARZ",
+    "feminin1": null
   },
   {
     "departement": "29",
@@ -1895,7 +2007,8 @@
     "boucle": "",
     "slug": "sylvaine-vulpiani",
     "wikidata": "Q63248703",
-    "prenomNOM1": "Sylvaine VULPIANI"
+    "prenomNOM1": "Sylvaine VULPIANI",
+    "feminin1": true
   },
   {
     "departement": "29",
@@ -1911,7 +2024,8 @@
     "site": "",
     "boucle": "",
     "slug": "gladys-grelaud",
-    "prenomNOM1": "Gladys GRELAUD"
+    "prenomNOM1": "Gladys GRELAUD",
+    "feminin1": null
   },
   {
     "departement": "29",
@@ -1929,7 +2043,8 @@
     "slug": "melanie-thomin",
     "wikidata": "Q112639913",
     "wikipediaTitle": "Mélanie Thomin",
-    "prenomNOM1": "Mélanie THOMIN"
+    "prenomNOM1": "Mélanie THOMIN",
+    "feminin1": true
   },
   {
     "departement": "29",
@@ -1945,7 +2060,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/DvvJ3dTOURyGmuymUD2oR3",
     "slug": "jugdeep-harvinder",
-    "prenomNOM1": "Jugdeep HARVINDER"
+    "prenomNOM1": "Jugdeep HARVINDER",
+    "feminin1": null
   },
   {
     "departement": "29",
@@ -1962,7 +2078,8 @@
     "boucle": "https://chat.whatsapp.com/CuR9T5c4aXkDQWTqAG9nNh",
     "slug": "thomas-le-bon",
     "wikidata": "Q94963064",
-    "prenomNOM1": "Thomas LE BON"
+    "prenomNOM1": "Thomas LE BON",
+    "feminin1": false
   },
   {
     "departement": "30",
@@ -1978,7 +2095,8 @@
     "site": "",
     "boucle": "",
     "slug": "charles-menard",
-    "prenomNOM1": "Charles MENARD"
+    "prenomNOM1": "Charles MENARD",
+    "feminin1": null
   },
   {
     "departement": "30",
@@ -1994,7 +2112,8 @@
     "site": "",
     "boucle": "",
     "slug": "kathy-guyot",
-    "prenomNOM1": "Kathy GUYOT"
+    "prenomNOM1": "Kathy GUYOT",
+    "feminin1": null
   },
   {
     "departement": "30",
@@ -2011,7 +2130,8 @@
     "boucle": "https://chat.whatsapp.com/HzRq7Ps9fvrJd8mW4FWTaw",
     "slug": "sabine-oromi",
     "wikidata": "Q126608976",
-    "prenomNOM1": "Sabine OROMI"
+    "prenomNOM1": "Sabine OROMI",
+    "feminin1": true
   },
   {
     "departement": "30",
@@ -2027,7 +2147,8 @@
     "site": "",
     "boucle": "",
     "slug": "arnaud-bord",
-    "prenomNOM1": "Arnaud BORD"
+    "prenomNOM1": "Arnaud BORD",
+    "feminin1": null
   },
   {
     "departement": "30",
@@ -2046,7 +2167,8 @@
     "wikidata": "Q98238168",
     "wikipediaTitle": "Michel Sala",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/MIchelSala2022.jpg?width=1000",
-    "prenomNOM1": "Michel SALA"
+    "prenomNOM1": "Michel SALA",
+    "feminin1": false
   },
   {
     "departement": "30",
@@ -2065,7 +2187,8 @@
     "wikidata": "Q52341519",
     "wikipediaTitle": "Nicolas Cadène",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Cad%C3%A8ne%2C%20lors%20d%27un%20colloque%20organis%C3%A9%20par%20la%20Conf%C3%A9rence%20des%20pr%C3%A9sidents%20d%27universit%C3%A9%20le%2019%20mai%202016.png?width=1000",
-    "prenomNOM1": "Nicolas CADÈNE"
+    "prenomNOM1": "Nicolas CADÈNE",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2084,7 +2207,8 @@
     "wikidata": "Q112649548",
     "wikipediaTitle": "Hadrien Clouet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrien%20Clouet%201507939.jpg?width=1000",
-    "prenomNOM1": "Hadrien CLOUET"
+    "prenomNOM1": "Hadrien CLOUET",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2102,7 +2226,8 @@
     "slug": "anne-stambach-terrenoir",
     "wikidata": "Q112637266",
     "wikipediaTitle": "Anne Stambach-Terrenoir",
-    "prenomNOM1": "Anne STAMBACH-TERRENOIR"
+    "prenomNOM1": "Anne STAMBACH-TERRENOIR",
+    "feminin1": true
   },
   {
     "departement": "31",
@@ -2118,7 +2243,8 @@
     "site": "",
     "boucle": "",
     "slug": "agathe-roby",
-    "prenomNOM1": "Agathe ROBY"
+    "prenomNOM1": "Agathe ROBY",
+    "feminin1": null
   },
   {
     "departement": "31",
@@ -2137,7 +2263,8 @@
     "wikidata": "Q112110960",
     "wikipediaTitle": "François Piquemal",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Fran%C3%A7ois%20Piquemal.jpg?width=1000",
-    "prenomNOM1": "François PIQUEMAL"
+    "prenomNOM1": "François PIQUEMAL",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2153,7 +2280,8 @@
     "site": "",
     "boucle": "https://t.me/NFP3105",
     "slug": "sylvie-espagnolle",
-    "prenomNOM1": "Sylvie ESPAGNOLLE"
+    "prenomNOM1": "Sylvie ESPAGNOLLE",
+    "feminin1": null
   },
   {
     "departement": "31",
@@ -2170,7 +2298,8 @@
     "boucle": "",
     "slug": "arnaud-simion",
     "wikidata": "Q63764899",
-    "prenomNOM1": "Arnaud SIMION"
+    "prenomNOM1": "Arnaud SIMION",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2188,7 +2317,8 @@
     "slug": "christophe-bex",
     "wikidata": "Q112650053",
     "wikipediaTitle": "Christophe Bex",
-    "prenomNOM1": "Christophe BEX"
+    "prenomNOM1": "Christophe BEX",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2207,7 +2337,8 @@
     "wikidata": "Q17350680",
     "wikipediaTitle": "Joël Aviragnet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jo%C3%ABl%20Aviragnet%2004.jpg?width=1000",
-    "prenomNOM1": "Joël AVIRAGNET"
+    "prenomNOM1": "Joël AVIRAGNET",
+    "feminin1": false
   },
   {
     "departement": "31",
@@ -2226,7 +2357,8 @@
     "wikidata": "Q112650093",
     "wikipediaTitle": "Christine Arrighi",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Christine%20Arrighi%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Christine ARRIGHI"
+    "prenomNOM1": "Christine ARRIGHI",
+    "feminin1": true
   },
   {
     "departement": "31",
@@ -2243,7 +2375,8 @@
     "boucle": "",
     "slug": "jacques-oberti",
     "wikidata": "Q65594765",
-    "prenomNOM1": "Jacques OBERTI"
+    "prenomNOM1": "Jacques OBERTI",
+    "feminin1": false
   },
   {
     "departement": "32",
@@ -2259,7 +2392,8 @@
     "site": "",
     "boucle": "",
     "slug": "pascal-levieux",
-    "prenomNOM1": "Pascal LEVIEUX"
+    "prenomNOM1": "Pascal LEVIEUX",
+    "feminin1": null
   },
   {
     "departement": "32",
@@ -2277,7 +2411,8 @@
     "slug": "david-taupiac",
     "wikidata": "Q65603176",
     "wikipediaTitle": "David Taupiac",
-    "prenomNOM1": "David TAUPIAC"
+    "prenomNOM1": "David TAUPIAC",
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2293,7 +2428,8 @@
     "site": "",
     "boucle": "",
     "slug": "celine-papin",
-    "prenomNOM1": "Céline PAPIN"
+    "prenomNOM1": "Céline PAPIN",
+    "feminin1": null
   },
   {
     "departement": "33",
@@ -2312,7 +2448,8 @@
     "wikidata": "Q63349080",
     "wikipediaTitle": "Nicolas Thierry",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/20210819%20thierry.n%206117.jpg?width=1000",
-    "prenomNOM1": "Nicolas THIERRY"
+    "prenomNOM1": "Nicolas THIERRY",
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2331,7 +2468,8 @@
     "wikidata": "Q30339287",
     "wikipediaTitle": "Loïc Prud'homme",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lo%C3%AFc%20Prud%27homme.jpg?width=1000",
-    "prenomNOM1": "Loic PRUD'HOMME"
+    "prenomNOM1": "Loic PRUD'HOMME",
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2350,7 +2488,8 @@
     "wikidata": "Q30447134",
     "wikipediaTitle": "Alain David (homme politique)",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20David.jpg?width=1000",
-    "prenomNOM1": "Alain DAVID"
+    "prenomNOM1": "Alain DAVID",
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2368,7 +2507,8 @@
     "slug": "pascale-got",
     "wikidata": "Q3367676",
     "wikipediaTitle": "Pascale Got",
-    "prenomNOM1": "Pascale GOT"
+    "prenomNOM1": "Pascale GOT",
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2387,7 +2527,8 @@
     "wikidata": "Q3292773",
     "wikipediaTitle": "Marie Récalde",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie%20R%C3%A9calde%20-%202015%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Marie RECALDE"
+    "prenomNOM1": "Marie RECALDE",
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2404,7 +2545,8 @@
     "boucle": "https://chat.whatsapp.com/LXhjvxGKP07EraXpj5nCZZ",
     "slug": "sebastien-saint-pasteur",
     "wikidata": "Q63765953",
-    "prenomNOM1": "Sébastien SAINT-PASTEUR"
+    "prenomNOM1": "Sébastien SAINT-PASTEUR",
+    "feminin1": false
   },
   {
     "departement": "33",
@@ -2421,7 +2563,8 @@
     "boucle": "",
     "slug": "marylene-faure",
     "wikidata": "Q126372959",
-    "prenomNOM1": "Marylène FAURE"
+    "prenomNOM1": "Marylène FAURE",
+    "feminin1": true
   },
   {
     "departement": "33",
@@ -2437,7 +2580,8 @@
     "site": "",
     "boucle": "",
     "slug": "corrine-martinez",
-    "prenomNOM1": "Corrine MARTINEZ"
+    "prenomNOM1": "Corrine MARTINEZ",
+    "feminin1": null
   },
   {
     "departement": "33",
@@ -2453,7 +2597,8 @@
     "site": "",
     "boucle": "",
     "slug": "pascal-bourgois",
-    "prenomNOM1": "Pascal BOURGOIS"
+    "prenomNOM1": "Pascal BOURGOIS",
+    "feminin1": null
   },
   {
     "departement": "33",
@@ -2469,7 +2614,8 @@
     "site": "",
     "boucle": "",
     "slug": "cecilia-fonseca",
-    "prenomNOM1": "Cécilia FONSECA"
+    "prenomNOM1": "Cécilia FONSECA",
+    "feminin1": null
   },
   {
     "departement": "33",
@@ -2486,7 +2632,8 @@
     "boucle": "",
     "slug": "mathilde-feld",
     "wikidata": "Q126596346",
-    "prenomNOM1": "Mathilde FELD"
+    "prenomNOM1": "Mathilde FELD",
+    "feminin1": true
   },
   {
     "departement": "34",
@@ -2505,7 +2652,8 @@
     "wikidata": "Q2913287",
     "wikipediaTitle": "Jean-Louis Roumégas",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis%20Roum%C3%A9gas%20by%20Mikani.JPG?width=1000",
-    "prenomNOM1": "Jean-Louis ROUMEGAS"
+    "prenomNOM1": "Jean-Louis ROUMEGAS",
+    "feminin1": false
   },
   {
     "departement": "34",
@@ -2524,7 +2672,8 @@
     "wikidata": "Q112040646",
     "wikipediaTitle": "Nathalie Oziol",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathalie%20Oziol%202024.jpg?width=1000",
-    "prenomNOM1": "Nathalie OZIOL"
+    "prenomNOM1": "Nathalie OZIOL",
+    "feminin1": true
   },
   {
     "departement": "34",
@@ -2543,7 +2692,8 @@
     "wikidata": "Q3066450",
     "wikipediaTitle": "Fanny Dombre-Coste",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Fanny%20Dombre-Coste%2C%20Paris%2C%202012%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Fanny DOMBRE-COSTE"
+    "prenomNOM1": "Fanny DOMBRE-COSTE",
+    "feminin1": true
   },
   {
     "departement": "34",
@@ -2561,7 +2711,8 @@
     "slug": "sebastien-rome",
     "wikidata": "Q112635222",
     "wikipediaTitle": "Sébastien Rome",
-    "prenomNOM1": "Sébastien ROME"
+    "prenomNOM1": "Sébastien ROME",
+    "feminin1": false
   },
   {
     "departement": "34",
@@ -2578,7 +2729,8 @@
     "boucle": "",
     "slug": "aurelien-manenc",
     "wikidata": "Q65591650",
-    "prenomNOM1": "Aurélien MANENC"
+    "prenomNOM1": "Aurélien MANENC",
+    "feminin1": false
   },
   {
     "departement": "34",
@@ -2594,7 +2746,8 @@
     "site": "",
     "boucle": "",
     "slug": "magali-crozier",
-    "prenomNOM1": "Magali CROZIER"
+    "prenomNOM1": "Magali CROZIER",
+    "feminin1": null
   },
   {
     "departement": "34",
@@ -2611,7 +2764,8 @@
     "boucle": "",
     "slug": "gabriel-blasco",
     "wikidata": "Q115813995",
-    "prenomNOM1": "Gabriel BLASCO"
+    "prenomNOM1": "Gabriel BLASCO",
+    "feminin1": false
   },
   {
     "departement": "34",
@@ -2630,7 +2784,8 @@
     "wikidata": "Q112650404",
     "wikipediaTitle": "Sylvain Carrière",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvain%20Carriere%20d%C3%A9put%C3%A9%20de%20la%20huiti%C3%A8me%20circonscription%20de%20l%27H%C3%A9rault.jpg?width=1000",
-    "prenomNOM1": "Sylvain CARRIERE"
+    "prenomNOM1": "Sylvain CARRIERE",
+    "feminin1": false
   },
   {
     "departement": "34",
@@ -2647,7 +2802,8 @@
     "boucle": "https://t.me/+ad3mbwVGaAM3Mzk0",
     "slug": "nadia-belaouni",
     "wikidata": "Q112569201",
-    "prenomNOM1": "Nadia BELAOUNI"
+    "prenomNOM1": "Nadia BELAOUNI",
+    "feminin1": true
   },
   {
     "departement": "35",
@@ -2663,7 +2819,8 @@
     "site": "",
     "boucle": "",
     "slug": "marie-mesmeur",
-    "prenomNOM1": "Marie MESMEUR"
+    "prenomNOM1": "Marie MESMEUR",
+    "feminin1": null
   },
   {
     "departement": "35",
@@ -2679,7 +2836,8 @@
     "site": "",
     "boucle": "",
     "slug": "tristan-lahais",
-    "prenomNOM1": "Tristan LAHAIS"
+    "prenomNOM1": "Tristan LAHAIS",
+    "feminin1": null
   },
   {
     "departement": "35",
@@ -2697,7 +2855,8 @@
     "slug": "claudia-rouaux",
     "wikidata": "Q63248658",
     "wikipediaTitle": "Claudia Rouaux",
-    "prenomNOM1": "Claudia ROUAUX"
+    "prenomNOM1": "Claudia ROUAUX",
+    "feminin1": true
   },
   {
     "departement": "35",
@@ -2716,7 +2875,8 @@
     "wikidata": "Q112642303",
     "wikipediaTitle": "Mathilde Hignet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathilde%20hignet.jpg?width=1000",
-    "prenomNOM1": "Mathilde HIGNET"
+    "prenomNOM1": "Mathilde HIGNET",
+    "feminin1": true
   },
   {
     "departement": "35",
@@ -2732,7 +2892,8 @@
     "site": "https://gillesrenault.fr/",
     "boucle": "",
     "slug": "gilles-renault",
-    "prenomNOM1": "Gilles RENAULT"
+    "prenomNOM1": "Gilles RENAULT",
+    "feminin1": null
   },
   {
     "departement": "35",
@@ -2748,7 +2909,8 @@
     "site": "",
     "boucle": "",
     "slug": "elsa-lafaye",
-    "prenomNOM1": "Elsa LAFAYE"
+    "prenomNOM1": "Elsa LAFAYE",
+    "feminin1": null
   },
   {
     "departement": "35",
@@ -2764,7 +2926,8 @@
     "site": "",
     "boucle": "",
     "slug": "nicolas-guivarch",
-    "prenomNOM1": "Nicolas GUIVARC'H"
+    "prenomNOM1": "Nicolas GUIVARC'H",
+    "feminin1": null
   },
   {
     "departement": "35",
@@ -2783,7 +2946,8 @@
     "wikidata": "Q65569133",
     "wikipediaTitle": "Mickaël Bouloux",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Micka%C3%ABl%20Bouloux.jpg?width=1000",
-    "prenomNOM1": "Mickaël BOULOUX"
+    "prenomNOM1": "Mickaël BOULOUX",
+    "feminin1": false
   },
   {
     "departement": "36",
@@ -2799,7 +2963,8 @@
     "site": "",
     "boucle": "",
     "slug": "eloise-gonzalez",
-    "prenomNOM1": "Eloïse GONZALEZ"
+    "prenomNOM1": "Eloïse GONZALEZ",
+    "feminin1": null
   },
   {
     "departement": "36",
@@ -2816,7 +2981,8 @@
     "boucle": "",
     "slug": "clement-sapin",
     "wikidata": "Q126694682",
-    "prenomNOM1": "Clément SAPIN"
+    "prenomNOM1": "Clément SAPIN",
+    "feminin1": false
   },
   {
     "departement": "37",
@@ -2835,7 +3001,8 @@
     "wikidata": "Q63488161",
     "wikipediaTitle": "Charles Fournier (homme politique, 1968)",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Fournier.jpg?width=1000",
-    "prenomNOM1": "Charles FOURNIER"
+    "prenomNOM1": "Charles FOURNIER",
+    "feminin1": false
   },
   {
     "departement": "37",
@@ -2851,7 +3018,8 @@
     "site": "",
     "boucle": "https://actionpopulaire.fr/groupes/8c36ec81-eb63-4c7c-b0ba-e10a54fc492c/",
     "slug": "christelle-gobert",
-    "prenomNOM1": "Christelle GOBERT"
+    "prenomNOM1": "Christelle GOBERT",
+    "feminin1": null
   },
   {
     "departement": "37",
@@ -2867,7 +3035,8 @@
     "site": "",
     "boucle": "",
     "slug": "sandra-barbier",
-    "prenomNOM1": "Sandra BARBIER"
+    "prenomNOM1": "Sandra BARBIER",
+    "feminin1": null
   },
   {
     "departement": "37",
@@ -2886,7 +3055,8 @@
     "wikidata": "Q3219028",
     "wikipediaTitle": "Laurent Baumel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/DeputeXIVeLegVeRep-Laurent%20Baumel1.jpg?width=1000",
-    "prenomNOM1": "Laurent BAUMEL"
+    "prenomNOM1": "Laurent BAUMEL",
+    "feminin1": false
   },
   {
     "departement": "37",
@@ -2902,7 +3072,8 @@
     "site": "",
     "boucle": "",
     "slug": "marina-coccia",
-    "prenomNOM1": "Marina COCCIA"
+    "prenomNOM1": "Marina COCCIA",
+    "feminin1": null
   },
   {
     "departement": "38",
@@ -2918,7 +3089,8 @@
     "site": "",
     "boucle": "",
     "slug": "hugo-prevost",
-    "prenomNOM1": "Hugo PREVOST"
+    "prenomNOM1": "Hugo PREVOST",
+    "feminin1": null
   },
   {
     "departement": "38",
@@ -2937,7 +3109,8 @@
     "wikidata": "Q112648926",
     "wikipediaTitle": "Cyrielle Chatelain",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyrielle%20Chatelain%20crop.jpg?width=1000",
-    "prenomNOM1": "Cyrielle CHATELAIN"
+    "prenomNOM1": "Cyrielle CHATELAIN",
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -2956,7 +3129,8 @@
     "wikidata": "Q50938755",
     "wikipediaTitle": "Élisa Martin",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/22%2005%20Elisa%200034%20head.jpg?width=1000",
-    "prenomNOM1": "Elisa MARTIN"
+    "prenomNOM1": "Elisa MARTIN",
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -2974,7 +3148,8 @@
     "slug": "marie-noelle-battistel",
     "wikidata": "Q3292159",
     "wikipediaTitle": "Marie-Noëlle Battistel",
-    "prenomNOM1": "Marie-Noëlle BATTISTEL"
+    "prenomNOM1": "Marie-Noëlle BATTISTEL",
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -2993,7 +3168,8 @@
     "wikidata": "Q112650363",
     "wikipediaTitle": "Jérémie Iordanoff",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremie%20Iordanoff.jpg?width=1000",
-    "prenomNOM1": "Jérémie IORDANOFF"
+    "prenomNOM1": "Jérémie IORDANOFF",
+    "feminin1": false
   },
   {
     "departement": "38",
@@ -3009,7 +3185,8 @@
     "site": "",
     "boucle": "",
     "slug": "yaqine-di-spigno",
-    "prenomNOM1": "Yaqine DI SPIGNO"
+    "prenomNOM1": "Yaqine DI SPIGNO",
+    "feminin1": null
   },
   {
     "departement": "38",
@@ -3025,7 +3202,8 @@
     "site": "",
     "boucle": "",
     "slug": "dominique-dichard",
-    "prenomNOM1": "Dominique DICHARD"
+    "prenomNOM1": "Dominique DICHARD",
+    "feminin1": null
   },
   {
     "departement": "38",
@@ -3041,7 +3219,8 @@
     "site": "",
     "boucle": "",
     "slug": "cecile-michel",
-    "prenomNOM1": "Cécile MICHEL"
+    "prenomNOM1": "Cécile MICHEL",
+    "feminin1": null
   },
   {
     "departement": "38",
@@ -3058,7 +3237,8 @@
     "boucle": "",
     "slug": "sandrine-nosbe",
     "wikidata": "Q126688573",
-    "prenomNOM1": "Sandrine NOSBÉ"
+    "prenomNOM1": "Sandrine NOSBÉ",
+    "feminin1": true
   },
   {
     "departement": "38",
@@ -3074,7 +3254,8 @@
     "site": "https://isere10.github.io/joelle-richol-legislatives-2024/",
     "boucle": "https://linktr.ee/3810NFP",
     "slug": "joelle-richol",
-    "prenomNOM1": "Joëlle RICHOL"
+    "prenomNOM1": "Joëlle RICHOL",
+    "feminin1": null
   },
   {
     "departement": "39",
@@ -3090,7 +3271,8 @@
     "site": "",
     "boucle": "",
     "slug": "anthony-brondel",
-    "prenomNOM1": "Anthony BRONDEL"
+    "prenomNOM1": "Anthony BRONDEL",
+    "feminin1": null
   },
   {
     "departement": "39",
@@ -3106,7 +3288,8 @@
     "site": "",
     "boucle": "",
     "slug": "evelyne-ternant",
-    "prenomNOM1": "Evelyne TERNANT"
+    "prenomNOM1": "Evelyne TERNANT",
+    "feminin1": null
   },
   {
     "departement": "39",
@@ -3122,7 +3305,8 @@
     "site": "",
     "boucle": "https://t.me/+evngP7J4SzFkNDI0",
     "slug": "herve-prat",
-    "prenomNOM1": "Hervé PRAT"
+    "prenomNOM1": "Hervé PRAT",
+    "feminin1": null
   },
   {
     "departement": "40",
@@ -3138,7 +3322,8 @@
     "site": "",
     "boucle": "",
     "slug": "marie-laure-lafargue",
-    "prenomNOM1": "Marie-Laure LAFARGUE"
+    "prenomNOM1": "Marie-Laure LAFARGUE",
+    "feminin1": null
   },
   {
     "departement": "40",
@@ -3155,7 +3340,8 @@
     "boucle": "",
     "slug": "jean-marc-lespade",
     "wikidata": "Q63765712",
-    "prenomNOM1": "Jean-Marc LESPADE"
+    "prenomNOM1": "Jean-Marc LESPADE",
+    "feminin1": false
   },
   {
     "departement": "40",
@@ -3174,7 +3360,8 @@
     "wikidata": "Q29021094",
     "wikipediaTitle": "Boris Vallaud",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Vallaud%20en%202023.jpg?width=1000",
-    "prenomNOM1": "Boris VALLAUD"
+    "prenomNOM1": "Boris VALLAUD",
+    "feminin1": false
   },
   {
     "departement": "41",
@@ -3190,7 +3377,8 @@
     "site": "",
     "boucle": "https://actionpopulaire.fr/groupes/0e04595b-c815-4460-b581-9419ab6e67bf/",
     "slug": "reda-belkadi",
-    "prenomNOM1": "Reda BELKADI"
+    "prenomNOM1": "Reda BELKADI",
+    "feminin1": null
   },
   {
     "departement": "41",
@@ -3208,7 +3396,8 @@
     "slug": "sylvie-mayer",
     "wikidata": "Q16267154",
     "wikipediaTitle": "Sylvie Mayer",
-    "prenomNOM1": "Sylvie MAYER"
+    "prenomNOM1": "Sylvie MAYER",
+    "feminin1": true
   },
   {
     "departement": "41",
@@ -3224,7 +3413,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/JG8ppfE2wnU0aR8iy8k1Py",
     "slug": "noe-petit",
-    "prenomNOM1": "Noé PETIT"
+    "prenomNOM1": "Noé PETIT",
+    "feminin1": null
   },
   {
     "departement": "42",
@@ -3241,7 +3431,8 @@
     "boucle": "",
     "slug": "pierrick-courbon",
     "wikidata": "Q63766071",
-    "prenomNOM1": "Pierrick COURBON"
+    "prenomNOM1": "Pierrick COURBON",
+    "feminin1": false
   },
   {
     "departement": "42",
@@ -3260,7 +3451,8 @@
     "wikidata": "Q112650830",
     "wikipediaTitle": "Andrée Taurinya",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9put%C3%A9e%20La%20France%20Insoumise%20Andr%C3%A9e%20Taurinya%20de%20Saint-%C3%89tienne.jpg?width=1000",
-    "prenomNOM1": "Andrée TAURINYA"
+    "prenomNOM1": "Andrée TAURINYA",
+    "feminin1": true
   },
   {
     "departement": "42",
@@ -3278,7 +3470,8 @@
     "slug": "vincent-bony",
     "wikidata": "Q98255870",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Bony.jpg?width=1000",
-    "prenomNOM1": "Vincent BONY"
+    "prenomNOM1": "Vincent BONY",
+    "feminin1": false
   },
   {
     "departement": "42",
@@ -3294,7 +3487,8 @@
     "site": "",
     "boucle": "",
     "slug": "bernard-paemelaere",
-    "prenomNOM1": "Bernard PAEMELAERE"
+    "prenomNOM1": "Bernard PAEMELAERE",
+    "feminin1": null
   },
   {
     "departement": "42",
@@ -3310,7 +3504,8 @@
     "site": "",
     "boucle": "https://actionpopulaire.fr/groupes/eb93c6d1-3a70-4148-aa8f-417cd2e5da75/",
     "slug": "ismael-stevenson",
-    "prenomNOM1": "Ismael STEVENSON"
+    "prenomNOM1": "Ismael STEVENSON",
+    "feminin1": null
   },
   {
     "departement": "42",
@@ -3326,7 +3521,8 @@
     "site": "",
     "boucle": "",
     "slug": "marie-paule-olive",
-    "prenomNOM1": "Marie Paule OLIVE"
+    "prenomNOM1": "Marie Paule OLIVE",
+    "feminin1": null
   },
   {
     "departement": "43",
@@ -3342,7 +3538,8 @@
     "site": "",
     "boucle": "",
     "slug": "celine-gacon",
-    "prenomNOM1": "Céline GACON"
+    "prenomNOM1": "Céline GACON",
+    "feminin1": null
   },
   {
     "departement": "43",
@@ -3360,7 +3557,8 @@
     "slug": "andre-chapaveire",
     "wikidata": "Q62887704",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chapaveire%20Andr%C3%A9.jpg?width=1000",
-    "prenomNOM1": "André CHAPAVEIRE"
+    "prenomNOM1": "André CHAPAVEIRE",
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3376,7 +3574,8 @@
     "site": "https://www.benbrahim.fr/",
     "boucle": "https://chat.whatsapp.com/DVUwiinRWC1AVyGLelZ3is",
     "slug": "karim-benbrahim",
-    "prenomNOM1": "Karim BENBRAHIM"
+    "prenomNOM1": "Karim BENBRAHIM",
+    "feminin1": null
   },
   {
     "departement": "44",
@@ -3395,7 +3594,8 @@
     "wikidata": "Q112650362",
     "wikipediaTitle": "Andy Kerbrat",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Kerbrat%202022.jpg?width=1000",
-    "prenomNOM1": "Andy KERBRAT"
+    "prenomNOM1": "Andy KERBRAT",
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3414,7 +3614,8 @@
     "wikidata": "Q112650690",
     "wikipediaTitle": "Ségolène Amiot",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Segolene%20Amiot%20meeting%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Ségolène AMIOT"
+    "prenomNOM1": "Ségolène AMIOT",
+    "feminin1": true
   },
   {
     "departement": "44",
@@ -3433,7 +3634,8 @@
     "wikidata": "Q112650708",
     "wikipediaTitle": "Julie Laernoes",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Laernoes%208%20novembre%202021.png?width=1000",
-    "prenomNOM1": "Julie LAERNOES"
+    "prenomNOM1": "Julie LAERNOES",
+    "feminin1": true
   },
   {
     "departement": "44",
@@ -3449,7 +3651,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/LwMynSwhq6zHuCbEZnkDdz",
     "slug": "fabrice-roussel",
-    "prenomNOM1": "Fabrice ROUSSEL"
+    "prenomNOM1": "Fabrice ROUSSEL",
+    "feminin1": null
   },
   {
     "departement": "44",
@@ -3468,7 +3671,8 @@
     "wikidata": "Q98231860",
     "wikipediaTitle": "Jean-Claude Raux",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-ClaudeRaux2.jpg?width=1000",
-    "prenomNOM1": "Jean-Claude RAUX"
+    "prenomNOM1": "Jean-Claude RAUX",
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3484,7 +3688,8 @@
     "site": "",
     "boucle": "",
     "slug": "veronique-mahe",
-    "prenomNOM1": "Véronique MAHE"
+    "prenomNOM1": "Véronique MAHE",
+    "feminin1": null
   },
   {
     "departement": "44",
@@ -3502,7 +3707,8 @@
     "slug": "matthias-tavel",
     "wikidata": "Q50384786",
     "wikipediaTitle": "Matthias Tavel",
-    "prenomNOM1": "Matthias TAVEL"
+    "prenomNOM1": "Matthias TAVEL",
+    "feminin1": false
   },
   {
     "departement": "44",
@@ -3518,7 +3724,8 @@
     "site": "",
     "boucle": "https://t.me/+RsVtAr-S0QI0NjE0",
     "slug": "helene-macon",
-    "prenomNOM1": "Hélène MACON"
+    "prenomNOM1": "Hélène MACON",
+    "feminin1": null
   },
   {
     "departement": "44",
@@ -3534,7 +3741,8 @@
     "site": "",
     "boucle": "https://t.me/+nipf28W4vTYyNzQ0",
     "slug": "maxime-viancin",
-    "prenomNOM1": "Maxime VIANCIN"
+    "prenomNOM1": "Maxime VIANCIN",
+    "feminin1": null
   },
   {
     "departement": "45",
@@ -3550,7 +3758,8 @@
     "site": "",
     "boucle": "",
     "slug": "ghislaine-kounowski",
-    "prenomNOM1": "Ghislaine KOUNOWSKI"
+    "prenomNOM1": "Ghislaine KOUNOWSKI",
+    "feminin1": null
   },
   {
     "departement": "45",
@@ -3566,7 +3775,8 @@
     "site": "",
     "boucle": "",
     "slug": "emmanuel-duplessy",
-    "prenomNOM1": "Emmanuel DUPLESSY"
+    "prenomNOM1": "Emmanuel DUPLESSY",
+    "feminin1": null
   },
   {
     "departement": "45",
@@ -3582,7 +3792,8 @@
     "site": "",
     "boucle": "https://x.com/ClementVerde",
     "slug": "clement-verde",
-    "prenomNOM1": "Clément VERDE"
+    "prenomNOM1": "Clément VERDE",
+    "feminin1": null
   },
   {
     "departement": "45",
@@ -3599,7 +3810,8 @@
     "boucle": "",
     "slug": "bruno-nottin",
     "wikidata": "Q126727386",
-    "prenomNOM1": "Bruno NOTTIN"
+    "prenomNOM1": "Bruno NOTTIN",
+    "feminin1": false
   },
   {
     "departement": "45",
@@ -3615,7 +3827,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-laure-boutet",
-    "prenomNOM1": "Anne-Laure BOUTET"
+    "prenomNOM1": "Anne-Laure BOUTET",
+    "feminin1": null
   },
   {
     "departement": "45",
@@ -3632,7 +3845,8 @@
     "boucle": "https://chat.whatsapp.com/KZUciiGN07REDxWEFkditQ",
     "slug": "christophe-lavialle",
     "wikidata": "Q27964762",
-    "prenomNOM1": "Christophe LAVIALLE"
+    "prenomNOM1": "Christophe LAVIALLE",
+    "feminin1": false
   },
   {
     "departement": "46",
@@ -3649,7 +3863,8 @@
     "boucle": "",
     "slug": "elsa-bougeard",
     "wikidata": "Q126722878",
-    "prenomNOM1": "Elsa BOUGEARD"
+    "prenomNOM1": "Elsa BOUGEARD",
+    "feminin1": true
   },
   {
     "departement": "46",
@@ -3666,7 +3881,8 @@
     "boucle": "",
     "slug": "christophe-proenca",
     "wikidata": "Q63763800",
-    "prenomNOM1": "Christophe PROENÇA"
+    "prenomNOM1": "Christophe PROENÇA",
+    "feminin1": false
   },
   {
     "departement": "47",
@@ -3682,7 +3898,8 @@
     "site": "",
     "boucle": "",
     "slug": "paul-vo-van",
-    "prenomNOM1": "Paul VO VAN"
+    "prenomNOM1": "Paul VO VAN",
+    "feminin1": null
   },
   {
     "departement": "47",
@@ -3699,7 +3916,8 @@
     "boucle": "",
     "slug": "christophe-courregelongue",
     "wikidata": "Q65575274",
-    "prenomNOM1": "Christophe COURRÈGELONGUE"
+    "prenomNOM1": "Christophe COURRÈGELONGUE",
+    "feminin1": false
   },
   {
     "departement": "47",
@@ -3715,7 +3933,8 @@
     "site": "",
     "boucle": "",
     "slug": "xavier-czapla",
-    "prenomNOM1": "Xavier CZAPLA"
+    "prenomNOM1": "Xavier CZAPLA",
+    "feminin1": null
   },
   {
     "departement": "48",
@@ -3734,7 +3953,8 @@
     "wikidata": "Q19958474",
     "wikipediaTitle": "Sophie Pantel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20PANTEL%202%20%28ok%29.jpg?width=1000",
-    "prenomNOM1": "Sophie PANTEL"
+    "prenomNOM1": "Sophie PANTEL",
+    "feminin1": true
   },
   {
     "departement": "49",
@@ -3750,7 +3970,8 @@
     "site": "",
     "boucle": "",
     "slug": "elsa-richard",
-    "prenomNOM1": "Elsa RICHARD"
+    "prenomNOM1": "Elsa RICHARD",
+    "feminin1": null
   },
   {
     "departement": "49",
@@ -3766,7 +3987,8 @@
     "site": "",
     "boucle": "",
     "slug": "leo-metayer",
-    "prenomNOM1": "Léo MÉTAYER"
+    "prenomNOM1": "Léo MÉTAYER",
+    "feminin1": null
   },
   {
     "departement": "49",
@@ -3783,7 +4005,8 @@
     "boucle": "",
     "slug": "patrick-alexandre",
     "wikidata": "Q119371551",
-    "prenomNOM1": "Patrick ALEXANDRE"
+    "prenomNOM1": "Patrick ALEXANDRE",
+    "feminin1": false
   },
   {
     "departement": "49",
@@ -3799,7 +4022,8 @@
     "site": "",
     "boucle": "",
     "slug": "charline-bouvet",
-    "prenomNOM1": "Charline BOUVET"
+    "prenomNOM1": "Charline BOUVET",
+    "feminin1": null
   },
   {
     "departement": "49",
@@ -3815,7 +4039,8 @@
     "site": "",
     "boucle": "",
     "slug": "france-moreau",
-    "prenomNOM1": "France MOREAU"
+    "prenomNOM1": "France MOREAU",
+    "feminin1": null
   },
   {
     "departement": "49",
@@ -3831,7 +4056,8 @@
     "site": "",
     "boucle": "",
     "slug": "sylvie-gabin",
-    "prenomNOM1": "Sylvie GABIN"
+    "prenomNOM1": "Sylvie GABIN",
+    "feminin1": null
   },
   {
     "departement": "49",
@@ -3847,7 +4073,8 @@
     "site": "",
     "boucle": "",
     "slug": "guillaume-jouanneau",
-    "prenomNOM1": "Guillaume JOUANNEAU"
+    "prenomNOM1": "Guillaume JOUANNEAU",
+    "feminin1": null
   },
   {
     "departement": "50",
@@ -3864,7 +4091,8 @@
     "boucle": "",
     "slug": "guillaume-hedouin",
     "wikidata": "Q126678549",
-    "prenomNOM1": "Guillaume HEDOUIN"
+    "prenomNOM1": "Guillaume HEDOUIN",
+    "feminin1": false
   },
   {
     "departement": "50",
@@ -3881,7 +4109,8 @@
     "boucle": "https://t.me/+_qO61JpjxlM5NGE0",
     "slug": "patrick-grimbert",
     "wikidata": "Q126726298",
-    "prenomNOM1": "Patrick GRIMBERT"
+    "prenomNOM1": "Patrick GRIMBERT",
+    "feminin1": false
   },
   {
     "departement": "50",
@@ -3897,7 +4126,8 @@
     "site": "",
     "boucle": "",
     "slug": "gaelle-verove",
-    "prenomNOM1": "Gaëlle VÉROVE"
+    "prenomNOM1": "Gaëlle VÉROVE",
+    "feminin1": null
   },
   {
     "departement": "50",
@@ -3915,7 +4145,8 @@
     "slug": "anna-pic",
     "wikidata": "Q63766396",
     "wikipediaTitle": "Anna Pic",
-    "prenomNOM1": "Anna PIC"
+    "prenomNOM1": "Anna PIC",
+    "feminin1": true
   },
   {
     "departement": "51",
@@ -3931,7 +4162,8 @@
     "site": "",
     "boucle": "",
     "slug": "evelyne-bourgoin",
-    "prenomNOM1": "Evelyne BOURGOIN"
+    "prenomNOM1": "Evelyne BOURGOIN",
+    "feminin1": null
   },
   {
     "departement": "51",
@@ -3947,7 +4179,8 @@
     "site": "",
     "boucle": "https://framaforms.org/campagne-nouveau-front-populaire-reims-1718454856",
     "slug": "stephane-pirouelle",
-    "prenomNOM1": "Stéphane PIROUELLE"
+    "prenomNOM1": "Stéphane PIROUELLE",
+    "feminin1": null
   },
   {
     "departement": "51",
@@ -3963,7 +4196,8 @@
     "site": "",
     "boucle": "",
     "slug": "chantal-berthelemy",
-    "prenomNOM1": "Chantal BERTHELEMY"
+    "prenomNOM1": "Chantal BERTHELEMY",
+    "feminin1": null
   },
   {
     "departement": "51",
@@ -3979,7 +4213,8 @@
     "site": "",
     "boucle": "",
     "slug": "maxence-laurent",
-    "prenomNOM1": "Maxence LAURENT"
+    "prenomNOM1": "Maxence LAURENT",
+    "feminin1": null
   },
   {
     "departement": "51",
@@ -3995,7 +4230,8 @@
     "site": "",
     "boucle": "",
     "slug": "chantal-berthelemy",
-    "prenomNOM1": "Chantal BERTHÉLÉMY"
+    "prenomNOM1": "Chantal BERTHÉLÉMY",
+    "feminin1": null
   },
   {
     "departement": "52",
@@ -4011,7 +4247,8 @@
     "site": "",
     "boucle": "",
     "slug": "benjamin-lambert",
-    "prenomNOM1": "Benjamin LAMBERT"
+    "prenomNOM1": "Benjamin LAMBERT",
+    "feminin1": null
   },
   {
     "departement": "52",
@@ -4027,7 +4264,8 @@
     "site": "",
     "boucle": "",
     "slug": "ingrid-viot",
-    "prenomNOM1": "Ingrid VIOT"
+    "prenomNOM1": "Ingrid VIOT",
+    "feminin1": null
   },
   {
     "departement": "53",
@@ -4046,7 +4284,8 @@
     "wikidata": "Q3119861",
     "wikipediaTitle": "Guillaume Garot",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Garot%202012.jpg?width=1000",
-    "prenomNOM1": "Guillaume GAROT"
+    "prenomNOM1": "Guillaume GAROT",
+    "feminin1": false
   },
   {
     "departement": "53",
@@ -4062,7 +4301,8 @@
     "site": "",
     "boucle": "",
     "slug": "gregory-boisseau",
-    "prenomNOM1": "Grégory BOISSEAU"
+    "prenomNOM1": "Grégory BOISSEAU",
+    "feminin1": null
   },
   {
     "departement": "53",
@@ -4078,7 +4318,8 @@
     "site": "",
     "boucle": "",
     "slug": "stephanie-lefoulon",
-    "prenomNOM1": "Stéphanie LEFOULON"
+    "prenomNOM1": "Stéphanie LEFOULON",
+    "feminin1": null
   },
   {
     "departement": "54",
@@ -4094,7 +4335,8 @@
     "site": "",
     "boucle": "",
     "slug": "estelle-mercier",
-    "prenomNOM1": "Estelle MERCIER"
+    "prenomNOM1": "Estelle MERCIER",
+    "feminin1": null
   },
   {
     "departement": "54",
@@ -4112,7 +4354,8 @@
     "slug": "stephane-hablot",
     "wikidata": "Q63765570",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Hablot.jpg?width=1000",
-    "prenomNOM1": "Stéphane HABLOT"
+    "prenomNOM1": "Stéphane HABLOT",
+    "feminin1": false
   },
   {
     "departement": "54",
@@ -4128,7 +4371,8 @@
     "site": "",
     "boucle": "",
     "slug": "martine-etienne",
-    "prenomNOM1": "Martine ETIENNE"
+    "prenomNOM1": "Martine ETIENNE",
+    "feminin1": null
   },
   {
     "departement": "54",
@@ -4144,7 +4388,8 @@
     "site": "",
     "boucle": "",
     "slug": "barbara-bertozzi-bievelot",
-    "prenomNOM1": "Barbara BERTOZZI BIEVELOT"
+    "prenomNOM1": "Barbara BERTOZZI BIEVELOT",
+    "feminin1": null
   },
   {
     "departement": "54",
@@ -4163,7 +4408,8 @@
     "wikidata": "Q3035399",
     "wikipediaTitle": "Dominique Potier",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Potier%20jardin%204%20Colonnes%2019297.jpg?width=1000",
-    "prenomNOM1": "Dominique POTIER"
+    "prenomNOM1": "Dominique POTIER",
+    "feminin1": false
   },
   {
     "departement": "54",
@@ -4182,7 +4428,8 @@
     "wikidata": "Q30349279",
     "wikipediaTitle": "Caroline Fiat",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline%20Fiat-2.jpg?width=1000",
-    "prenomNOM1": "Caroline FIAT"
+    "prenomNOM1": "Caroline FIAT",
+    "feminin1": true
   },
   {
     "departement": "55",
@@ -4199,7 +4446,8 @@
     "boucle": "",
     "slug": "olivier-guckert",
     "wikidata": "Q123264053",
-    "prenomNOM1": "Olivier GUCKERT"
+    "prenomNOM1": "Olivier GUCKERT",
+    "feminin1": false
   },
   {
     "departement": "55",
@@ -4215,7 +4463,8 @@
     "site": "",
     "boucle": "",
     "slug": "johan-laflotte",
-    "prenomNOM1": "Johan LAFLOTTE"
+    "prenomNOM1": "Johan LAFLOTTE",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4231,7 +4480,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-gallo",
-    "prenomNOM1": "Anne GALLO"
+    "prenomNOM1": "Anne GALLO",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4247,7 +4497,8 @@
     "site": "",
     "boucle": "",
     "slug": "jade-beniguel",
-    "prenomNOM1": "Jade BÉNIGUEL"
+    "prenomNOM1": "Jade BÉNIGUEL",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4263,7 +4514,8 @@
     "site": "",
     "boucle": "",
     "slug": "marie-madeleine-dore-lucas",
-    "prenomNOM1": "Marie-Madeleine DORE-LUCAS"
+    "prenomNOM1": "Marie-Madeleine DORE-LUCAS",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4279,7 +4531,8 @@
     "site": "",
     "boucle": "",
     "slug": "lhea-le-flecher",
-    "prenomNOM1": "Lhéa LE FLECHER"
+    "prenomNOM1": "Lhéa LE FLECHER",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4295,7 +4548,8 @@
     "site": "https://frontpopulairelorient.fr/",
     "boucle": "https://chat.whatsapp.com/EGp74TfhDP8KBwuB6P915S",
     "slug": "damien-girard",
-    "prenomNOM1": "Damien GIRARD"
+    "prenomNOM1": "Damien GIRARD",
+    "feminin1": null
   },
   {
     "departement": "56",
@@ -4311,7 +4565,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-michel-baudry",
-    "prenomNOM1": "Jean-Michel BAUDRY"
+    "prenomNOM1": "Jean-Michel BAUDRY",
+    "feminin1": null
   },
   {
     "departement": "57",
@@ -4328,7 +4583,8 @@
     "boucle": "",
     "slug": "vincent-felix",
     "wikidata": "Q95983065",
-    "prenomNOM1": "Vincent FELIX"
+    "prenomNOM1": "Vincent FELIX",
+    "feminin1": false
   },
   {
     "departement": "57",
@@ -4345,7 +4601,8 @@
     "boucle": "",
     "slug": "nicolas-victorien",
     "wikidata": "Q98233018",
-    "prenomNOM1": "Nicolas VICTORIEN"
+    "prenomNOM1": "Nicolas VICTORIEN",
+    "feminin1": false
   },
   {
     "departement": "57",
@@ -4363,7 +4620,8 @@
     "slug": "charlotte-leduc",
     "wikidata": "Q112651418",
     "wikipediaTitle": "Charlotte Leduc",
-    "prenomNOM1": "Charlotte LEDUC"
+    "prenomNOM1": "Charlotte LEDUC",
+    "feminin1": true
   },
   {
     "departement": "57",
@@ -4380,7 +4638,8 @@
     "boucle": "",
     "slug": "helene-girardot",
     "wikidata": "Q113089355",
-    "prenomNOM1": "Hélène GIRARDOT"
+    "prenomNOM1": "Hélène GIRARDOT",
+    "feminin1": true
   },
   {
     "departement": "57",
@@ -4396,7 +4655,8 @@
     "site": "",
     "boucle": "",
     "slug": "lisa-lahore",
-    "prenomNOM1": "Lisa LAHORE"
+    "prenomNOM1": "Lisa LAHORE",
+    "feminin1": null
   },
   {
     "departement": "57",
@@ -4412,7 +4672,8 @@
     "site": "",
     "boucle": "",
     "slug": "claire-bladt",
-    "prenomNOM1": "Claire BLADT"
+    "prenomNOM1": "Claire BLADT",
+    "feminin1": null
   },
   {
     "departement": "57",
@@ -4429,7 +4690,8 @@
     "boucle": "",
     "slug": "luc-muller",
     "wikidata": "Q191748",
-    "prenomNOM1": "Luc MULLER"
+    "prenomNOM1": "Luc MULLER",
+    "feminin1": false
   },
   {
     "departement": "57",
@@ -4447,7 +4709,8 @@
     "slug": "celine-leger",
     "wikidata": "Q3010170",
     "wikipediaTitle": "Céline Léger",
-    "prenomNOM1": "Céline LÉGER"
+    "prenomNOM1": "Céline LÉGER",
+    "feminin1": true
   },
   {
     "departement": "57",
@@ -4464,7 +4727,8 @@
     "boucle": "",
     "slug": "brigitte-vaisse",
     "wikidata": "Q62664079",
-    "prenomNOM1": "Brigitte VAISSE"
+    "prenomNOM1": "Brigitte VAISSE",
+    "feminin1": true
   },
   {
     "departement": "58",
@@ -4480,7 +4744,8 @@
     "site": "",
     "boucle": "",
     "slug": "brice-larepe",
-    "prenomNOM1": "Brice LARÈPE"
+    "prenomNOM1": "Brice LARÈPE",
+    "feminin1": null
   },
   {
     "departement": "58",
@@ -4499,7 +4764,8 @@
     "wikidata": "Q681613",
     "wikipediaTitle": "Christian Paul (homme politique)",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Paul%202009.jpg?width=1000",
-    "prenomNOM1": "Christian PAUL"
+    "prenomNOM1": "Christian PAUL",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4516,7 +4782,8 @@
     "boucle": "",
     "slug": "le-coq-aurelien",
     "wikidata": "Q126372918",
-    "prenomNOM1": "Le Coq AURÉLIEN"
+    "prenomNOM1": "Le Coq AURÉLIEN",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4535,7 +4802,8 @@
     "wikidata": "Q30339370",
     "wikipediaTitle": "Ugo Bernalicis",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9union%20publique%20FI%2C%20Le%20Creusot%2C%2015%20May%202019%20-%2001%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Ugo BERNALICIS"
+    "prenomNOM1": "Ugo BERNALICIS",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4554,7 +4822,8 @@
     "wikidata": "Q2896216",
     "wikipediaTitle": "Benjamin Saint-Huile",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Saint-Huile.jpg?width=1000",
-    "prenomNOM1": "Benjamin SAINT-HUILE"
+    "prenomNOM1": "Benjamin SAINT-HUILE",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4570,7 +4839,8 @@
     "site": "",
     "boucle": "",
     "slug": "charlotte-brun",
-    "prenomNOM1": "Charlotte BRUN"
+    "prenomNOM1": "Charlotte BRUN",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4586,7 +4856,8 @@
     "site": "",
     "boucle": "",
     "slug": "ophelie-delneste",
-    "prenomNOM1": "Ophélie DELNESTE"
+    "prenomNOM1": "Ophélie DELNESTE",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4603,7 +4874,8 @@
     "boucle": "",
     "slug": "celia-pereira",
     "wikidata": "Q126729093",
-    "prenomNOM1": "Celia PEREIRA"
+    "prenomNOM1": "Celia PEREIRA",
+    "feminin1": true
   },
   {
     "departement": "59",
@@ -4619,7 +4891,8 @@
     "site": "",
     "boucle": "",
     "slug": "karima-chouia",
-    "prenomNOM1": "Karima CHOUIA"
+    "prenomNOM1": "Karima CHOUIA",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4635,7 +4908,8 @@
     "site": "",
     "boucle": "",
     "slug": "david-guiraud",
-    "prenomNOM1": "David GUIRAUD"
+    "prenomNOM1": "David GUIRAUD",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4651,7 +4925,8 @@
     "site": "",
     "boucle": "",
     "slug": "odile-vidal-sagnier",
-    "prenomNOM1": "Odile VIDAL-SAGNIER"
+    "prenomNOM1": "Odile VIDAL-SAGNIER",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4667,7 +4942,8 @@
     "site": "",
     "boucle": "",
     "slug": "leslie-mortreux",
-    "prenomNOM1": "Leslie MORTREUX"
+    "prenomNOM1": "Leslie MORTREUX",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4686,7 +4962,8 @@
     "wikidata": "Q63764974",
     "wikipediaTitle": "Roger Vicot",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Roger%20Vicot%20%C3%A0%20la%20Rentr%C3%A9e%202022%20des%20Jeunes%20Socialistes%20de%20Lille.jpg?width=1000",
-    "prenomNOM1": "Roger VICOT"
+    "prenomNOM1": "Roger VICOT",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4702,7 +4979,8 @@
     "site": "",
     "boucle": "",
     "slug": "bernard-baudoux",
-    "prenomNOM1": "Bernard BAUDOUX"
+    "prenomNOM1": "Bernard BAUDOUX",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4718,7 +4996,8 @@
     "site": "",
     "boucle": "",
     "slug": "damien-lacroix",
-    "prenomNOM1": "Damien LACROIX"
+    "prenomNOM1": "Damien LACROIX",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4734,7 +5013,8 @@
     "site": "",
     "boucle": "",
     "slug": "philippine-heyman",
-    "prenomNOM1": "Philippine HEYMAN"
+    "prenomNOM1": "Philippine HEYMAN",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4750,7 +5030,8 @@
     "site": "",
     "boucle": "",
     "slug": "emilie-ducourant",
-    "prenomNOM1": "Émilie DUCOURANT"
+    "prenomNOM1": "Émilie DUCOURANT",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4769,7 +5050,8 @@
     "wikidata": "Q30351244",
     "wikipediaTitle": "Alain Bruneel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Bruneel.jpg?width=1000",
-    "prenomNOM1": "Alain BRUNEEL"
+    "prenomNOM1": "Alain BRUNEEL",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4785,7 +5067,8 @@
     "site": "",
     "boucle": "",
     "slug": "frederic-chereau",
-    "prenomNOM1": "Frederic CHEREAU"
+    "prenomNOM1": "Frederic CHEREAU",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4803,7 +5086,8 @@
     "slug": "benoit-marechal",
     "wikidata": "Q2896596",
     "wikipediaTitle": "Benoît Maréchal",
-    "prenomNOM1": "Benoît MARÉCHAL"
+    "prenomNOM1": "Benoît MARÉCHAL",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4819,7 +5103,8 @@
     "site": "",
     "boucle": "",
     "slug": "cedric-brun",
-    "prenomNOM1": "Cédric BRUN"
+    "prenomNOM1": "Cédric BRUN",
+    "feminin1": null
   },
   {
     "departement": "59",
@@ -4838,7 +5123,8 @@
     "wikidata": "Q30388733",
     "wikipediaTitle": "Fabien Roussel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Roussel%20Fabien%201.jpg?width=1000",
-    "prenomNOM1": "Fabien ROUSSEL"
+    "prenomNOM1": "Fabien ROUSSEL",
+    "feminin1": false
   },
   {
     "departement": "59",
@@ -4854,7 +5140,8 @@
     "site": "",
     "boucle": "",
     "slug": "pierrick-colpin",
-    "prenomNOM1": "Pierrick COLPIN"
+    "prenomNOM1": "Pierrick COLPIN",
+    "feminin1": null
   },
   {
     "departement": "60",
@@ -4870,7 +5157,8 @@
     "site": "",
     "boucle": "",
     "slug": "roxane-lundy",
-    "prenomNOM1": "Roxane LUNDY"
+    "prenomNOM1": "Roxane LUNDY",
+    "feminin1": null
   },
   {
     "departement": "60",
@@ -4886,7 +5174,8 @@
     "site": "",
     "boucle": "",
     "slug": "marianne-seck",
-    "prenomNOM1": "Marianne SECK"
+    "prenomNOM1": "Marianne SECK",
+    "feminin1": null
   },
   {
     "departement": "60",
@@ -4902,7 +5191,8 @@
     "site": "",
     "boucle": "",
     "slug": "amadou-ka",
-    "prenomNOM1": "Amadou KA"
+    "prenomNOM1": "Amadou KA",
+    "feminin1": null
   },
   {
     "departement": "60",
@@ -4918,7 +5208,8 @@
     "site": "",
     "boucle": "",
     "slug": "mohamed-assamti",
-    "prenomNOM1": "Mohamed ASSAMTI"
+    "prenomNOM1": "Mohamed ASSAMTI",
+    "feminin1": null
   },
   {
     "departement": "60",
@@ -4935,7 +5226,8 @@
     "boucle": "",
     "slug": "bertrand-brassens",
     "wikidata": "Q33182205",
-    "prenomNOM1": "Bertrand BRASSENS"
+    "prenomNOM1": "Bertrand BRASSENS",
+    "feminin1": false
   },
   {
     "departement": "60",
@@ -4952,7 +5244,8 @@
     "boucle": "",
     "slug": "baptiste-de-fresse-de-monval",
     "wikidata": "Q98246259",
-    "prenomNOM1": "Baptiste DE FRESSE DE MONVAL"
+    "prenomNOM1": "Baptiste DE FRESSE DE MONVAL",
+    "feminin1": false
   },
   {
     "departement": "60",
@@ -4969,7 +5262,8 @@
     "boucle": "https://chat.whatsapp.com/FPKACitl0O4A5Wmt1uiKEn",
     "slug": "loic-pen",
     "wikidata": "Q65595609",
-    "prenomNOM1": "Loïc PEN"
+    "prenomNOM1": "Loïc PEN",
+    "feminin1": false
   },
   {
     "departement": "61",
@@ -4988,7 +5282,8 @@
     "wikidata": "Q97405844",
     "wikipediaTitle": "Chantal Jourdan",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chantal%20Jourdan%202022.jpg?width=1000",
-    "prenomNOM1": "Chantal JOURDAN"
+    "prenomNOM1": "Chantal JOURDAN",
+    "feminin1": true
   },
   {
     "departement": "61",
@@ -5004,7 +5299,8 @@
     "site": "",
     "boucle": "",
     "slug": "guillaume-sacriste",
-    "prenomNOM1": "Guillaume SACRISTE"
+    "prenomNOM1": "Guillaume SACRISTE",
+    "feminin1": null
   },
   {
     "departement": "61",
@@ -5021,7 +5317,8 @@
     "boucle": "",
     "slug": "lori-helloco",
     "wikidata": "Q63764513",
-    "prenomNOM1": "Lori HELLOCO"
+    "prenomNOM1": "Lori HELLOCO",
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5037,7 +5334,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-michel-sauvage",
-    "prenomNOM1": "Jean-Michel SAUVAGE"
+    "prenomNOM1": "Jean-Michel SAUVAGE",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5053,7 +5351,8 @@
     "site": "",
     "boucle": "",
     "slug": "alexandre-cousin",
-    "prenomNOM1": "Alexandre COUSIN"
+    "prenomNOM1": "Alexandre COUSIN",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5071,7 +5370,8 @@
     "slug": "jean-marc-tellier",
     "wikidata": "Q63763998",
     "wikipediaTitle": "Jean-Marc Tellier",
-    "prenomNOM1": "Jean-Marc TELLIER"
+    "prenomNOM1": "Jean-Marc TELLIER",
+    "feminin1": false
   },
   {
     "departement": "62",
@@ -5088,7 +5388,8 @@
     "boucle": "",
     "slug": "blandine-drain",
     "wikidata": "Q63766224",
-    "prenomNOM1": "Blandine DRAIN"
+    "prenomNOM1": "Blandine DRAIN",
+    "feminin1": true
   },
   {
     "departement": "62",
@@ -5104,7 +5405,8 @@
     "site": "",
     "boucle": "",
     "slug": "olivier-barbarin",
-    "prenomNOM1": "Olivier BARBARIN"
+    "prenomNOM1": "Olivier BARBARIN",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5120,7 +5422,8 @@
     "site": "",
     "boucle": "",
     "slug": "aurore-pageaud",
-    "prenomNOM1": "Aurore PAGEAUD"
+    "prenomNOM1": "Aurore PAGEAUD",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5136,7 +5439,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-pierre-moussally",
-    "prenomNOM1": "Jean-Pierre MOUSSALLY"
+    "prenomNOM1": "Jean-Pierre MOUSSALLY",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5152,7 +5456,8 @@
     "site": "",
     "boucle": "",
     "slug": "bertand-petit",
-    "prenomNOM1": "Bertand PETIT"
+    "prenomNOM1": "Bertand PETIT",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5168,7 +5473,8 @@
     "site": "",
     "boucle": "",
     "slug": "estelle-harremoes",
-    "prenomNOM1": "Estelle HARREMOES"
+    "prenomNOM1": "Estelle HARREMOES",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5184,7 +5490,8 @@
     "site": "",
     "boucle": "",
     "slug": "sandrine-coquerie",
-    "prenomNOM1": "Sandrine COQUERIE"
+    "prenomNOM1": "Sandrine COQUERIE",
+    "feminin1": null
   },
   {
     "departement": "62",
@@ -5201,7 +5508,8 @@
     "boucle": "",
     "slug": "samira-laal",
     "wikidata": "Q126689275",
-    "prenomNOM1": "Samira LAAL"
+    "prenomNOM1": "Samira LAAL",
+    "feminin1": true
   },
   {
     "departement": "62",
@@ -5217,7 +5525,8 @@
     "site": "",
     "boucle": "",
     "slug": "alain-bavay",
-    "prenomNOM1": "Alain BAVAY"
+    "prenomNOM1": "Alain BAVAY",
+    "feminin1": null
   },
   {
     "departement": "63",
@@ -5236,7 +5545,8 @@
     "wikidata": "Q112635593",
     "wikipediaTitle": "Marianne Maximi",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne%20maximi.jpg?width=1000",
-    "prenomNOM1": "Marianne MAXIMI"
+    "prenomNOM1": "Marianne MAXIMI",
+    "feminin1": true
   },
   {
     "departement": "63",
@@ -5255,7 +5565,8 @@
     "wikidata": "Q2413788",
     "wikipediaTitle": "Christine Pirès-Beaune",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Christine%20Pir%C3%A8s-Beaune.jpeg?width=1000",
-    "prenomNOM1": "Christine PIRES BEAUNE"
+    "prenomNOM1": "Christine PIRES BEAUNE",
+    "feminin1": true
   },
   {
     "departement": "63",
@@ -5271,7 +5582,8 @@
     "site": "",
     "boucle": "",
     "slug": "nicolas-bonnet",
-    "prenomNOM1": "Nicolas BONNET"
+    "prenomNOM1": "Nicolas BONNET",
+    "feminin1": null
   },
   {
     "departement": "63",
@@ -5288,7 +5600,8 @@
     "boucle": "",
     "slug": "valerie-goleo",
     "wikidata": "Q126595757",
-    "prenomNOM1": "Valérie GOLEO"
+    "prenomNOM1": "Valérie GOLEO",
+    "feminin1": true
   },
   {
     "departement": "63",
@@ -5307,7 +5620,8 @@
     "wikidata": "Q517765",
     "wikipediaTitle": "André Chassaigne",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Chassaigne%20%C3%A0%20la%20foire%20du%20livre%202010%20de%20Brive%20la%20Gaillarde.JPG?width=1000",
-    "prenomNOM1": "André CHASSAIGNE"
+    "prenomNOM1": "André CHASSAIGNE",
+    "feminin1": false
   },
   {
     "departement": "64",
@@ -5323,7 +5637,8 @@
     "site": "https://www.facebook.com/jean.ssanroman.7",
     "boucle": "",
     "slug": "jean-sanroman",
-    "prenomNOM1": "Jean SANROMAN"
+    "prenomNOM1": "Jean SANROMAN",
+    "feminin1": null
   },
   {
     "departement": "64",
@@ -5339,7 +5654,8 @@
     "site": "",
     "boucle": "",
     "slug": "julien-brunel",
-    "prenomNOM1": "Julien BRUNEL"
+    "prenomNOM1": "Julien BRUNEL",
+    "feminin1": null
   },
   {
     "departement": "64",
@@ -5355,7 +5671,8 @@
     "site": "",
     "boucle": "",
     "slug": "joelle-losson",
-    "prenomNOM1": "Joëlle LOSSON"
+    "prenomNOM1": "Joëlle LOSSON",
+    "feminin1": null
   },
   {
     "departement": "64",
@@ -5371,7 +5688,8 @@
     "site": "https://www.inakiechaniz.fr/",
     "boucle": "",
     "slug": "inaki-echaniz",
-    "prenomNOM1": "Iñaki ECHANIZ"
+    "prenomNOM1": "Iñaki ECHANIZ",
+    "feminin1": null
   },
   {
     "departement": "64",
@@ -5390,7 +5708,8 @@
     "wikidata": "Q2982476",
     "wikipediaTitle": "Colette Capdevielle",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Colette%20Capdevielle.png?width=1000",
-    "prenomNOM1": "Colette CAPDEVIELLE"
+    "prenomNOM1": "Colette CAPDEVIELLE",
+    "feminin1": true
   },
   {
     "departement": "64",
@@ -5406,7 +5725,8 @@
     "site": "",
     "boucle": "",
     "slug": "peio-dufau",
-    "prenomNOM1": "Peio DUFAU"
+    "prenomNOM1": "Peio DUFAU",
+    "feminin1": null
   },
   {
     "departement": "65",
@@ -5425,7 +5745,8 @@
     "wikidata": "Q112651749",
     "wikipediaTitle": "Sylvie Ferrer",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvie%20ferrer%20manifestation.jpg?width=1000",
-    "prenomNOM1": "Sylvie FERRER"
+    "prenomNOM1": "Sylvie FERRER",
+    "feminin1": true
   },
   {
     "departement": "65",
@@ -5442,7 +5763,8 @@
     "boucle": "",
     "slug": "denis-fegne",
     "wikidata": "Q65580790",
-    "prenomNOM1": "Denis FÉGNÉ"
+    "prenomNOM1": "Denis FÉGNÉ",
+    "feminin1": false
   },
   {
     "departement": "66",
@@ -5458,7 +5780,8 @@
     "site": "",
     "boucle": "",
     "slug": "francis-daspe",
-    "prenomNOM1": "Francis DASPE"
+    "prenomNOM1": "Francis DASPE",
+    "feminin1": null
   },
   {
     "departement": "66",
@@ -5474,7 +5797,8 @@
     "site": "",
     "boucle": "",
     "slug": "david-berrue",
-    "prenomNOM1": "David BERRUÉ"
+    "prenomNOM1": "David BERRUÉ",
+    "feminin1": null
   },
   {
     "departement": "66",
@@ -5490,7 +5814,8 @@
     "site": "",
     "boucle": "",
     "slug": "nathalie-cullel",
-    "prenomNOM1": "Nathalie CULLEL"
+    "prenomNOM1": "Nathalie CULLEL",
+    "feminin1": null
   },
   {
     "departement": "66",
@@ -5506,7 +5831,8 @@
     "site": "",
     "boucle": "",
     "slug": "julien-baraille",
-    "prenomNOM1": "Julien BARAILLÉ"
+    "prenomNOM1": "Julien BARAILLÉ",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5525,7 +5851,8 @@
     "wikidata": "Q109711972",
     "wikipediaTitle": "Sandra Regol",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20Regol%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Sandra REGOL"
+    "prenomNOM1": "Sandra REGOL",
+    "feminin1": true
   },
   {
     "departement": "67",
@@ -5544,7 +5871,8 @@
     "wikidata": "Q112651844",
     "wikipediaTitle": "Emmanuel Fernandes",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/M.%20Emmanuel%20Fernandes%2C%20d%C3%A9put%C3%A9.jpg?width=1000",
-    "prenomNOM1": "Emmanuel FERNANDES"
+    "prenomNOM1": "Emmanuel FERNANDES",
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -5560,7 +5888,8 @@
     "site": "",
     "boucle": "",
     "slug": "thierry-sother",
-    "prenomNOM1": "Thierry SOTHER"
+    "prenomNOM1": "Thierry SOTHER",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5576,7 +5905,8 @@
     "site": "",
     "boucle": "",
     "slug": "raphaele-krattinger",
-    "prenomNOM1": "Raphaële KRATTINGER"
+    "prenomNOM1": "Raphaële KRATTINGER",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5592,7 +5922,8 @@
     "site": "",
     "boucle": "",
     "slug": "marc-ruhlmann",
-    "prenomNOM1": "Marc RUHLMANN"
+    "prenomNOM1": "Marc RUHLMANN",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5609,7 +5940,8 @@
     "boucle": "",
     "slug": "didier-andres",
     "wikidata": "Q123081",
-    "prenomNOM1": "Didier ANDRES"
+    "prenomNOM1": "Didier ANDRES",
+    "feminin1": false
   },
   {
     "departement": "67",
@@ -5625,7 +5957,8 @@
     "site": "",
     "boucle": "",
     "slug": "serge-bloch",
-    "prenomNOM1": "Serge BLOCH"
+    "prenomNOM1": "Serge BLOCH",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5641,7 +5974,8 @@
     "site": "",
     "boucle": "",
     "slug": "myriam-zekagh",
-    "prenomNOM1": "Myriam ZEKAGH"
+    "prenomNOM1": "Myriam ZEKAGH",
+    "feminin1": null
   },
   {
     "departement": "67",
@@ -5658,7 +5992,8 @@
     "boucle": "",
     "slug": "olivier-terrien",
     "wikidata": "Q99480982",
-    "prenomNOM1": "Olivier TERRIEN"
+    "prenomNOM1": "Olivier TERRIEN",
+    "feminin1": false
   },
   {
     "departement": "68",
@@ -5674,7 +6009,8 @@
     "site": "",
     "boucle": "",
     "slug": "aicha-fritsch",
-    "prenomNOM1": "Aïcha FRITSCH"
+    "prenomNOM1": "Aïcha FRITSCH",
+    "feminin1": null
   },
   {
     "departement": "68",
@@ -5690,7 +6026,8 @@
     "site": "",
     "boucle": "https://t.me/+1islAgIT-XgxZTdk",
     "slug": "lilian-bourgeois",
-    "prenomNOM1": "Lilian BOURGEOIS"
+    "prenomNOM1": "Lilian BOURGEOIS",
+    "feminin1": null
   },
   {
     "departement": "68",
@@ -5706,7 +6043,8 @@
     "site": "",
     "boucle": "",
     "slug": "benedicte-viroulet",
-    "prenomNOM1": "Bénédicte VIROULET"
+    "prenomNOM1": "Bénédicte VIROULET",
+    "feminin1": null
   },
   {
     "departement": "68",
@@ -5722,7 +6060,8 @@
     "site": "",
     "boucle": "",
     "slug": "simone-fest",
-    "prenomNOM1": "Simone FEST"
+    "prenomNOM1": "Simone FEST",
+    "feminin1": null
   },
   {
     "departement": "68",
@@ -5739,7 +6078,8 @@
     "boucle": "",
     "slug": "nadia-el-hajjaji",
     "wikidata": "Q126722856",
-    "prenomNOM1": "Nadia EL HAJJAJI"
+    "prenomNOM1": "Nadia EL HAJJAJI",
+    "feminin1": true
   },
   {
     "departement": "68",
@@ -5755,7 +6095,8 @@
     "site": "",
     "boucle": "",
     "slug": "florence-claudepierre",
-    "prenomNOM1": "Florence CLAUDEPIERRE"
+    "prenomNOM1": "Florence CLAUDEPIERRE",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5771,7 +6112,8 @@
     "site": "https://anaisbelouassacherifi.fr/",
     "boucle": "",
     "slug": "anais-belouassa-cherifi",
-    "prenomNOM1": "Anaïs BELOUASSA CHERIFI"
+    "prenomNOM1": "Anaïs BELOUASSA CHERIFI",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5788,7 +6130,8 @@
     "boucle": "",
     "slug": "boris-tavernier",
     "wikidata": "Q126599155",
-    "prenomNOM1": "Boris TAVERNIER"
+    "prenomNOM1": "Boris TAVERNIER",
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -5807,7 +6150,8 @@
     "wikidata": "Q112652262",
     "wikipediaTitle": "Marie-Charlotte Garin",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Charlotte%20Garin%20en%202023%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Marie-Charlotte GARIN"
+    "prenomNOM1": "Marie-Charlotte GARIN",
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -5824,7 +6168,8 @@
     "boucle": "https://docs.google.com/spreadsheets/d/1V-Pyzgq8VxFx6mKW70zf8ZnPofi_FelIHYR_ll4RF0k/edit?gid=1181020121#gid=1181020121&fvid=1274368455",
     "slug": "sandrine-runel",
     "wikidata": "Q85304039",
-    "prenomNOM1": "Sandrine RUNEL"
+    "prenomNOM1": "Sandrine RUNEL",
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -5841,7 +6186,8 @@
     "boucle": "",
     "slug": "fabrice-matteucci",
     "wikidata": "Q126679129",
-    "prenomNOM1": "Fabrice MATTEUCCI"
+    "prenomNOM1": "Fabrice MATTEUCCI",
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -5859,7 +6205,8 @@
     "slug": "gabriel-amard",
     "wikidata": "Q3093583",
     "wikipediaTitle": "Gabriel Amard",
-    "prenomNOM1": "Gabriel AMARD"
+    "prenomNOM1": "Gabriel AMARD",
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -5875,7 +6222,8 @@
     "site": "",
     "boucle": "",
     "slug": "abdelkader-lahmar",
-    "prenomNOM1": "Abdelkader LAHMAR"
+    "prenomNOM1": "Abdelkader LAHMAR",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5891,7 +6239,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-reymbaut",
-    "prenomNOM1": "Anne REYMBAUT"
+    "prenomNOM1": "Anne REYMBAUT",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5907,7 +6256,8 @@
     "site": "",
     "boucle": "https://t.me/frontpopulaire9emecirco69",
     "slug": "jean-henri-soumireu-lartigue",
-    "prenomNOM1": "Jean-Henri SOUMIREU-LARTIGUE"
+    "prenomNOM1": "Jean-Henri SOUMIREU-LARTIGUE",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5923,7 +6273,8 @@
     "site": "",
     "boucle": "",
     "slug": "florence-perrin",
-    "prenomNOM1": "Florence PERRIN"
+    "prenomNOM1": "Florence PERRIN",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5940,7 +6291,8 @@
     "boucle": "",
     "slug": "abdel-yousfi",
     "wikidata": "Q126726315",
-    "prenomNOM1": "Abdel YOUSFI"
+    "prenomNOM1": "Abdel YOUSFI",
+    "feminin1": false
   },
   {
     "departement": "69",
@@ -5957,7 +6309,8 @@
     "boucle": "",
     "slug": "lucie-gaillot-durand",
     "wikidata": "Q126732044",
-    "prenomNOM1": "Lucie GAILLOT-DURAND"
+    "prenomNOM1": "Lucie GAILLOT-DURAND",
+    "feminin1": true
   },
   {
     "departement": "69",
@@ -5973,7 +6326,8 @@
     "site": "",
     "boucle": "https://actionpopulaire.fr/groupes/235c7d1a-29c0-47f3-abee-d20a3e27133a/",
     "slug": "victor-prandt",
-    "prenomNOM1": "Victor PRANDT"
+    "prenomNOM1": "Victor PRANDT",
+    "feminin1": null
   },
   {
     "departement": "69",
@@ -5991,7 +6345,8 @@
     "slug": "idir-boumertit",
     "wikidata": "Q112652345",
     "wikipediaTitle": "Idir Boumertit",
-    "prenomNOM1": "Idir BOUMERTIT"
+    "prenomNOM1": "Idir BOUMERTIT",
+    "feminin1": false
   },
   {
     "departement": "70",
@@ -6007,7 +6362,8 @@
     "site": "",
     "boucle": "",
     "slug": "sebastien-poyard",
-    "prenomNOM1": "Sébastien POYARD"
+    "prenomNOM1": "Sébastien POYARD",
+    "feminin1": null
   },
   {
     "departement": "70",
@@ -6023,7 +6379,8 @@
     "site": "",
     "boucle": "",
     "slug": "eric-houllez",
-    "prenomNOM1": "Eric HOULLEZ"
+    "prenomNOM1": "Eric HOULLEZ",
+    "feminin1": null
   },
   {
     "departement": "71",
@@ -6039,7 +6396,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-luc-deulpeuch",
-    "prenomNOM1": "Jean-Luc DEULPEUCH"
+    "prenomNOM1": "Jean-Luc DEULPEUCH",
+    "feminin1": null
   },
   {
     "departement": "71",
@@ -6055,7 +6413,8 @@
     "site": "",
     "boucle": "",
     "slug": "sebastien-gautheron",
-    "prenomNOM1": "Sébastien GAUTHERON"
+    "prenomNOM1": "Sébastien GAUTHERON",
+    "feminin1": null
   },
   {
     "departement": "71",
@@ -6072,7 +6431,8 @@
     "boucle": "https://chat.whatsapp.com/E9JzFN3qfj2DMRZ6mcQQlJ",
     "slug": "richard-beninger",
     "wikidata": "Q41742124",
-    "prenomNOM1": "Richard BENINGER"
+    "prenomNOM1": "Richard BENINGER",
+    "feminin1": false
   },
   {
     "departement": "71",
@@ -6091,7 +6451,8 @@
     "wikidata": "Q3009791",
     "wikipediaTitle": "Cécile Untermaier",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/DeputeXIVeLegVeRep-Cecile%20Untermaier1.jpg?width=1000",
-    "prenomNOM1": "Cécile UNTERMAIER"
+    "prenomNOM1": "Cécile UNTERMAIER",
+    "feminin1": true
   },
   {
     "departement": "71",
@@ -6107,7 +6468,8 @@
     "site": "",
     "boucle": "",
     "slug": "fatima-kouriche",
-    "prenomNOM1": "Fatima KOURICHE"
+    "prenomNOM1": "Fatima KOURICHE",
+    "feminin1": null
   },
   {
     "departement": "72",
@@ -6124,7 +6486,8 @@
     "boucle": "",
     "slug": "ghislaine-bonnet",
     "wikidata": "Q65568243",
-    "prenomNOM1": "Ghislaine BONNET"
+    "prenomNOM1": "Ghislaine BONNET",
+    "feminin1": true
   },
   {
     "departement": "72",
@@ -6142,7 +6505,8 @@
     "slug": "marietta-karamanli",
     "wikidata": "Q3293018",
     "wikipediaTitle": "Marietta Karamanli",
-    "prenomNOM1": "Marietta KARAMANLI"
+    "prenomNOM1": "Marietta KARAMANLI",
+    "feminin1": true
   },
   {
     "departement": "72",
@@ -6158,7 +6522,8 @@
     "site": "",
     "boucle": "",
     "slug": "mathilde-jack",
-    "prenomNOM1": "Mathilde JACK"
+    "prenomNOM1": "Mathilde JACK",
+    "feminin1": null
   },
   {
     "departement": "72",
@@ -6174,7 +6539,8 @@
     "site": "https://linktr.ee/elise.leboucher",
     "boucle": "",
     "slug": "elise-leboucher",
-    "prenomNOM1": "Elise LEBOUCHER"
+    "prenomNOM1": "Elise LEBOUCHER",
+    "feminin1": null
   },
   {
     "departement": "72",
@@ -6190,7 +6556,8 @@
     "site": "",
     "boucle": "",
     "slug": "christophe-rouillon",
-    "prenomNOM1": "Christophe ROUILLON"
+    "prenomNOM1": "Christophe ROUILLON",
+    "feminin1": null
   },
   {
     "departement": "73",
@@ -6206,7 +6573,8 @@
     "site": "",
     "boucle": "",
     "slug": "christel-granata",
-    "prenomNOM1": "Christel GRANATA"
+    "prenomNOM1": "Christel GRANATA",
+    "feminin1": null
   },
   {
     "departement": "73",
@@ -6222,7 +6590,8 @@
     "site": "",
     "boucle": "",
     "slug": "pascale-martinot",
-    "prenomNOM1": "Pascale MARTINOT"
+    "prenomNOM1": "Pascale MARTINOT",
+    "feminin1": null
   },
   {
     "departement": "73",
@@ -6238,7 +6607,8 @@
     "site": "",
     "boucle": "",
     "slug": "daniel-ibanez",
-    "prenomNOM1": "Daniel IBANEZ"
+    "prenomNOM1": "Daniel IBANEZ",
+    "feminin1": null
   },
   {
     "departement": "73",
@@ -6257,7 +6627,8 @@
     "wikidata": "Q112642209",
     "wikipediaTitle": "Jean-François Coulomme",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-07-10%2016-37-30%20JFC%20terrain.jpg?width=1000",
-    "prenomNOM1": "Jean-François COULOMME"
+    "prenomNOM1": "Jean-François COULOMME",
+    "feminin1": false
   },
   {
     "departement": "74",
@@ -6273,7 +6644,8 @@
     "site": "",
     "boucle": "",
     "slug": "anne-valerie-duval",
-    "prenomNOM1": "Anne-Valérie DUVAL"
+    "prenomNOM1": "Anne-Valérie DUVAL",
+    "feminin1": null
   },
   {
     "departement": "74",
@@ -6290,7 +6662,8 @@
     "boucle": "",
     "slug": "guillaume-tatu",
     "wikidata": "Q90242867",
-    "prenomNOM1": "Guillaume TATU"
+    "prenomNOM1": "Guillaume TATU",
+    "feminin1": null
   },
   {
     "departement": "74",
@@ -6307,7 +6680,8 @@
     "boucle": "",
     "slug": "gerard-vez",
     "wikidata": "Q126727399",
-    "prenomNOM1": "Gérard VEZ"
+    "prenomNOM1": "Gérard VEZ",
+    "feminin1": false
   },
   {
     "departement": "74",
@@ -6323,7 +6697,8 @@
     "site": "",
     "boucle": "",
     "slug": "dominique-lachenal",
-    "prenomNOM1": "Dominique LACHENAL"
+    "prenomNOM1": "Dominique LACHENAL",
+    "feminin1": null
   },
   {
     "departement": "74",
@@ -6339,7 +6714,8 @@
     "site": "",
     "boucle": "",
     "slug": "jean-baptiste-baud",
-    "prenomNOM1": "Jean-Baptiste BAUD"
+    "prenomNOM1": "Jean-Baptiste BAUD",
+    "feminin1": null
   },
   {
     "departement": "74",
@@ -6355,7 +6731,8 @@
     "site": "",
     "boucle": "",
     "slug": "delphine-vuagnoux",
-    "prenomNOM1": "Delphine VUAGNOUX"
+    "prenomNOM1": "Delphine VUAGNOUX",
+    "feminin1": null
   },
   {
     "departement": "75",
@@ -6372,7 +6749,8 @@
     "boucle": "",
     "slug": "raphael-kempf",
     "wikidata": "Q69927194",
-    "prenomNOM1": "Raphaël KEMPF"
+    "prenomNOM1": "Raphaël KEMPF",
+    "feminin1": false
   },
   {
     "departement": "75",
@@ -6389,7 +6767,8 @@
     "boucle": "",
     "slug": "marine-rosset",
     "wikidata": "Q126726341",
-    "prenomNOM1": "Marine ROSSET"
+    "prenomNOM1": "Marine ROSSET",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6406,7 +6785,8 @@
     "boucle": "https://chat.whatsapp.com/HZX5KEMPRQqLJLMJNK5kmf",
     "slug": "lea-balage-el-mariky",
     "wikidata": "Q112526631",
-    "prenomNOM1": "Léa BALAGE EL MARIKY"
+    "prenomNOM1": "Léa BALAGE EL MARIKY",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6422,7 +6802,8 @@
     "site": "",
     "boucle": "",
     "slug": "thea-fourdrinier",
-    "prenomNOM1": "Théa FOURDRINIER"
+    "prenomNOM1": "Théa FOURDRINIER",
+    "feminin1": null
   },
   {
     "departement": "75",
@@ -6441,7 +6822,8 @@
     "wikidata": "Q3400568",
     "wikipediaTitle": "Pouria Amirshahi",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Pouria%20Amirshahi.jpg?width=1000",
-    "prenomNOM1": "Pouria AMIRSHAHI"
+    "prenomNOM1": "Pouria AMIRSHAHI",
+    "feminin1": false
   },
   {
     "departement": "75",
@@ -6459,7 +6841,8 @@
     "slug": "sophia-chikirou",
     "wikidata": "Q28964087",
     "wikipediaTitle": "Sophia Chikirou",
-    "prenomNOM1": "Sophia CHIKIROU"
+    "prenomNOM1": "Sophia CHIKIROU",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6478,7 +6861,8 @@
     "wikidata": "Q64281962",
     "wikipediaTitle": "Emmanuel Grégoire",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Gr%C3%A9goire%20%2846632368425%29.jpg?width=1000",
-    "prenomNOM1": "Emmanuel GREGOIRE"
+    "prenomNOM1": "Emmanuel GREGOIRE",
+    "feminin1": false
   },
   {
     "departement": "75",
@@ -6497,7 +6881,8 @@
     "wikidata": "Q3592676",
     "wikipediaTitle": "Éva Sas",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89va%20Sas%20-%20portrait.jpg?width=1000",
-    "prenomNOM1": "Eva SAS"
+    "prenomNOM1": "Eva SAS",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6516,7 +6901,8 @@
     "wikidata": "Q21013136",
     "wikipediaTitle": "Sandrine Rousseau",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Rousseau%2020210819%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Sandrine ROUSSEAU"
+    "prenomNOM1": "Sandrine ROUSSEAU",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6532,7 +6918,8 @@
     "site": "https://rodrigoarenas.fr/",
     "boucle": "",
     "slug": "rodrigo-arenas",
-    "prenomNOM1": "Rodrigo ARENAS"
+    "prenomNOM1": "Rodrigo ARENAS",
+    "feminin1": null
   },
   {
     "departement": "75",
@@ -6549,7 +6936,8 @@
     "boucle": "https://chat.whatsapp.com/HQYY7gmLEtZB5x1ovk3iAK",
     "slug": "celine-hervieu",
     "wikidata": "Q106489533",
-    "prenomNOM1": "Céline HERVIEU"
+    "prenomNOM1": "Céline HERVIEU",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6566,7 +6954,8 @@
     "boucle": "",
     "slug": "celine-malaise",
     "wikidata": "Q63537105",
-    "prenomNOM1": "Céline MALAISÉ"
+    "prenomNOM1": "Céline MALAISÉ",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6583,7 +6972,8 @@
     "boucle": "",
     "slug": "aminata-niakate",
     "wikidata": "Q60317549",
-    "prenomNOM1": "Aminata NIAKATE"
+    "prenomNOM1": "Aminata NIAKATE",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6599,7 +6989,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/Kdm4KT5Q2752orqfEcWGHx",
     "slug": "hugo-rota",
-    "prenomNOM1": "Hugo ROTA"
+    "prenomNOM1": "Hugo ROTA",
+    "feminin1": null
   },
   {
     "departement": "75",
@@ -6617,7 +7008,8 @@
     "slug": "sarah-legrain",
     "wikidata": "Q112448632",
     "wikipediaTitle": "Sarah Legrain",
-    "prenomNOM1": "Sarah LEGRAIN"
+    "prenomNOM1": "Sarah LEGRAIN",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6636,7 +7028,8 @@
     "wikidata": "Q30335340",
     "wikipediaTitle": "Danièle Obono",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Marche%20des%20fiert%C3%A9s%20de%20Paris%202017-22.jpg?width=1000",
-    "prenomNOM1": "Danièle OBONO"
+    "prenomNOM1": "Danièle OBONO",
+    "feminin1": true
   },
   {
     "departement": "75",
@@ -6655,7 +7048,8 @@
     "wikidata": "Q2874956",
     "wikipediaTitle": "Aymeric Caron",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%202013%20-%20Aymeric%20Caron%20001.jpg?width=1000",
-    "prenomNOM1": "Aymeric CARON"
+    "prenomNOM1": "Aymeric CARON",
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -6672,7 +7066,8 @@
     "boucle": "",
     "slug": "florence-herouin-leautey",
     "wikidata": "Q126688666",
-    "prenomNOM1": "Florence HÉROUIN LÉAUTEY"
+    "prenomNOM1": "Florence HÉROUIN LÉAUTEY",
+    "feminin1": true
   },
   {
     "departement": "76",
@@ -6688,7 +7083,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/FrRLzrhCsdMCs4tzqO7GuZ",
     "slug": "vincent-decorde",
-    "prenomNOM1": "Vincent DECORDE"
+    "prenomNOM1": "Vincent DECORDE",
+    "feminin1": null
   },
   {
     "departement": "76",
@@ -6704,7 +7100,8 @@
     "site": "",
     "boucle": "",
     "slug": "edouard-benard",
-    "prenomNOM1": "Édouard BÉNARD"
+    "prenomNOM1": "Édouard BÉNARD",
+    "feminin1": null
   },
   {
     "departement": "76",
@@ -6723,7 +7120,8 @@
     "wikidata": "Q110998923",
     "wikipediaTitle": "Alma Dufour",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma%20Dufour.png?width=1000",
-    "prenomNOM1": "Alma DUFOUR"
+    "prenomNOM1": "Alma DUFOUR",
+    "feminin1": true
   },
   {
     "departement": "76",
@@ -6742,7 +7140,8 @@
     "wikidata": "Q99627615",
     "wikipediaTitle": "Gérard Leseul",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Leseul%20-%20Portrait.jpg?width=1000",
-    "prenomNOM1": "Gérard LESEUL"
+    "prenomNOM1": "Gérard LESEUL",
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -6761,7 +7160,8 @@
     "wikidata": "Q3510156",
     "wikipediaTitle": "Sébastien Jumel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/SJumel.jpg?width=1000",
-    "prenomNOM1": "Sébastien JUMEL"
+    "prenomNOM1": "Sébastien JUMEL",
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -6777,7 +7177,8 @@
     "site": "",
     "boucle": "",
     "slug": "florence-martin-pereon",
-    "prenomNOM1": "Florence MARTIN-PÉRÉON"
+    "prenomNOM1": "Florence MARTIN-PÉRÉON",
+    "feminin1": null
   },
   {
     "departement": "76",
@@ -6796,7 +7197,8 @@
     "wikidata": "Q602146",
     "wikipediaTitle": "Jean-Paul Lecoq",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul%20Lecoq%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Jean-Paul LECOQ"
+    "prenomNOM1": "Jean-Paul LECOQ",
+    "feminin1": false
   },
   {
     "departement": "76",
@@ -6812,7 +7214,8 @@
     "site": "",
     "boucle": "",
     "slug": "christiane-rouxel",
-    "prenomNOM1": "Christiane ROUXEL"
+    "prenomNOM1": "Christiane ROUXEL",
+    "feminin1": null
   },
   {
     "departement": "76",
@@ -6828,7 +7231,8 @@
     "site": "",
     "boucle": "",
     "slug": "handy-barre",
-    "prenomNOM1": "Handy BARRÉ"
+    "prenomNOM1": "Handy BARRÉ",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6845,7 +7249,8 @@
     "boucle": "",
     "slug": "arnaud-saint-martin",
     "wikidata": "Q45486323",
-    "prenomNOM1": "Arnaud SAINT-MARTIN"
+    "prenomNOM1": "Arnaud SAINT-MARTIN",
+    "feminin1": false
   },
   {
     "departement": "77",
@@ -6861,7 +7266,8 @@
     "site": "https://scanned.page/p/666aff4006473",
     "boucle": "https://scanned.page/666aff4006473",
     "slug": "nour-benaissa-watbot",
-    "prenomNOM1": "Nour BENAISSA-WATBOT"
+    "prenomNOM1": "Nour BENAISSA-WATBOT",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6877,7 +7283,8 @@
     "site": "",
     "boucle": "",
     "slug": "laura-vallee-hans",
-    "prenomNOM1": "Laura VALLÉE-HANS"
+    "prenomNOM1": "Laura VALLÉE-HANS",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6893,7 +7300,8 @@
     "site": "",
     "boucle": "",
     "slug": "mathieu-garnier",
-    "prenomNOM1": "Mathieu GARNIER"
+    "prenomNOM1": "Mathieu GARNIER",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6909,7 +7317,8 @@
     "site": "",
     "boucle": "https://t.me/+r-ItxaX5tcoxNDU0",
     "slug": "laurie-caenberg",
-    "prenomNOM1": "Laurie CAENBERG"
+    "prenomNOM1": "Laurie CAENBERG",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6926,7 +7335,8 @@
     "boucle": "",
     "slug": "amal-bentounsi",
     "wikidata": "Q117619722",
-    "prenomNOM1": "Amal BENTOUNSI"
+    "prenomNOM1": "Amal BENTOUNSI",
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -6945,7 +7355,8 @@
     "wikidata": "Q112652742",
     "wikipediaTitle": "Ersilia Soudais",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/ErsiliaSoudaisPL.jpg?width=1000",
-    "prenomNOM1": "Ersilia SOUDAIS"
+    "prenomNOM1": "Ersilia SOUDAIS",
+    "feminin1": true
   },
   {
     "departement": "77",
@@ -6961,7 +7372,8 @@
     "site": "",
     "boucle": "https://airtable.com/apprbZihCDuElEZAy/shrGx0pZFX7raNDfs",
     "slug": "arnaud-bonnet",
-    "prenomNOM1": "Arnaud BONNET"
+    "prenomNOM1": "Arnaud BONNET",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6977,7 +7389,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/CvgUl4EF7LtFbLtOfU6Vyx",
     "slug": "celine-thiebault-martinez",
-    "prenomNOM1": "Céline THIÉBAULT-MARTINEZ"
+    "prenomNOM1": "Céline THIÉBAULT-MARTINEZ",
+    "feminin1": null
   },
   {
     "departement": "77",
@@ -6996,7 +7409,8 @@
     "wikidata": "Q112652777",
     "wikipediaTitle": "Maxime Laisney",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-11-28%20Mois%20ESS%20by%20Benoit%20Soubeyran%2001.jpg?width=1000",
-    "prenomNOM1": "Maxime LAISNEY"
+    "prenomNOM1": "Maxime LAISNEY",
+    "feminin1": false
   },
   {
     "departement": "77",
@@ -7015,7 +7429,8 @@
     "wikidata": "Q3351018",
     "wikipediaTitle": "Olivier Faure (homme politique)",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27Olivier%20Faure.jpg?width=1000",
-    "prenomNOM1": "Olivier FAURE"
+    "prenomNOM1": "Olivier FAURE",
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7032,7 +7447,8 @@
     "boucle": "",
     "slug": "sebastien-ramage",
     "wikidata": "Q126680692",
-    "prenomNOM1": "Sébastien RAMAGE"
+    "prenomNOM1": "Sébastien RAMAGE",
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7048,7 +7464,8 @@
     "site": "",
     "boucle": "",
     "slug": "maite-carrive-bedouani",
-    "prenomNOM1": "Maïté CARRIVE-BEDOUANI"
+    "prenomNOM1": "Maïté CARRIVE-BEDOUANI",
+    "feminin1": null
   },
   {
     "departement": "78",
@@ -7064,7 +7481,8 @@
     "site": "",
     "boucle": "",
     "slug": "thomas-ciano",
-    "prenomNOM1": "Thomas CIANO"
+    "prenomNOM1": "Thomas CIANO",
+    "feminin1": null
   },
   {
     "departement": "78",
@@ -7080,7 +7498,8 @@
     "site": "",
     "boucle": "",
     "slug": "celine-bourdon",
-    "prenomNOM1": "Céline BOURDON"
+    "prenomNOM1": "Céline BOURDON",
+    "feminin1": null
   },
   {
     "departement": "78",
@@ -7097,7 +7516,8 @@
     "boucle": "",
     "slug": "yassine-benyettou",
     "wikidata": "Q126723527",
-    "prenomNOM1": "Yassine BENYETTOU"
+    "prenomNOM1": "Yassine BENYETTOU",
+    "feminin1": true
   },
   {
     "departement": "78",
@@ -7114,7 +7534,8 @@
     "boucle": "",
     "slug": "melinda-sauger",
     "wikidata": "Q126723484",
-    "prenomNOM1": "Mélinda SAUGER"
+    "prenomNOM1": "Mélinda SAUGER",
+    "feminin1": true
   },
   {
     "departement": "78",
@@ -7132,7 +7553,8 @@
     "slug": "aurelien-rousseau",
     "wikidata": "Q29738515",
     "wikipediaTitle": "Aurélien Rousseau",
-    "prenomNOM1": "Aurélien ROUSSEAU"
+    "prenomNOM1": "Aurélien ROUSSEAU",
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7151,7 +7573,8 @@
     "wikidata": "Q26214575",
     "wikipediaTitle": "Benjamin Lucas",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Lucas.jpg?width=1000",
-    "prenomNOM1": "Benjamin LUCAS"
+    "prenomNOM1": "Benjamin LUCAS",
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7168,7 +7591,8 @@
     "boucle": "",
     "slug": "diop-dieynaba",
     "wikidata": "Q98556479",
-    "prenomNOM1": "Diop DIEYNABA"
+    "prenomNOM1": "Diop DIEYNABA",
+    "feminin1": true
   },
   {
     "departement": "78",
@@ -7184,7 +7608,8 @@
     "site": "",
     "boucle": "",
     "slug": "cedric-briolais",
-    "prenomNOM1": "Cédric BRIOLAIS"
+    "prenomNOM1": "Cédric BRIOLAIS",
+    "feminin1": null
   },
   {
     "departement": "78",
@@ -7203,7 +7628,8 @@
     "wikidata": "Q16683347",
     "wikipediaTitle": "William Martinet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Martinet.jpg?width=1000",
-    "prenomNOM1": "William MARTINET"
+    "prenomNOM1": "William MARTINET",
+    "feminin1": false
   },
   {
     "departement": "78",
@@ -7219,7 +7645,8 @@
     "site": "",
     "boucle": "",
     "slug": "christophe-massiaux",
-    "prenomNOM1": "Christophe MASSIAUX"
+    "prenomNOM1": "Christophe MASSIAUX",
+    "feminin1": null
   },
   {
     "departement": "79",
@@ -7236,7 +7663,8 @@
     "boucle": "",
     "slug": "nathalie-lanzi",
     "wikidata": "Q63349051",
-    "prenomNOM1": "Nathalie LANZI"
+    "prenomNOM1": "Nathalie LANZI",
+    "feminin1": true
   },
   {
     "departement": "79",
@@ -7255,7 +7683,8 @@
     "wikidata": "Q291385",
     "wikipediaTitle": "Delphine Batho",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Delphine%20Batho%20%28cropped%29.png?width=1000",
-    "prenomNOM1": "Delphine BATHO"
+    "prenomNOM1": "Delphine BATHO",
+    "feminin1": true
   },
   {
     "departement": "79",
@@ -7271,7 +7700,8 @@
     "site": "",
     "boucle": "",
     "slug": "juliette-woillez",
-    "prenomNOM1": "Juliette WOILLEZ"
+    "prenomNOM1": "Juliette WOILLEZ",
+    "feminin1": null
   },
   {
     "departement": "80",
@@ -7290,7 +7720,8 @@
     "wikidata": "Q3085763",
     "wikipediaTitle": "François Ruffin",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Ruffin%20lors%20du%20D%C3%A9pu%27tour%20le%2011%20septembre%202020.jpg?width=1000",
-    "prenomNOM1": "François RUFFIN"
+    "prenomNOM1": "François RUFFIN",
+    "feminin1": false
   },
   {
     "departement": "80",
@@ -7306,7 +7737,8 @@
     "site": "",
     "boucle": "",
     "slug": "zahia-hamdane",
-    "prenomNOM1": "Zahia HAMDANE"
+    "prenomNOM1": "Zahia HAMDANE",
+    "feminin1": null
   },
   {
     "departement": "80",
@@ -7325,7 +7757,8 @@
     "wikidata": "Q111020746",
     "wikipediaTitle": "Léon Deffontaines",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Deffontaines.jpg?width=1000",
-    "prenomNOM1": "Léon DEFFONTAINES"
+    "prenomNOM1": "Léon DEFFONTAINES",
+    "feminin1": false
   },
   {
     "departement": "80",
@@ -7341,7 +7774,8 @@
     "site": "",
     "boucle": "",
     "slug": "elodie-heren",
-    "prenomNOM1": "Elodie HEREN"
+    "prenomNOM1": "Elodie HEREN",
+    "feminin1": null
   },
   {
     "departement": "80",
@@ -7357,7 +7791,8 @@
     "site": "https://lafranceinsoumise.fr/2024/06/14/candidats-legislatives-2024/",
     "boucle": "",
     "slug": "simon-mauget",
-    "prenomNOM1": "Simon MAUGET"
+    "prenomNOM1": "Simon MAUGET",
+    "feminin1": null
   },
   {
     "departement": "81",
@@ -7373,7 +7808,8 @@
     "site": "",
     "boucle": "",
     "slug": "margot-lapeyre",
-    "prenomNOM1": "Margot LAPEYRE"
+    "prenomNOM1": "Margot LAPEYRE",
+    "feminin1": null
   },
   {
     "departement": "81",
@@ -7391,7 +7827,8 @@
     "slug": "karen-erodi",
     "wikidata": "Q112652886",
     "wikipediaTitle": "Karen Erodi",
-    "prenomNOM1": "Karen ERODI"
+    "prenomNOM1": "Karen ERODI",
+    "feminin1": true
   },
   {
     "departement": "81",
@@ -7407,7 +7844,8 @@
     "site": "",
     "boucle": "https://linktr.ee/julienlassalle",
     "slug": "julien-lassalle",
-    "prenomNOM1": "Julien LASSALLE"
+    "prenomNOM1": "Julien LASSALLE",
+    "feminin1": null
   },
   {
     "departement": "82",
@@ -7426,7 +7864,8 @@
     "wikidata": "Q3554304",
     "wikipediaTitle": "Valérie Rabault",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9rie%20Rabault.jpg?width=1000",
-    "prenomNOM1": "Valérie RABAULT"
+    "prenomNOM1": "Valérie RABAULT",
+    "feminin1": true
   },
   {
     "departement": "82",
@@ -7442,7 +7881,8 @@
     "site": "",
     "boucle": "",
     "slug": "claudie-chretien",
-    "prenomNOM1": "Claudie CHRÉTIEN"
+    "prenomNOM1": "Claudie CHRÉTIEN",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7458,7 +7898,8 @@
     "site": "",
     "boucle": "",
     "slug": "eric-habouzit",
-    "prenomNOM1": "Eric HABOUZIT"
+    "prenomNOM1": "Eric HABOUZIT",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7474,7 +7915,8 @@
     "site": "",
     "boucle": "",
     "slug": "isaline-cornil",
-    "prenomNOM1": "Isaline CORNIL"
+    "prenomNOM1": "Isaline CORNIL",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7490,7 +7932,8 @@
     "site": "",
     "boucle": "",
     "slug": "julia-peironet-bremond",
-    "prenomNOM1": "Julia PEIRONET-BRÉMOND"
+    "prenomNOM1": "Julia PEIRONET-BRÉMOND",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7506,7 +7949,8 @@
     "site": "",
     "boucle": "",
     "slug": "sabine-cristofani-viglione",
-    "prenomNOM1": "Sabine CRISTOFANI-VIGLIONE"
+    "prenomNOM1": "Sabine CRISTOFANI-VIGLIONE",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7522,7 +7966,8 @@
     "site": "",
     "boucle": "",
     "slug": "aurelien-lacour",
-    "prenomNOM1": "Aurelien LACOUR"
+    "prenomNOM1": "Aurelien LACOUR",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7538,7 +7983,8 @@
     "site": "",
     "boucle": "",
     "slug": "sylvie-vinceneux",
-    "prenomNOM1": "Sylvie VINCENEUX"
+    "prenomNOM1": "Sylvie VINCENEUX",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7554,7 +8000,8 @@
     "site": "",
     "boucle": "",
     "slug": "claudie-cartereau",
-    "prenomNOM1": "Claudie CARTEREAU"
+    "prenomNOM1": "Claudie CARTEREAU",
+    "feminin1": null
   },
   {
     "departement": "83",
@@ -7570,7 +8017,8 @@
     "site": "",
     "boucle": "",
     "slug": "sarah-breffy",
-    "prenomNOM1": "Sarah BREFFY"
+    "prenomNOM1": "Sarah BREFFY",
+    "feminin1": null
   },
   {
     "departement": "84",
@@ -7588,7 +8036,8 @@
     "slug": "raphael-arnault",
     "wikidata": "Q116870344",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rapha%C3%ABl%20Arnault%20en%202021.png?width=1000",
-    "prenomNOM1": "Raphael ARNAULT"
+    "prenomNOM1": "Raphael ARNAULT",
+    "feminin1": false
   },
   {
     "departement": "84",
@@ -7604,7 +8053,8 @@
     "site": "",
     "boucle": "",
     "slug": "francois-sandoz",
-    "prenomNOM1": "François SANDOZ"
+    "prenomNOM1": "François SANDOZ",
+    "feminin1": null
   },
   {
     "departement": "84",
@@ -7620,7 +8070,8 @@
     "site": "",
     "boucle": "",
     "slug": "muriel-duenas",
-    "prenomNOM1": "Muriel DUENAS"
+    "prenomNOM1": "Muriel DUENAS",
+    "feminin1": null
   },
   {
     "departement": "84",
@@ -7636,7 +8087,8 @@
     "site": "",
     "boucle": "",
     "slug": "monia-galvez",
-    "prenomNOM1": "Monia GALVEZ"
+    "prenomNOM1": "Monia GALVEZ",
+    "feminin1": null
   },
   {
     "departement": "84",
@@ -7652,7 +8104,8 @@
     "site": "",
     "boucle": "",
     "slug": "celine-celce",
-    "prenomNOM1": "Céline CELCE"
+    "prenomNOM1": "Céline CELCE",
+    "feminin1": null
   },
   {
     "departement": "85",
@@ -7669,7 +8122,8 @@
     "boucle": "",
     "slug": "lucie-etonno",
     "wikidata": "Q63455953",
-    "prenomNOM1": "Lucie ETONNO"
+    "prenomNOM1": "Lucie ETONNO",
+    "feminin1": true
   },
   {
     "departement": "85",
@@ -7685,7 +8139,8 @@
     "site": "",
     "boucle": "",
     "slug": "nicolas-helary",
-    "prenomNOM1": "Nicolas HELARY"
+    "prenomNOM1": "Nicolas HELARY",
+    "feminin1": null
   },
   {
     "departement": "85",
@@ -7701,7 +8156,8 @@
     "site": "",
     "boucle": "",
     "slug": "pascale-marchand",
-    "prenomNOM1": "Pascale MARCHAND"
+    "prenomNOM1": "Pascale MARCHAND",
+    "feminin1": null
   },
   {
     "departement": "85",
@@ -7717,7 +8173,8 @@
     "site": "",
     "boucle": "",
     "slug": "julie-mariel-godard",
-    "prenomNOM1": "Julie MARIEL-GODARD"
+    "prenomNOM1": "Julie MARIEL-GODARD",
+    "feminin1": null
   },
   {
     "departement": "85",
@@ -7733,7 +8190,8 @@
     "site": "",
     "boucle": "",
     "slug": "pierre-hugues-fourage",
-    "prenomNOM1": "Pierre-Hugues FOURAGE"
+    "prenomNOM1": "Pierre-Hugues FOURAGE",
+    "feminin1": null
   },
   {
     "departement": "86",
@@ -7752,7 +8210,8 @@
     "wikidata": "Q112654007",
     "wikipediaTitle": "Lisa Belluco",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/20230916%20LR%203090%20belluco%20lisa.jpg?width=1000",
-    "prenomNOM1": "Lisa BELLUCO"
+    "prenomNOM1": "Lisa BELLUCO",
+    "feminin1": true
   },
   {
     "departement": "86",
@@ -7768,7 +8227,8 @@
     "site": "https://www.tiktok.com/@circo8602",
     "boucle": "https://t.me/+G0eev9GT1XoxZTU8",
     "slug": "valerie-soumaille",
-    "prenomNOM1": "Valérie SOUMAILLE"
+    "prenomNOM1": "Valérie SOUMAILLE",
+    "feminin1": null
   },
   {
     "departement": "86",
@@ -7786,7 +8246,8 @@
     "slug": "gisele-jean",
     "wikidata": "Q65586154",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20Gisele2009.jpg?width=1000",
-    "prenomNOM1": "Gisèle JEAN"
+    "prenomNOM1": "Gisèle JEAN",
+    "feminin1": true
   },
   {
     "departement": "86",
@@ -7802,7 +8263,8 @@
     "site": "",
     "boucle": "",
     "slug": "yves-trouselle",
-    "prenomNOM1": "Yves TROUSELLE"
+    "prenomNOM1": "Yves TROUSELLE",
+    "feminin1": null
   },
   {
     "departement": "87",
@@ -7821,7 +8283,8 @@
     "wikidata": "Q112635145",
     "wikipediaTitle": "Damien Maudet",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/DamienMaudetPortrait%203.08.2022.png?width=1000",
-    "prenomNOM1": "Damien MAUDET"
+    "prenomNOM1": "Damien MAUDET",
+    "feminin1": false
   },
   {
     "departement": "87",
@@ -7839,7 +8302,8 @@
     "slug": "stephane-delautrette",
     "wikidata": "Q63764288",
     "wikipediaTitle": "Stéphane Delautrette",
-    "prenomNOM1": "Stephane DELAUTRETTE"
+    "prenomNOM1": "Stephane DELAUTRETTE",
+    "feminin1": false
   },
   {
     "departement": "87",
@@ -7857,7 +8321,8 @@
     "slug": "manon-meunier",
     "wikidata": "Q112653377",
     "wikipediaTitle": "Manon Meunier",
-    "prenomNOM1": "Manon MEUNIER"
+    "prenomNOM1": "Manon MEUNIER",
+    "feminin1": true
   },
   {
     "departement": "88",
@@ -7873,7 +8338,8 @@
     "site": "",
     "boucle": "",
     "slug": "dominique-perrin",
-    "prenomNOM1": "Dominique PERRIN"
+    "prenomNOM1": "Dominique PERRIN",
+    "feminin1": null
   },
   {
     "departement": "88",
@@ -7889,7 +8355,8 @@
     "site": "",
     "boucle": "",
     "slug": "julie-xicola",
-    "prenomNOM1": "Julie XICOLA"
+    "prenomNOM1": "Julie XICOLA",
+    "feminin1": null
   },
   {
     "departement": "88",
@@ -7905,7 +8372,8 @@
     "site": "",
     "boucle": "",
     "slug": "etienne-bachelart",
-    "prenomNOM1": "Étienne BACHELART"
+    "prenomNOM1": "Étienne BACHELART",
+    "feminin1": null
   },
   {
     "departement": "88",
@@ -7921,7 +8389,8 @@
     "site": "",
     "boucle": "",
     "slug": "francois-xavier-wein",
-    "prenomNOM1": "François Xavier WEIN"
+    "prenomNOM1": "François Xavier WEIN",
+    "feminin1": null
   },
   {
     "departement": "89",
@@ -7938,7 +8407,8 @@
     "boucle": "",
     "slug": "florence-loury",
     "wikidata": "Q126689269",
-    "prenomNOM1": "Florence LOURY"
+    "prenomNOM1": "Florence LOURY",
+    "feminin1": true
   },
   {
     "departement": "89",
@@ -7955,7 +8425,8 @@
     "boucle": "",
     "slug": "philippe-veyssiere",
     "wikidata": "Q98251116",
-    "prenomNOM1": "Philippe VEYSSIERE"
+    "prenomNOM1": "Philippe VEYSSIERE",
+    "feminin1": false
   },
   {
     "departement": "89",
@@ -7971,7 +8442,8 @@
     "site": "",
     "boucle": "",
     "slug": "nicolas-soret",
-    "prenomNOM1": "Nicolas SORET"
+    "prenomNOM1": "Nicolas SORET",
+    "feminin1": null
   },
   {
     "departement": "90",
@@ -7987,7 +8459,8 @@
     "site": "",
     "boucle": "",
     "slug": "marie-eve-belorgey",
-    "prenomNOM1": "Marie-Eve BELORGEY"
+    "prenomNOM1": "Marie-Eve BELORGEY",
+    "feminin1": null
   },
   {
     "departement": "90",
@@ -8006,7 +8479,8 @@
     "wikidata": "Q112635154",
     "wikipediaTitle": "Florian Chauche",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-01-05%20voeux-Bavilliers-6.jpg?width=1000",
-    "prenomNOM1": "Florian CHAUCHE"
+    "prenomNOM1": "Florian CHAUCHE",
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8025,7 +8499,8 @@
     "wikidata": "Q40289093",
     "wikipediaTitle": "Farida Amrani",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-04-26%2020-05-44%20meeting-FI-Audincourt.jpg?width=1000",
-    "prenomNOM1": "Farida AMRANI"
+    "prenomNOM1": "Farida AMRANI",
+    "feminin1": true
   },
   {
     "departement": "91",
@@ -8041,7 +8516,8 @@
     "site": "",
     "boucle": "",
     "slug": "mathieu-hillaire",
-    "prenomNOM1": "Mathieu HILLAIRE"
+    "prenomNOM1": "Mathieu HILLAIRE",
+    "feminin1": null
   },
   {
     "departement": "91",
@@ -8057,7 +8533,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/CMLxhstHxgCLh6euaIyr19",
     "slug": "steevy-gustave",
-    "prenomNOM1": "Steevy GUSTAVE"
+    "prenomNOM1": "Steevy GUSTAVE",
+    "feminin1": null
   },
   {
     "departement": "91",
@@ -8075,7 +8552,8 @@
     "slug": "amadou-deme",
     "wikidata": "Q2840862",
     "wikipediaTitle": "Amadou Dème",
-    "prenomNOM1": "Amadou DEME"
+    "prenomNOM1": "Amadou DEME",
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8094,7 +8572,8 @@
     "wikidata": "Q3385791",
     "wikipediaTitle": "Pierre Larrouturou",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Europe%20Ecologie%2092%20regional%20elections%202010-02-05%20n03.jpg?width=1000",
-    "prenomNOM1": "Pierre LARROUTUROU"
+    "prenomNOM1": "Pierre LARROUTUROU",
+    "feminin1": false
   },
   {
     "departement": "91",
@@ -8111,7 +8590,8 @@
     "boucle": "",
     "slug": "hella-kribi-romdhane",
     "wikidata": "Q63537180",
-    "prenomNOM1": "Hella KRIBI-ROMDHANE"
+    "prenomNOM1": "Hella KRIBI-ROMDHANE",
+    "feminin1": true
   },
   {
     "departement": "91",
@@ -8127,7 +8607,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/J4FXNZILyAQIZlolE5zW6i",
     "slug": "claire-lejeune",
-    "prenomNOM1": "Claire LEJEUNE"
+    "prenomNOM1": "Claire LEJEUNE",
+    "feminin1": null
   },
   {
     "departement": "91",
@@ -8143,7 +8624,8 @@
     "site": "",
     "boucle": "",
     "slug": "beranger-cernon",
-    "prenomNOM1": "Béranger CERNON"
+    "prenomNOM1": "Béranger CERNON",
+    "feminin1": null
   },
   {
     "departement": "91",
@@ -8159,7 +8641,8 @@
     "site": "",
     "boucle": "",
     "slug": "julie-ozenne",
-    "prenomNOM1": "Julie OZENNE"
+    "prenomNOM1": "Julie OZENNE",
+    "feminin1": null
   },
   {
     "departement": "91",
@@ -8178,7 +8661,8 @@
     "wikidata": "Q62976462",
     "wikipediaTitle": "Antoine Léaument",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20L%C3%A9aument%20aux%20AMFis%20de%20la%20France%20insoumise%20%282020%29.jpg?width=1000",
-    "prenomNOM1": "Antoine LÉAUMENT"
+    "prenomNOM1": "Antoine LÉAUMENT",
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8197,7 +8681,8 @@
     "wikidata": "Q30349257",
     "wikipediaTitle": "Elsa Faucillon",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Elsa%20Faucillon%2020231010.jpg?width=1000",
-    "prenomNOM1": "Elsa FAUCILLON"
+    "prenomNOM1": "Elsa FAUCILLON",
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8215,7 +8700,8 @@
     "slug": "francesca-pasquini",
     "wikidata": "Q112651177",
     "wikipediaTitle": "Francesca Pasquini",
-    "prenomNOM1": "Francesca PASQUINI"
+    "prenomNOM1": "Francesca PASQUINI",
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8232,7 +8718,8 @@
     "boucle": "",
     "slug": "isabelle-dahan",
     "wikidata": "Q108405351",
-    "prenomNOM1": "Isabelle DAHAN"
+    "prenomNOM1": "Isabelle DAHAN",
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8250,7 +8737,8 @@
     "slug": "sabrina-sebaihi",
     "wikidata": "Q112651173",
     "wikipediaTitle": "Sabrina Sebaihi",
-    "prenomNOM1": "Sabrina SEBAIHI"
+    "prenomNOM1": "Sabrina SEBAIHI",
+    "feminin1": true
   },
   {
     "departement": "92",
@@ -8269,7 +8757,8 @@
     "wikidata": "Q112692675",
     "wikipediaTitle": "Raphaël Pitti",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20PITTI.jpg?width=1000",
-    "prenomNOM1": "Raphaël PITTI"
+    "prenomNOM1": "Raphaël PITTI",
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8285,7 +8774,8 @@
     "site": "",
     "boucle": "",
     "slug": "sihame-muscianisi",
-    "prenomNOM1": "Sihame MUSCIANISI"
+    "prenomNOM1": "Sihame MUSCIANISI",
+    "feminin1": null
   },
   {
     "departement": "92",
@@ -8301,7 +8791,8 @@
     "site": "",
     "boucle": "",
     "slug": "lucas-peyret",
-    "prenomNOM1": "Lucas PEYRET"
+    "prenomNOM1": "Lucas PEYRET",
+    "feminin1": null
   },
   {
     "departement": "92",
@@ -8317,7 +8808,8 @@
     "site": "",
     "boucle": "",
     "slug": "salome-nicolas-chavance",
-    "prenomNOM1": "Salomé NICOLAS-CHAVANCE"
+    "prenomNOM1": "Salomé NICOLAS-CHAVANCE",
+    "feminin1": null
   },
   {
     "departement": "92",
@@ -8333,7 +8825,8 @@
     "site": "https://www.avecpauline.fr/",
     "boucle": "https://chat.whatsapp.com/DTqL5uafCmH2iEM4mdorpM",
     "slug": "pauline-rapilly-ferniot",
-    "prenomNOM1": "Pauline RAPILLY FERNIOT"
+    "prenomNOM1": "Pauline RAPILLY FERNIOT",
+    "feminin1": null
   },
   {
     "departement": "92",
@@ -8349,7 +8842,8 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/LUh7Kapleyi6ohouVuNgUg",
     "slug": "cecile-soubelet",
-    "prenomNOM1": "Cécile SOUBELET"
+    "prenomNOM1": "Cécile SOUBELET",
+    "feminin1": null
   },
   {
     "departement": "92",
@@ -8368,7 +8862,8 @@
     "wikidata": "Q112652876",
     "wikipediaTitle": "Aurélien Saintoul",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Aur%C3%A9lien-Saintoul.jpg?width=1000",
-    "prenomNOM1": "Aurélien SAINTOUL"
+    "prenomNOM1": "Aurélien SAINTOUL",
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8385,7 +8880,8 @@
     "boucle": "",
     "slug": "lounes-adjroud",
     "wikidata": "Q111277153",
-    "prenomNOM1": "Lounes ADJROUD"
+    "prenomNOM1": "Lounes ADJROUD",
+    "feminin1": false
   },
   {
     "departement": "92",
@@ -8402,7 +8898,8 @@
     "boucle": "https://signal.group/#CjQKICUb07Yh2-tTeWxQ0qaKBcmQobwIaVK0uK4q8PDOiF7NEhC_9csUy9l2y3rM4t3Rlz30",
     "slug": "brice-gaillard",
     "wikidata": "Q105098411",
-    "prenomNOM1": "Brice GAILLARD"
+    "prenomNOM1": "Brice GAILLARD",
+    "feminin1": false
   },
   {
     "departement": "93",
@@ -8421,7 +8918,8 @@
     "wikidata": "Q17485936",
     "wikipediaTitle": "Éric Coquerel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Coquerel%20en%202017.jpg?width=1000",
-    "prenomNOM1": "Eric COQUEREL"
+    "prenomNOM1": "Eric COQUEREL",
+    "feminin1": false
   },
   {
     "departement": "93",
@@ -8439,7 +8937,8 @@
     "slug": "stephane-peu",
     "wikidata": "Q30380891",
     "wikipediaTitle": "Stéphane Peu",
-    "prenomNOM1": "Stéphane PEU"
+    "prenomNOM1": "Stéphane PEU",
+    "feminin1": false
   },
   {
     "departement": "93",
@@ -8458,7 +8957,8 @@
     "wikidata": "Q112653860",
     "wikipediaTitle": "Thomas Portes",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Portes%20en%202018.png?width=1000",
-    "prenomNOM1": "Thomas PORTES"
+    "prenomNOM1": "Thomas PORTES",
+    "feminin1": false
   },
   {
     "departement": "93",
@@ -8474,7 +8974,8 @@
     "site": "",
     "boucle": "",
     "slug": "soumya-bourouhaha",
-    "prenomNOM1": "Soumya BOUROUHAHA"
+    "prenomNOM1": "Soumya BOUROUHAHA",
+    "feminin1": null
   },
   {
     "departement": "93",
@@ -8493,7 +8994,8 @@
     "wikidata": "Q30349862",
     "wikipediaTitle": "Bastien Lachaud",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Bastien%20Lachaud%20en%202017.jpg?width=1000",
-    "prenomNOM1": "Bastien LACHAUD"
+    "prenomNOM1": "Bastien LACHAUD",
+    "feminin1": false
   },
   {
     "departement": "93",
@@ -8510,7 +9012,8 @@
     "boucle": "",
     "slug": "fatiha-keloua-hachi",
     "wikidata": "Q112653927",
-    "prenomNOM1": "Fatiha KELOUA-HACHI"
+    "prenomNOM1": "Fatiha KELOUA-HACHI",
+    "feminin1": true
   },
   {
     "departement": "93",
@@ -8529,7 +9032,8 @@
     "wikidata": "Q2872015",
     "wikipediaTitle": "Aurélie Trouvé",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Meeting%20d%27Aur%C3%A9lie%20Trouv%C3%A9.jpg?width=1000",
-    "prenomNOM1": "Aurélie TROUVÉ"
+    "prenomNOM1": "Aurélie TROUVÉ",
+    "feminin1": true
   },
   {
     "departement": "93",
@@ -8548,7 +9052,8 @@
     "wikidata": "Q63765036",
     "wikipediaTitle": "Nadège Abomangoli",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nad%C3%A8ge%20Abomangoli%20-%20Villetaneuse%20-%208%20mai%202014.JPG?width=1000",
-    "prenomNOM1": "Nadège ABOMANGOLI"
+    "prenomNOM1": "Nadège ABOMANGOLI",
+    "feminin1": true
   },
   {
     "departement": "93",
@@ -8567,7 +9072,8 @@
     "wikidata": "Q2980738",
     "wikipediaTitle": "Clémentine Autain",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Clementine-Autain.jpg?width=1000",
-    "prenomNOM1": "Clémentine AUTAIN"
+    "prenomNOM1": "Clémentine AUTAIN",
+    "feminin1": true
   },
   {
     "departement": "93",
@@ -8586,7 +9092,8 @@
     "wikidata": "Q112642707",
     "wikipediaTitle": "Jérôme Legavre",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A9r%C3%B4me%20LEGAVRE.png?width=1000",
-    "prenomNOM1": "Jérôme LEGAVRE"
+    "prenomNOM1": "Jérôme LEGAVRE",
+    "feminin1": false
   },
   {
     "departement": "94",
@@ -8605,7 +9112,8 @@
     "wikidata": "Q81033667",
     "wikipediaTitle": "Lyes Louffok",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Lyes%20Louffok.jpg?width=1000",
-    "prenomNOM1": "Lyes LOUFFOK"
+    "prenomNOM1": "Lyes LOUFFOK",
+    "feminin1": false
   },
   {
     "departement": "94",
@@ -8624,7 +9132,8 @@
     "wikidata": "Q109969696",
     "wikipediaTitle": "Clémence Guetté",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Cl%C3%A9mence%20Guett%C3%A9.jpg?width=1000",
-    "prenomNOM1": "Clémence GUETTÉ"
+    "prenomNOM1": "Clémence GUETTÉ",
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -8643,7 +9152,8 @@
     "wikidata": "Q112654108",
     "wikipediaTitle": "Louis Boyard",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Boyard.jpg?width=1000",
-    "prenomNOM1": "Louis BOYARD"
+    "prenomNOM1": "Louis BOYARD",
+    "feminin1": false
   },
   {
     "departement": "94",
@@ -8659,7 +9169,8 @@
     "site": "",
     "boucle": "https://forms.gle/gRoHESkbcenxfhzy7",
     "slug": "adel-amara",
-    "prenomNOM1": "Adel AMARA"
+    "prenomNOM1": "Adel AMARA",
+    "feminin1": null
   },
   {
     "departement": "94",
@@ -8675,7 +9186,8 @@
     "site": "",
     "boucle": "",
     "slug": "julien-leger",
-    "prenomNOM1": "Julien LEGER"
+    "prenomNOM1": "Julien LEGER",
+    "feminin1": null
   },
   {
     "departement": "94",
@@ -8691,7 +9203,8 @@
     "site": "",
     "boucle": "",
     "slug": "may-bouhada",
-    "prenomNOM1": "May BOUHADA"
+    "prenomNOM1": "May BOUHADA",
+    "feminin1": null
   },
   {
     "departement": "94",
@@ -8710,7 +9223,8 @@
     "wikidata": "Q109681600",
     "wikipediaTitle": "Rachel Keke",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Keke%202021.jpg?width=1000",
-    "prenomNOM1": "Rachel KÉKÉ"
+    "prenomNOM1": "Rachel KÉKÉ",
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -8727,7 +9241,8 @@
     "boucle": "",
     "slug": "joao-martins-perreira",
     "wikidata": "Q126727439",
-    "prenomNOM1": "Joao Martins PERREIRA"
+    "prenomNOM1": "Joao Martins PERREIRA",
+    "feminin1": false
   },
   {
     "departement": "94",
@@ -8745,7 +9260,8 @@
     "slug": "isabelle-santiago",
     "wikidata": "Q63765654",
     "wikipediaTitle": "Isabelle Santiago",
-    "prenomNOM1": "Isabelle SANTIAGO"
+    "prenomNOM1": "Isabelle SANTIAGO",
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -8764,7 +9280,8 @@
     "wikidata": "Q30343128",
     "wikipediaTitle": "Mathilde Panot",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathilde%20Panot%20en%202017.jpg?width=1000",
-    "prenomNOM1": "Mathilde PANOT"
+    "prenomNOM1": "Mathilde PANOT",
+    "feminin1": true
   },
   {
     "departement": "94",
@@ -8783,7 +9300,8 @@
     "wikidata": "Q41075996",
     "wikipediaTitle": "Sophie Taillé-Polian",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taill%C3%A9-Polian%20au%20S%C3%A9nat.png?width=1000",
-    "prenomNOM1": "Sophie TAILLE-POLIAN"
+    "prenomNOM1": "Sophie TAILLE-POLIAN",
+    "feminin1": true
   },
   {
     "departement": "95",
@@ -8799,7 +9317,8 @@
     "site": "",
     "boucle": "",
     "slug": "maximilien-jules-arthur",
-    "prenomNOM1": "Maximilien JULES-ARTHUR"
+    "prenomNOM1": "Maximilien JULES-ARTHUR",
+    "feminin1": null
   },
   {
     "departement": "95",
@@ -8815,7 +9334,8 @@
     "site": "",
     "boucle": "",
     "slug": "ayda-hadizadeh",
-    "prenomNOM1": "Ayda HADIZADEH"
+    "prenomNOM1": "Ayda HADIZADEH",
+    "feminin1": null
   },
   {
     "departement": "95",
@@ -8834,7 +9354,8 @@
     "wikidata": "Q3052795",
     "wikipediaTitle": "Emmanuel Maurel",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Meeting%20France%20insoumise%2024%20mars%202019%2C%20Nevers%20-%20Emmanuel%20Maurel%2001%20%28cropped%29.jpg?width=1000",
-    "prenomNOM1": "Emmanuel MAUREL"
+    "prenomNOM1": "Emmanuel MAUREL",
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -8850,7 +9371,8 @@
     "site": "",
     "boucle": "",
     "slug": "karine-lacouture",
-    "prenomNOM1": "Karine LACOUTURE"
+    "prenomNOM1": "Karine LACOUTURE",
+    "feminin1": null
   },
   {
     "departement": "95",
@@ -8866,7 +9388,8 @@
     "site": "",
     "boucle": "",
     "slug": "paul-vannier",
-    "prenomNOM1": "Paul VANNIER"
+    "prenomNOM1": "Paul VANNIER",
+    "feminin1": null
   },
   {
     "departement": "95",
@@ -8882,7 +9405,8 @@
     "site": "https://isabellevolat.fr/",
     "boucle": "",
     "slug": "gabrielle-cathala",
-    "prenomNOM1": "Gabrielle CATHALA"
+    "prenomNOM1": "Gabrielle CATHALA",
+    "feminin1": null
   },
   {
     "departement": "95",
@@ -8899,7 +9423,8 @@
     "boucle": "",
     "slug": "romain-eskenazi",
     "wikidata": "Q126586721",
-    "prenomNOM1": "Romain ESKENAZI"
+    "prenomNOM1": "Romain ESKENAZI",
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -8917,7 +9442,8 @@
     "slug": "carlos-martens-bilongo",
     "wikidata": "Q112641003",
     "wikipediaTitle": "Carlos Martens Bilongo",
-    "prenomNOM1": "Carlos MARTENS BILONGO"
+    "prenomNOM1": "Carlos MARTENS BILONGO",
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -8935,7 +9461,8 @@
     "slug": "arnaud-le-gall",
     "wikidata": "Q112654178",
     "wikipediaTitle": "Arnaud Le Gall",
-    "prenomNOM1": "Arnaud LE GALL"
+    "prenomNOM1": "Arnaud LE GALL",
+    "feminin1": false
   },
   {
     "departement": "95",
@@ -8953,7 +9480,8 @@
     "slug": "aurelien-tache",
     "wikidata": "Q30390884",
     "wikipediaTitle": "Aurélien Taché",
-    "prenomNOM1": "Aurélien TACHE"
+    "prenomNOM1": "Aurélien TACHE",
+    "feminin1": false
   },
   {
     "departement": "99",
@@ -8969,7 +9497,8 @@
     "site": "",
     "boucle": "",
     "slug": "oussama-laraichi",
-    "prenomNOM1": "Oussama LARAICHI"
+    "prenomNOM1": "Oussama LARAICHI",
+    "feminin1": null
   },
   {
     "departement": "99",
@@ -8988,7 +9517,8 @@
     "wikidata": "Q3479651",
     "wikipediaTitle": "Sergio Coronado",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Protest%20against%20the%20Projet%20de%20loi%20Renseignement%20-%2013%20April%202015%20-%2006.jpg?width=1000",
-    "prenomNOM1": "Sergio CORONADO"
+    "prenomNOM1": "Sergio CORONADO",
+    "feminin1": false
   },
   {
     "departement": "99",
@@ -9005,7 +9535,8 @@
     "boucle": "",
     "slug": "charlotte-minvielle",
     "wikidata": "Q126722222",
-    "prenomNOM1": "Charlotte MINVIELLE"
+    "prenomNOM1": "Charlotte MINVIELLE",
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9022,7 +9553,8 @@
     "boucle": "",
     "slug": "cecilia-gondard",
     "wikidata": "Q105104998",
-    "prenomNOM1": "Cécilia GONDARD"
+    "prenomNOM1": "Cécilia GONDARD",
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9039,7 +9571,8 @@
     "boucle": "https://whatsapp.com/channel/0029VadEGYGHgZWVi5CAxR3G",
     "slug": "maxime-da-silva",
     "wikidata": "Q126592198",
-    "prenomNOM1": "Maxime DA SILVA"
+    "prenomNOM1": "Maxime DA SILVA",
+    "feminin1": false
   },
   {
     "departement": "99",
@@ -9055,7 +9588,8 @@
     "site": "https://linktr.ee/delimihalima",
     "boucle": "",
     "slug": "halina-delimi",
-    "prenomNOM1": "Halina DELIMI"
+    "prenomNOM1": "Halina DELIMI",
+    "feminin1": null
   },
   {
     "departement": "99",
@@ -9071,7 +9605,8 @@
     "site": "",
     "boucle": "",
     "slug": "asma-rharmaoui-claquin",
-    "prenomNOM1": "Asma RHARMAOUI-CLAQUIN"
+    "prenomNOM1": "Asma RHARMAOUI-CLAQUIN",
+    "feminin1": null
   },
   {
     "departement": "99",
@@ -9089,7 +9624,8 @@
     "slug": "yael-lerer",
     "wikidata": "Q118212295",
     "wikipediaTitle": "Yael Lerer",
-    "prenomNOM1": "Yael LERER"
+    "prenomNOM1": "Yael LERER",
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9107,7 +9643,8 @@
     "slug": "karim-ben-cheikh",
     "wikidata": "Q73414972",
     "wikipediaTitle": "Karim Ben Cheïkh",
-    "prenomNOM1": "Karim BEN CHEIKH"
+    "prenomNOM1": "Karim BEN CHEIKH",
+    "feminin1": false
   },
   {
     "departement": "99",
@@ -9124,7 +9661,8 @@
     "boucle": "",
     "slug": "elsa-di-meo",
     "wikidata": "Q52423320",
-    "prenomNOM1": "Elsa DI MÉO"
+    "prenomNOM1": "Elsa DI MÉO",
+    "feminin1": true
   },
   {
     "departement": "99",
@@ -9142,7 +9680,8 @@
     "slug": "francois-pajot",
     "wikidata": "Q3085504",
     "wikipediaTitle": "François Pajot",
-    "prenomNOM1": "François PAJOT"
+    "prenomNOM1": "François PAJOT",
+    "feminin1": false
   },
   {
     "departement": "971",
@@ -9158,7 +9697,8 @@
     "site": "",
     "boucle": "",
     "slug": "olivier-serva",
-    "prenomNOM1": "Olivier SERVA"
+    "prenomNOM1": "Olivier SERVA",
+    "feminin1": null
   },
   {
     "departement": "971",
@@ -9174,7 +9714,8 @@
     "site": "",
     "boucle": "",
     "slug": "christian-baptiste",
-    "prenomNOM1": "Christian BAPTISTE"
+    "prenomNOM1": "Christian BAPTISTE",
+    "feminin1": null
   },
   {
     "departement": "971",
@@ -9190,7 +9731,8 @@
     "site": "",
     "boucle": "",
     "slug": "elie-kalifer",
-    "prenomNOM1": "Elie KALIFER"
+    "prenomNOM1": "Elie KALIFER",
+    "feminin1": null
   },
   {
     "departement": "972",
@@ -9206,7 +9748,8 @@
     "site": "",
     "boucle": "",
     "slug": "william-giovanni",
-    "prenomNOM1": "William GIOVANNI"
+    "prenomNOM1": "William GIOVANNI",
+    "feminin1": null
   },
   {
     "departement": "972",
@@ -9222,7 +9765,8 @@
     "site": "",
     "boucle": "",
     "slug": "marcellin-nadaud",
-    "prenomNOM1": "Marcellin NADAUD"
+    "prenomNOM1": "Marcellin NADAUD",
+    "feminin1": null
   },
   {
     "departement": "972",
@@ -9238,7 +9782,8 @@
     "site": "",
     "boucle": "",
     "slug": "johnny-ahjjar",
-    "prenomNOM1": "Johnny AHJJAR"
+    "prenomNOM1": "Johnny AHJJAR",
+    "feminin1": null
   },
   {
     "departement": "972",
@@ -9256,7 +9801,8 @@
     "slug": "jean-philippe-nilor",
     "wikidata": "Q3168847",
     "wikipediaTitle": "Jean-Philippe Nilor",
-    "prenomNOM1": "Jean-Philippe NILOR"
+    "prenomNOM1": "Jean-Philippe NILOR",
+    "feminin1": false
   },
   {
     "departement": "973",
@@ -9274,7 +9820,8 @@
     "slug": "davy-rimane",
     "wikidata": "Q112628915",
     "wikipediaTitle": "Davy Rimane",
-    "prenomNOM1": "Davy RIMANE"
+    "prenomNOM1": "Davy RIMANE",
+    "feminin1": false
   },
   {
     "departement": "974",
@@ -9292,7 +9839,8 @@
     "slug": "philippe-naillet",
     "wikidata": "Q22683833",
     "wikipediaTitle": "Philippe Naillet",
-    "prenomNOM1": "Philippe NAILLET"
+    "prenomNOM1": "Philippe NAILLET",
+    "feminin1": false
   },
   {
     "departement": "974",
@@ -9311,7 +9859,8 @@
     "wikidata": "Q99670641",
     "wikipediaTitle": "Karine Lebon",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Mme%20Karine%20Lebon.jpg?width=1000",
-    "prenomNOM1": "Karine LEBON"
+    "prenomNOM1": "Karine LEBON",
+    "feminin1": true
   },
   {
     "departement": "974",
@@ -9327,7 +9876,8 @@
     "site": "https://alexischaussalet.re/",
     "boucle": "https://actionpopulaire.fr/groupes/ddf5f510-2b6d-4038-808a-0918405549ce/",
     "slug": "alexis-chaussalet",
-    "prenomNOM1": "Alexis CHAUSSALET"
+    "prenomNOM1": "Alexis CHAUSSALET",
+    "feminin1": null
   },
   {
     "departement": "974",
@@ -9343,7 +9893,8 @@
     "site": "",
     "boucle": "",
     "slug": "emeline-k-bidy",
-    "prenomNOM1": "Emeline K BIDY"
+    "prenomNOM1": "Emeline K BIDY",
+    "feminin1": null
   },
   {
     "departement": "974",
@@ -9362,7 +9913,8 @@
     "wikidata": "Q30334352",
     "wikipediaTitle": "Jean-Hugues Ratenon",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Hugues%20Ratenon.jpg?width=1000",
-    "prenomNOM1": "Jean-Hugues RATENON"
+    "prenomNOM1": "Jean-Hugues RATENON",
+    "feminin1": false
   },
   {
     "departement": "974",
@@ -9380,7 +9932,8 @@
     "slug": "frederic-maillot",
     "wikidata": "Q112633707",
     "wikipediaTitle": "Frédéric Maillot",
-    "prenomNOM1": "Frédéric MAILLOT"
+    "prenomNOM1": "Frédéric MAILLOT",
+    "feminin1": false
   },
   {
     "departement": "974",
@@ -9398,7 +9951,8 @@
     "slug": "perceval-gaillard",
     "wikidata": "Q112650360",
     "wikipediaTitle": "Perceval Gaillard",
-    "prenomNOM1": "Perceval GAILLARD"
+    "prenomNOM1": "Perceval GAILLARD",
+    "feminin1": false
   },
   {
     "departement": "976",
@@ -9414,7 +9968,8 @@
     "site": "",
     "boucle": "",
     "slug": "yasmina-aouny",
-    "prenomNOM1": "Yasmina AOUNY"
+    "prenomNOM1": "Yasmina AOUNY",
+    "feminin1": null
   },
   {
     "departement": "976",
@@ -9430,7 +9985,8 @@
     "site": "",
     "boucle": "",
     "slug": "kira-bacar-adacolo",
-    "prenomNOM1": "Kira BACAR ADACOLO"
+    "prenomNOM1": "Kira BACAR ADACOLO",
+    "feminin1": null
   },
   {
     "departement": "987",
@@ -9446,7 +10002,8 @@
     "site": "",
     "boucle": "",
     "slug": "tematai-le-gayic",
-    "prenomNOM1": "Temata'i LE GAYIC"
+    "prenomNOM1": "Temata'i LE GAYIC",
+    "feminin1": null
   },
   {
     "departement": "987",
@@ -9464,7 +10021,8 @@
     "slug": "steve-chailloux",
     "wikidata": "Q112630808",
     "wikipediaTitle": "Steve Chailloux",
-    "prenomNOM1": "Steve CHAILLOUX"
+    "prenomNOM1": "Steve CHAILLOUX",
+    "feminin1": false
   },
   {
     "departement": "987",
@@ -9483,7 +10041,8 @@
     "wikidata": "Q30350575",
     "wikipediaTitle": "Moetai Brotherson",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Moetai-Charles%20Brotherson.jpg?width=1000",
-    "prenomNOM1": "Moetai BROTHERSON"
+    "prenomNOM1": "Moetai BROTHERSON",
+    "feminin1": false
   },
   {
     "departement": "2A",
@@ -9499,7 +10058,8 @@
     "site": "",
     "boucle": "",
     "slug": "angelique-suissini",
-    "prenomNOM1": "Angélique SUISSINI"
+    "prenomNOM1": "Angélique SUISSINI",
+    "feminin1": null
   },
   {
     "departement": "2A",
@@ -9515,7 +10075,8 @@
     "site": "",
     "boucle": "",
     "slug": "salma-ghislaine",
-    "prenomNOM1": "Salma GHISLAINE"
+    "prenomNOM1": "Salma GHISLAINE",
+    "feminin1": null
   },
   {
     "departement": "2B",
@@ -9531,7 +10092,8 @@
     "site": "",
     "boucle": "https://t.me/+RPOrPIkPeeAyZmVk",
     "slug": "sacha-bastelica",
-    "prenomNOM1": "Sacha BASTELICA"
+    "prenomNOM1": "Sacha BASTELICA",
+    "feminin1": null
   },
   {
     "departement": "2B",
@@ -9547,6 +10109,7 @@
     "site": "",
     "boucle": "",
     "slug": "brigitte-sassou",
-    "prenomNOM1": "Brigitte SASSOU"
+    "prenomNOM1": "Brigitte SASSOU",
+    "feminin1": null
   }
 ]
