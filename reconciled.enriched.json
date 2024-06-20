@@ -10064,7 +10064,7 @@
     "nomDepartement": "Polynésie française",
     "nom1": "Le Gayic",
     "prenom1": "Temata'i",
-    "prenomNom1": "Q112630812",
+    "prenomNom1": "Temata'i Le Gayic",
     "twitter": "",
     "instagram": "",
     "facebook": "",
@@ -10073,7 +10073,9 @@
     "boucle": "",
     "slug": "tematai-le-gayic",
     "prenomNOM1": "Temata'i LE GAYIC",
-    "feminin1": false
+    "feminin1": false,
+    "wikidata": "Q112630812",
+    "wikipediaTitle": "Tematai Le Gayic"
   },
   {
     "departement": "987",
