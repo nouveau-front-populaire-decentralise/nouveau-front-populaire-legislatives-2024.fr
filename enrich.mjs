@@ -15,12 +15,23 @@ async function getWikidata (wdId) {
   const entity = Object.values(entities)[0]
   const wikipediaTitle = entity.sitelinks.frwiki?.title
   const commonsImage = entity.image.url
+  const facebook = entity.claims['wdt:P2013']?.[0]
+  const instagram = entity.claims['wdt:P2003']?.[0]
+  const twitter = entity.claims['wdt:P2002']?.[0]
+  const tiktok = entity.claims['wdt:P7085']?.[0]
+  const mastodon = entity.claims['wdt:P4033']?.[0]
+  let mastodonUrl
+  if (mastodon) {
+    const [ username, instance ] = mastodon.split('@')
+    mastodonUrl = `https:${instance}/@${username}`
+  }
+  const youtube = entity.claims['wdt:P2397']?.[0]
   const links = await fetch(`https://hub.toolforge.org/links/${wdId}`).then(res => res.json())
-  const assembleeNationalUrl = links['wdt:P4123']?.url
-  const nosDeputesUrl = links['wdt:P7040']?.url
-  const viePublicUrl = links['wdt:P7676']?.url
-  const radioFranceUrl = links['wdt:P10780']?.url
-  return { wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl }
+  const assembleeNationalUrl = links['P4123']?.url
+  const nosDeputesUrl = links['P7040']?.url
+  const viePublicUrl = links['P7676']?.url
+  const radioFranceUrl = links['P10780']?.url
+  return { wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, facebook, instagram, twitter, tiktok, youtube, mastodonUrl }
 }
 
 const enrichedData = []
@@ -34,25 +45,29 @@ for (const entry of data) {
     entry.circo = entry.circo.padStart(4, '0')
     const { prenomNom1, nom1, prenom1 } = entry
     entry.slug = getSlug(`${prenom1} ${nom1}`)
-    if (!entry.wikidata && prenomNom1.match(/^Q\d+$/)) {
-    // if (prenomNom1.match(/^Q\d+$/)) {
-      entry.wikidata = prenomNom1
+    // if (!entry.wikidata && prenomNom1.match(/^Q\d+$/)) {
+    // // if (prenomNom1.match(/^Q\d+$/)) {
+    //   entry.wikidata = prenomNom1
+    //   const wdData = await getWikidata(entry.wikidata)
+    //   // if (wdData.wikipediaTitle && !getSlug(wdData.wikipediaTitle).startsWith(getSlug(entry.prenomNom1))) {
+    //   //   console.error('dubious match', getSlug(entry.prenomNom1), getSlug(wdData.wikipediaTitle))
+    //   // } else {
+    //     Object.assign(entry, wdData)
+    //   // }
+    // } else {
+    //   if (entry.wikipediaTitle && !getSlug(entry.wikipediaTitle).startsWith(getSlug(entry.prenomNom1))) {
+    //     console.error('dubious match', getSlug(entry.prenomNom1), getSlug(entry.wikipediaTitle))
+    //     delete entry.wikipediaTitle
+    //     delete entry.commonsImage
+    //     delete entry.assembleeNationalUrl
+    //     delete entry.nosDeputesUrl
+    //     delete entry.viePublicUrl
+    //     delete entry.radioFranceUrl
+    //   }
+    // }
+    if (entry.wikidata) {
       const wdData = await getWikidata(entry.wikidata)
-      // if (wdData.wikipediaTitle && !getSlug(wdData.wikipediaTitle).startsWith(getSlug(entry.prenomNom1))) {
-      //   console.error('dubious match', getSlug(entry.prenomNom1), getSlug(wdData.wikipediaTitle))
-      // } else {
-        Object.assign(entry, wdData)
-      // }
-    } else {
-      if (entry.wikipediaTitle && !getSlug(entry.wikipediaTitle).startsWith(getSlug(entry.prenomNom1))) {
-        console.error('dubious match', getSlug(entry.prenomNom1), getSlug(entry.wikipediaTitle))
-        delete entry.wikipediaTitle
-        delete entry.commonsImage
-        delete entry.assembleeNationalUrl
-        delete entry.nosDeputesUrl
-        delete entry.viePublicUrl
-        delete entry.radioFranceUrl
-      }
+      Object.assign(entry, wdData)
     }
     entry.feminin1 ??= sexById[entry.wikidata] ? sexById[entry.wikidata] === 'Q6581072' : null
     entry.prenomNom1 = `${prenom1} ${nom1}`
@@ -60,6 +75,5 @@ for (const entry of data) {
     enrichedData.push(entry)
   }
 }
-
 
 console.log(JSON.stringify(enrichedData))

@@ -1,10 +1,9 @@
-export function generateSkeleton (entry) {
- let { departement, circo, nomDepartement, nom1, prenom1, prenomNom1, twitter, instagram, tiktok, facebook, facebookUrl, site, siteCampagne, boucle, slug, prenomNOM1, feminin1, nomCirco, communes, wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl } = entry
+export function generateSkeleton (entry, otherDepartementCircos) {
+ let { departement, circo, nomDepartement, nom1, prenom1, prenomNom1, twitter, instagram, tiktok, facebook, facebookUrl, youtube, site, siteCampagne, boucle, slug, prenomNOM1, feminin1, nomCirco, nomCircoLong, communes, wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, mastodonUrl } = entry
 
  if (siteCampagne) {
    return `<head> <meta http-equiv="refresh" content="0; URL=${siteCampagne}" /></head>`
  }
-
 
  if (facebook && !facebookUrl) facebookUrl = `https://www.facebook.com/${facebook}`
  const joinedCommunes = `${communes.slice(0, -1).join(', ')} ou ${communes.at(-1)}`
@@ -17,35 +16,34 @@ return `
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <link rel="icon" href="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/nouveau-front-populaire-icon.png" />
+  <link rel="icon" href="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/nouveau-front-populaire-icon.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="theme-color" content="#000000" />
-  <link rel="apple-touch-icon" href="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/nouveau-front-populaire-icon.192.png" />
+  <link rel="apple-touch-icon" href="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/nouveau-front-populaire-icon.192.png" />
 
-  <meta name="twitter:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}">
+  <meta name="twitter:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !">
-  <!-- <meta name="twitter:image" content="https://nouveau-front-populaire-decentralise.github.io/${slug}/images/banner.jpg"> -->
+  <!-- <meta name="twitter:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg"> -->
 
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://nouveau-front-populaire-decentralise.github.io/${slug}/">
-  <meta property="og:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}">
+  <meta property="og:url" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/">
+  <meta property="og:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="description" property="og:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !" />
-  <!-- <meta property="og:image" content="https://nouveau-front-populaire-decentralise.github.io/${slug}/images/banner.jpg"> -->
+  <!-- <meta property="og:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg"> -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" href="https://nouveau-front-populaire-decentralise.github.io/commons/assets/css/styles.css" />
-  <title>${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}</title>
+  <link rel="stylesheet" href="/styles.css" />
+  <title>${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024</title>
 </head>
 <body>
 
 <header>
   <div>
-    <img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/logo-NFP.png" alt="Nouveau Front Populaire" />
+    <img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
-
-  <div>
+<div>
     <h1>Le 30 juin et le 7 juillet, <br />votez ${prenomNOM1} !</h1>
     <h2>${nomCirco}</h2>
   </div>
@@ -53,9 +51,8 @@ return `
 
 <section class="entete">
   <div>
-    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="./images/candidates.jpg">
+    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024" src="/images/candid_1_et_2.jpg"><div class="buttons">
 
-    <div class="buttons">
       <div><a href="#programme" class="btn">Notre programme</a></div>
       <div><a href="#procuration" class="btn">Faire une procuration</a></div>
       <!-- <div><a href="#agenda" class="btn">Agenda</a></div> -->
@@ -108,7 +105,11 @@ return `
   <div>
     <article>
       <div>
-        <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="${commonsImage}">
+        ${commonsImage
+        ? `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="${commonsImage}" />`
+        : '<!-- <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="/images/candid_1.jpg" /> -->'
+        }
+
       </div>
 
       <div>
@@ -126,16 +127,16 @@ return `
       </div>
     </article>
 
-    <article>
+    <!-- <article>
       <div>
-        <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candidate_2.jpg">
+        <img alt="suppléant pour le Front Populaire le 30 juin" src="/images/candid_2.jpg">
       </div>
 
       <div>
-        <!-- <h2>Présentation - suppléant·e</h2> -->
+        <h2>Présentation - suppléant·e</h2>
 
       </div>
-    </article>
+    </article> -->
   </div>
 </section>
 
@@ -147,21 +148,28 @@ return `
   <ul class="reseaux-sociaux">
 
     ${facebookUrl
-      ? `<li><a target="_blank" href="${facebookUrl}"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
+      ? `<li><a target="_blank" href="${facebookUrl}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
 
     ${instagram
-      ? `<li><a target="_blank" href="https://www.instagram.com/@${instagram}"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.instagram.com/@username/"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://www.instagram.com/@${instagram}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.instagram.com/@username/"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
 
     ${tiktok
-      ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-tiktok.svg" alt="xtwitter"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://tiktok.com/username"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-tiktok.svg" alt="xtwitter"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://tiktok.com/username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li> -->'}
 
     ${twitter
-      ? `<li><a target="_blank" href="https://twitter.com/${twitter}"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://twitter.com/username"><img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://twitter.com/${twitter}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://twitter.com/username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
 
+    ${youtube
+      ? `<li><a target="_blank" href="https://www.youtube.com/channel/${youtube}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.youtube.com/@username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li> -->'}
+
+    ${mastodonUrl
+      ? `<li><a target="_blank" href="${mastodonUrl}><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://mastodon.social/@username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li> -->'}
   </ul>
 </section>
 
@@ -171,16 +179,16 @@ return `
 
     <ul>
       <li>
-          <img alt="logo des écologistes" src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/les-ecologistes.png">
+          <img alt="logo des écologistes" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/les-ecologistes.png">
       </li>
       <li>
-        <img alt="logo de LFI" src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/lfi.png">
+        <img alt="logo de LFI" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/lfi.png">
       </li>
       <li>
-        <img alt="logo du PCF" src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/pcf.png">
+        <img alt="logo du PCF" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/pcf.png">
       </li>
       <li>
-        <img alt="logo du PS" src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/ps.png">
+        <img alt="logo du PS" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/ps.png">
       </li>
     </ul>
 
@@ -224,12 +232,7 @@ return `
     <ul>
       <li>
         <a target="_blank" href="https://www.facebook.com/victorymichele/posts/861819942431443">
-          <img src="./images/agenda/rencontre-19-juin-saint-agreve.jpg" alt="Rencontrons nous ! Avec Romain Evrard, nous vous donnons rendez-vous ce mercredi 19 juin à 18h30 à Saint-Agrève.">
-        </a>
-      </li>
-      <li title="Apéro Jeunes du Nouveau Front Populaire Ardéchois, le 20 juin à 18h à Annonay, bistro Frangin Frangine, 29 avenue de l'Europe">
-        <a href="https://www.facebook.com/victorymichele/posts/862020429078061" title="Les Jeunes du Nouveau Front Populaire Ardéchois vous donnent rendez-vous ce jeudi soir à Annonay pour un apéro populaire !">
-          <img src="./images/agenda/apero-20-juin.jpg" alt="Apéro Jeunes du Nouveau Front Populaire Ardéchois, le 20 juin à 18h à Annonay, bistro Frangin Frangine, 29 avenue de l'Europe">
+          <img src="/images/agenda/rencontre-19-juin-saint-agreve.jpg" alt="Rencontrons nous ! Avec Romain Evrard, nous vous donnons rendez-vous ce mercredi 19 juin à 18h30 à Saint-Agrève.">
         </a>
       </li>
     </ul>
@@ -238,7 +241,7 @@ return `
 
 <section class="villes">
   <div>
-    <img src="https://nouveau-front-populaire-decentralise.github.io/commons/assets/images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
+    <img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
 
     <a target="_blank" href="https://www.nouveaufrontpopulaire.fr/">nouveaufrontpopulaire.fr</a>
 
@@ -248,15 +251,26 @@ return `
   </div>
 </section>
 
+${
+  otherDepartementCircos.length > 0
+  ? `<section id="departement">
+  <h2>${nomDepartement} - Autres circonscriptions</h2>
+  <ul>
+    ${otherDepartementCircos.join('\n      ')}
+  </ul>
+</section>
+  `
+  : ''}
+
 <section class="footer">
-  <div class="a">Candidature de la ${nomCirco}.</div>
-  <div class="b">
-    nouveau-front-populaire-legislatives-2024.fr est un site d'information non-officiel, indépendant, de soutien de la campagne du Nouveau Front Populaire
-    <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/${slug}">Code source</a>
-  </div>
+  <p>
+    <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibilier sa campagne.
+  </p>
+  <span>
+    <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">Contact</a> - <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/${slug}">Code source</a>
+  </span>
 </section>
 
 </body>
-</html>
-`
+</html>`
 }
