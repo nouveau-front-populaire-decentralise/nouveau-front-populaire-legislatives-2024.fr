@@ -30,7 +30,6 @@
     "site": "",
     "boucle": "https://chat.whatsapp.com/C2rvetzaYeh6nREjA4oGpU",
     "slug": "maxime-meyer",
-    "wikidata": "Q516375",
     "prenomNOM1": "Maxime MEYER",
     "feminin1": false
   },
@@ -874,14 +873,10 @@
     "nom1": "Bessaih",
     "prenom1": "Jimmy",
     "prenomNom1": "Jimmy Bessaih",
-    "twitter": "MarinaMesure",
-    "instagram": "marina.mesure",
-    "facebook": "MarinaMesureFi",
     "facebookUrl": "",
     "site": "",
     "boucle": "",
     "slug": "jimmy-bessaih",
-    "wikidata": "Q112652864",
     "prenomNOM1": "Jimmy BESSAIH",
     "feminin1": true
   },
@@ -4706,7 +4701,6 @@
     "site": "",
     "boucle": "",
     "slug": "helene-girardot",
-    "wikidata": "Q113089355",
     "prenomNOM1": "Hélène GIRARDOT",
     "feminin1": true
   },
@@ -4758,7 +4752,6 @@
     "site": "",
     "boucle": "",
     "slug": "luc-muller",
-    "wikidata": "Q191748",
     "prenomNOM1": "Luc MULLER",
     "feminin1": false
   },
@@ -4776,8 +4769,6 @@
     "site": "",
     "boucle": "",
     "slug": "celine-leger",
-    "wikidata": "Q3010170",
-    "wikipediaTitle": "Céline Léger",
     "prenomNOM1": "Céline LÉGER",
     "feminin1": true
   },
@@ -6008,7 +5999,6 @@
     "site": "",
     "boucle": "",
     "slug": "didier-andres",
-    "wikidata": "Q123081",
     "prenomNOM1": "Didier ANDRES",
     "feminin1": false
   },
@@ -6060,7 +6050,6 @@
     "site": "",
     "boucle": "",
     "slug": "olivier-terrien",
-    "wikidata": "Q99480982",
     "prenomNOM1": "Olivier TERRIEN",
     "feminin1": false
   },
@@ -8620,8 +8609,6 @@
     "site": "",
     "boucle": "",
     "slug": "amadou-deme",
-    "wikidata": "Q2840862",
-    "wikipediaTitle": "Amadou Dème",
     "prenomNOM1": "Amadou DEME",
     "feminin1": false
   },
@@ -9748,8 +9735,6 @@
     "site": "",
     "boucle": "",
     "slug": "francois-pajot",
-    "wikidata": "Q3085504",
-    "wikipediaTitle": "François Pajot",
     "prenomNOM1": "François PAJOT",
     "feminin1": false
   },
