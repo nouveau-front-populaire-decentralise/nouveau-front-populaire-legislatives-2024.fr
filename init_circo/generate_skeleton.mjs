@@ -56,7 +56,6 @@ return `
       <div><a href="#programme" class="btn">Notre programme</a></div>
       <div><a href="#procuration" class="btn">Faire une procuration</a></div>
       <!-- <div><a href="#agenda" class="btn">Agenda</a></div> -->
-      <!-- <div><a target="_blank" href="" class="btn">Nous rejoindre</a></div> -->
       ${boucle ? `<div><a target="_blank" href="${boucle}" class="btn">Nous rejoindre</a></div>` : '<!-- <div><a target="_blank" href="" class="btn">Nous rejoindre</a></div> -->'}
     </div>
   </div>
