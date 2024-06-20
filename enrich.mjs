@@ -23,7 +23,7 @@ async function getWikidata (wdId) {
   let mastodonUrl
   if (mastodon) {
     const [ username, instance ] = mastodon.split('@')
-    mastodonUrl = `https:${instance}/@${username}`
+    mastodonUrl = `https://${instance}/@${username}`
   }
   const youtube = entity.claims['wdt:P2397']?.[0]
   const links = await fetch(`https://hub.toolforge.org/links/${wdId}`).then(res => res.json())
