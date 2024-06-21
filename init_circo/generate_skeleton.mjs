@@ -1,5 +1,7 @@
 export function generateSkeleton (entry, otherDepartementCircos) {
- let { departement, circo, nomDepartement, nom1, prenom1, prenomNom1, twitter, instagram, tiktok, facebook, facebookUrl, youtube, site, siteCampagne, boucle, slug, prenomNOM1, feminin1, nomCirco, nomCircoLong, communes, wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, mastodonUrl } = entry
+ let { departement, circo, nomDepartement, nom1, prenom1, prenomNom1, prenomNOM1, feminin1, nom2, prenom2, feminin2, twitter, instagram, tiktok, facebook, facebookUrl, youtube, site, siteCampagne, boucle, slug, nomCirco, nomCircoLong, communes, wikipediaTitle, commonsImage, assembleeNationalUrl, nosDeputesUrl, viePublicUrl, radioFranceUrl, mastodonUrl } = entry
+ const prenomNom2 = nom2 && prenom2 ? `${prenom2} ${nom2}` : null
+ const prenomNOM2 = nom2 && prenom2 ? `${prenom2} ${nom2.toUpperCase()}` : null
 
  if (siteCampagne) {
    return `<head> <meta http-equiv="refresh" content="0; URL=${siteCampagne}" /></head>`
@@ -9,6 +11,7 @@ export function generateSkeleton (entry, otherDepartementCircos) {
  const joinedCommunes = `${communes.slice(0, -1).join(', ')} ou ${communes.at(-1)}`
 
  const candidatLabel = feminin1 ? 'candidate' : 'candidat'
+ const suppleanteLabel = feminin2 ? 'suppléante' : 'suppléant'
 
 return `
 <!DOCTYPE html>
@@ -24,13 +27,13 @@ return `
   <meta name="twitter:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !">
-  <!-- <meta name="twitter:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg"> -->
+  <meta name="twitter:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg">
 
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/">
   <meta property="og:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="description" property="og:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !" />
-  <!-- <meta property="og:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg"> -->
+  <meta property="og:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -106,9 +109,8 @@ return `
       <div>
         ${commonsImage
         ? `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="${commonsImage}" />`
-        : '<!-- <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="/images/candid_1.jpg" /> -->'
+        : `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="/images/candid_1.jpg" onerror="this.style.display='none';" />`
         }
-
       </div>
 
       <div>
@@ -126,16 +128,29 @@ return `
       </div>
     </article>
 
-    <!-- <article>
-      <div>
-        <img alt="suppléant pour le Front Populaire le 30 juin" src="/images/candid_2.jpg">
-      </div>
-
-      <div>
-        <h2>Présentation - suppléant·e</h2>
-
-      </div>
-    </article> -->
+    ${prenomNOM2
+      ? `
+      <article>
+        <div>
+          <img alt="${prenomNOM2}, ${suppleanteLabel} pour le Front Populaire le 30 juin" src="/images/candid_2.jpg" onerror="this.style.display='none';" />
+        </div>
+        <div>
+          <h2>${prenomNOM2}</h2>
+          <!-- <h2>Présentation - ${suppleanteLabel}</h2> -->
+        </div>
+    </article>
+      `
+     : `
+      <!-- <article>
+        <div>
+          <img alt="suppléant pour le Front Populaire le 30 juin" src="/images/candid_2.jpg">
+        </div>
+        <div>
+          <h2>Présentation - suppléant·e</h2>
+        </div>
+      </article> -->
+     `
+    }
   </div>
 </section>
 
@@ -178,7 +193,7 @@ return `
 
     <ul>
       <li>
-          <img alt="logo des écologistes" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/les-ecologistes.png">
+        <img alt="logo des écologistes" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/les-ecologistes.png">
       </li>
       <li>
         <img alt="logo de LFI" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/lfi.png">

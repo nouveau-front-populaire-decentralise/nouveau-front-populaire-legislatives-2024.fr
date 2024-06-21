@@ -23,15 +23,19 @@
     "nom1": "Meyer",
     "prenom1": "Maxime",
     "prenomNom1": "Maxime Meyer",
-    "twitter": "MaximeMeyer01",
+    "prenomNOM1": "Maxime MEYER",
+    "feminin1": false,
+    "nom2": "Colin",
+    "prenom2": "Albane",
+    "prenomNom2": "Albane Meyer",
+    "feminin2": true,
+    "twitter": "FrontPop0102",
     "instagram": "maximemeyer01",
     "facebook": "",
     "facebookUrl": "",
     "site": "",
     "boucle": "https://chat.whatsapp.com/C2rvetzaYeh6nREjA4oGpU",
-    "slug": "maxime-meyer",
-    "prenomNOM1": "Maxime MEYER",
-    "feminin1": false
+    "slug": "maxime-meyer"
   },
   {
     "departement": "01",
