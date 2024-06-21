@@ -285,4 +285,8 @@ ${
 
 </body>
 </html>`
+  .split('\n')
+  .map(line => line.trimEnd())
+  .join('\n')
+  .replace(/\n\n+/g, '\n\n')
 }
