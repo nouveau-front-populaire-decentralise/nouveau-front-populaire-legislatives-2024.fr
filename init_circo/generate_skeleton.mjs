@@ -19,32 +19,36 @@ return `
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <link rel="icon" href="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/nouveau-front-populaire-icon.png" />
+  <link rel="icon" href="/assets/icons/nouveau-front-populaire-icon.png" />
+  <link rel="apple-touch-icon" href="/assets/icons/nouveau-front-populaire-icon.192.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="theme-color" content="#000000" />
-  <link rel="apple-touch-icon" href="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/nouveau-front-populaire-icon.192.png" />
+
+  <title>${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024</title>
 
   <meta name="twitter:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !">
-  <meta name="twitter:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg">
+  <meta name="twitter:image" content="https://nouveau-front-populaire-legislatives-2024.fr/${slug}/images/banner.jpg">
 
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/">
+  <meta property="og:url" content="https://nouveau-front-populaire-legislatives-2024.fr/${slug}/">
   <meta property="og:title" content="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024">
   <meta name="description" property="og:description" content="Le 30 juin et le 7 juillet, votez ${prenomNOM1} !" />
-  <meta property="og:image" content="https://${slug}.nouveau-front-populaire-legislatives-2024.fr/images/banner.jpg">
+  <meta property="og:image" content="https://nouveau-front-populaire-legislatives-2024.fr/${slug}/images/banner.jpg">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/assets/style.css" />
 
-  <link rel="stylesheet" href="/styles.css" />
-  <title>${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024</title>
+  <style>
+    /* Add custom CSS rules here */
+  </style>
+
 </head>
 <body>
 
 <header>
   <div>
-    <img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/logo-NFP.png" alt="Nouveau Front Populaire" />
+    <img src="/assets/images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
   <div>
     <h1>Le 30 juin et le 7 juillet, <br />votez ${prenomNOM1} !</h1>
@@ -162,28 +166,28 @@ return `
   <ul class="reseaux-sociaux">
 
     ${facebookUrl
-      ? `<li><a target="_blank" href="${facebookUrl}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
+      ? `<li><a target="_blank" href="${facebookUrl}"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
 
     ${instagram
-      ? `<li><a target="_blank" href="https://www.instagram.com/@${instagram}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.instagram.com/@username/"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://www.instagram.com/@${instagram}"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.instagram.com/@username/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
 
     ${tiktok
-      ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://tiktok.com/username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://tiktok.com/username"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li> -->'}
 
     ${twitter
-      ? `<li><a target="_blank" href="https://twitter.com/${twitter}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://twitter.com/username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://twitter.com/${twitter}"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://twitter.com/username"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
 
     ${youtube
-      ? `<li><a target="_blank" href="https://www.youtube.com/channel/${youtube}"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.youtube.com/@username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://www.youtube.com/channel/${youtube}"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.youtube.com/@username"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li> -->'}
 
     ${mastodonUrl
-      ? `<li><a target="_blank" href="${mastodonUrl}><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://mastodon.social/@username"><img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li> -->'}
+      ? `<li><a target="_blank" href="${mastodonUrl}><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://mastodon.social/@username"><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li> -->'}
   </ul>
 </section>
 
@@ -193,16 +197,16 @@ return `
 
     <ul>
       <li>
-        <img alt="logo des écologistes" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/les-ecologistes.png">
+        <img alt="logo des écologistes" src="/assets/images/les-ecologistes.png">
       </li>
       <li>
-        <img alt="logo de LFI" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/lfi.png">
+        <img alt="logo de LFI" src="/assets/images/lfi.png">
       </li>
       <li>
-        <img alt="logo du PCF" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/pcf.png">
+        <img alt="logo du PCF" src="/assets/images/pcf.png">
       </li>
       <li>
-        <img alt="logo du PS" src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/ps.png">
+        <img alt="logo du PS" src="/assets/images/ps.png">
       </li>
     </ul>
 
@@ -255,7 +259,7 @@ return `
 
 <section class="villes">
   <div>
-    <img src="https://nouveau-front-populaire-legislatives-2024.fr/assets/images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
+    <img src="/assets/images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
 
     <a target="_blank" href="https://www.nouveaufrontpopulaire.fr/">nouveaufrontpopulaire.fr</a>
 
@@ -279,7 +283,7 @@ ${
 
 <section class="footer">
   <p>
-    <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibilier sa campagne. Si une page web dédiée à la campagne existe déjà, merci de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous en informer</a> pour que la présente page redirige vers celle-ci. Si vous avez des notions de HTML, vous pouvez contribuer à améliorer cette page directement depuis son <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/${slug}/index.html">code source</a>. Si ce n'est pas votre cas, le plus simple est encore de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous écrire</a>.
+    <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibilier sa campagne. Si une page web dédiée à la campagne existe déjà, merci de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous en informer</a> pour que la présente page redirige vers celle-ci. Si vous avez des notions de HTML, vous pouvez contribuer à améliorer cette page directement depuis son <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/public/${slug}">code source</a>. Si ce n'est pas votre cas, le plus simple est encore de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous écrire</a>.
   </p>
 </section>
 

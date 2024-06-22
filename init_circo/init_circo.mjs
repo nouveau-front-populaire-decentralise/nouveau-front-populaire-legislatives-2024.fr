@@ -29,12 +29,12 @@ async function initCirco ({ depCode, circo, dataCirco }) {
       const { nomCirco } = findCircoName(depCode, circoLocalCode)
       const name = `${nomCirco} - ${prenomNOM1}`
       const title = `${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024`
-      return `<li><a target="_blank" href="https://${slug}.nouveau-front-populaire-legislatives-2024.fr" title="${title}">${name}</a></li>`
+      return `<li><a target="_blank" href="https://nouveau-front-populaire-legislatives-2024.fr/${slug}/" title="${title}">${name}</a></li>`
     })
 
   const html = generateSkeleton(dataCirco, otherDepartementCircos)
 
-  await writeFile(`./repos/${dataCirco.slug}/index.html`, html)
+  await writeFile(`./public/${dataCirco.slug}/index.html`, html)
 }
 
 if (args.length === 2) {
