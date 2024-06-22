@@ -1,4 +1,4 @@
-# amadou-deme
+# [amadou-deme](https://nouveau-front-populaire-legislatives-2024.fr/amadou-deme)
 
 ## À faire
 

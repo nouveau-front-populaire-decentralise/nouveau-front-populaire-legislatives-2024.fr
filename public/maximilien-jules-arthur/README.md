@@ -1,4 +1,4 @@
-# maximilien-jules-arthur
+# [maximilien-jules-arthur](https://nouveau-front-populaire-legislatives-2024.fr/maximilien-jules-arthur)
 
 ## À faire
 

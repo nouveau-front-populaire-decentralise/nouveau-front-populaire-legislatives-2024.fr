@@ -1,4 +1,4 @@
-# gabriel-amard
+# [gabriel-amard](https://nouveau-front-populaire-legislatives-2024.fr/gabriel-amard)
 
 ## À faire
 

@@ -1,4 +1,4 @@
-# christine-pires-beaune
+# [christine-pires-beaune](https://nouveau-front-populaire-legislatives-2024.fr/christine-pires-beaune)
 
 ## À faire
 

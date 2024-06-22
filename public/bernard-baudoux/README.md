@@ -1,4 +1,4 @@
-# bernard-baudoux
+# [bernard-baudoux](https://nouveau-front-populaire-legislatives-2024.fr/bernard-baudoux)
 
 ## À faire
 

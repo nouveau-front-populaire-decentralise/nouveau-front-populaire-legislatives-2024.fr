@@ -1,4 +1,4 @@
-# aminata-niakate
+# [aminata-niakate](https://nouveau-front-populaire-legislatives-2024.fr/aminata-niakate)
 
 ## À faire
 

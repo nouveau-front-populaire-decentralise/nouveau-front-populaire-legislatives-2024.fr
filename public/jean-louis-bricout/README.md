@@ -1,4 +1,4 @@
-# jean-louis-bricout
+# [jean-louis-bricout](https://nouveau-front-populaire-legislatives-2024.fr/jean-louis-bricout)
 
 ## À faire
 

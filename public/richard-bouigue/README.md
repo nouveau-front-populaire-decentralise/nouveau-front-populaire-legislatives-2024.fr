@@ -1,4 +1,4 @@
-# richard-bouigue
+# [richard-bouigue](https://nouveau-front-populaire-legislatives-2024.fr/richard-bouigue)
 
 ## À faire
 

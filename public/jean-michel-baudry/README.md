@@ -1,4 +1,4 @@
-# jean-michel-baudry
+# [jean-michel-baudry](https://nouveau-front-populaire-legislatives-2024.fr/jean-michel-baudry)
 
 ## À faire
 

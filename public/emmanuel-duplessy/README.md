@@ -1,4 +1,4 @@
-# emmanuel-duplessy
+# [emmanuel-duplessy](https://nouveau-front-populaire-legislatives-2024.fr/emmanuel-duplessy)
 
 ## À faire
 

@@ -1,4 +1,4 @@
-# cedric-brun
+# [cedric-brun](https://nouveau-front-populaire-legislatives-2024.fr/cedric-brun)
 
 ## À faire
 
