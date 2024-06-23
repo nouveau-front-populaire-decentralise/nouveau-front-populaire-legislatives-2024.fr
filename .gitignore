@@ -1,3 +1,4 @@
 node_modules/
 openrefine/
 pnpm-lock.yaml
+public/current
