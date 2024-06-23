@@ -120,7 +120,7 @@ return `
       <div>
         <h2>${prenomNOM1}</h2>
 
-        <!-- <p>Présentation</p> -->
+        <!-- <h3>Présentation</h3> -->
         <ul>
           ${site ? `<li><a target="_blank" href="${site}">${(new URL(site).host + new URL(site).pathname).replace(/\/$/, '')}</a></li>` : ''}
           ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/wiki/${encodeURIComponent(wikipediaTitle)}">Wikipedia</a></li>` : ''}
@@ -151,7 +151,7 @@ return `
         </div>
         <div>
           <h2>prenomNOM2 - suppléant·e</h2>
-          <p>Présentation</p>
+          <h3>Présentation</h3>
         </div>
       </article> -->
      `
