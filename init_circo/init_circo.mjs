@@ -42,6 +42,7 @@ if (args.length === 2) {
   await initCirco({ depCode, circo })
 } else {
   for (const dataCirco of data) {
-    await initCirco({ dataCirco })
+    throw new Error('pages were customized: no more mass rewrite (but you can use mass replace)')
+    // await initCirco({ dataCirco })
   }
 }
