@@ -573,7 +573,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [ ] [Hors France 04 - cecilia-gondard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecilia-gondard/)
 * [ ] [Hors France 05 - maxime-da-silva](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-da-silva/)
 * [ ] [Hors France 06 - halina-delimi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/halina-delimi/)
-* [ ] [Hors France 07 - asma-rharmaoui-claquin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/asma-rharmaoui-claquin/)
+* [x] [Hors France 07 - asma-rharmaoui-claquin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/asma-rharmaoui-claquin/)
 * [ ] [Hors France 08 - yael-lerer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yael-lerer/)
 * [ ] [Hors France 09 - karim-ben-cheikh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-ben-cheikh/)
 * [ ] [Hors France 10 - elsa-di-meo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-di-meo/)
