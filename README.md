@@ -9,16 +9,16 @@ Minimaliste, car le retour électoral sur investissement en énergie militante e
 * L'usage de bonnes pratiques de [SEO](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche) doit permettre de faire remonter l'information des candidatures moins connus (la page elle même, comme les ressources vers lesquelles elles lient) dans les résultats des moteurs de recherche, au dessus de la masse des homonymes.
 
 ## À faire
-Cochez une case quand toutes les tâches du `README.md` de cette circonscription ont été cochées.
+Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e). Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
 
 ### Circo prioritaire
 [Source](https://docs.google.com/spreadsheets/d/1YpiHqYy4XmMNIekg41ZxnZwSz5fkOCsLpqgTXVOFjFQ/edit?gid=292222401)
 
-* [ ] [01-02 - maxime-meyer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-meyer/)
-* [ ] [01-05 - florence-pisani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-pisani/)
-* [ ] [02-03 - jean-louis-bricout](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-bricout/)
-* [ ] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
-* [ ] [04-02 - leo-walter](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-walter/)
+* [x] [01-02 - maxime-meyer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-meyer/)
+* [x] [01-05 - florence-pisani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-pisani/)
+* [x] [02-03 - jean-louis-bricout](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-bricout/)
+* [x] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
+* [x] [04-02 - leo-walter](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-walter/)
 * [ ] [05-02 - francis-cruz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francis-cruz/)
 * [ ] [07-01 - herve-saulignac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-saulignac/)
 * [ ] [12-02 - laurent-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-alexandre/)
