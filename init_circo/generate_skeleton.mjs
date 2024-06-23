@@ -58,7 +58,7 @@ return `
 
 <section class="entete">
   <div>
-    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024" src="./images/candid_1_et_2.jpg"><div class="buttons">
+    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024" src="./images/candid_1_et_2.jpg" onerror="this.style.display='none';" ><div class="buttons">
 
       <div><a href="#programme" class="btn">Notre programme</a></div>
       <div><a href="#procuration" class="btn">Faire une procuration</a></div>
@@ -147,7 +147,7 @@ return `
      : `
       <!-- <article>
         <div>
-          <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candid_2.jpg">
+          <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';"  />
         </div>
         <div>
           <h2>prenomNOM2 - suppléant·e</h2>
