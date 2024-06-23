@@ -122,7 +122,7 @@ return `
 
         <!-- <p>Présentation</p> -->
         <ul>
-          ${site ? `<li><a target="_blank" href="${site}">${new URL(site).host + new URL(site).pathname}</a></li>` : ''}
+          ${site ? `<li><a target="_blank" href="${site}">${(new URL(site).host + new URL(site).pathname).replace(/\/$/, '')}</a></li>` : ''}
           ${wikipediaTitle ? `<li><a target="_blank" href="https://fr.wikipedia.org/wiki/${encodeURIComponent(wikipediaTitle)}">Wikipedia</a></li>` : ''}
           ${assembleeNationalUrl ? `<li><a target="_blank" href="${assembleeNationalUrl}">Page sur le site de l'Assemblée Nationale</a></li>` : ''}
           ${nosDeputesUrl ? `<li><a target="_blank" href="${nosDeputesUrl}">Page sur nosdeputes.fr</a></li>` : ''}
