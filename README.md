@@ -19,7 +19,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [02-03 - jean-louis-bricout](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-bricout/)
 * [x] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
 * [x] [04-02 - leo-walter](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-walter/)
-* [ ] [05-02 - francis-cruz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francis-cruz/)
+* [x] [05-02 - francis-cruz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francis-cruz/)
 * [ ] [07-01 - herve-saulignac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-saulignac/)
 * [ ] [12-02 - laurent-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-alexandre/)
 * [ ] [13-13 - pierre-dharreville](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-dharreville/)
