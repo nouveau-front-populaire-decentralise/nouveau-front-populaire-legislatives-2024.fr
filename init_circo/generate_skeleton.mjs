@@ -254,8 +254,8 @@ return `
     <h2>Agenda</h2>
     <ul>
       <li>
-        <a target="_blank" href="https://www.facebook.com/victorymichele/posts/861819942431443">
-          <img src="./images/rencontre-19-juin-saint-agreve.jpg" alt="Rencontrons nous ! Avec Romain Evrard, nous vous donnons rendez-vous ce mercredi 19 juin à 18h30 à Saint-Agrève.">
+        <a target="_blank" href="">
+          <img src="./images/event_1.jpg" alt="Rencontrons nous !">
         </a>
       </li>
     </ul>
