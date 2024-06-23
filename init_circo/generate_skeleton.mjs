@@ -170,8 +170,8 @@ return `
       : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
 
     ${instagram
-      ? `<li><a target="_blank" href="https://www.instagram.com/@${instagram}"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.instagram.com/@username/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
+      ? `<li><a target="_blank" href="https://www.instagram.com/${instagram}/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
+      : '<!-- <li><a target="_blank" href="https://www.instagram.com/username/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
 
     ${tiktok
       ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
