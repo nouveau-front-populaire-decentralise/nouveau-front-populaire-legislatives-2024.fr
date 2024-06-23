@@ -567,7 +567,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [ ] [ZP-01 - tematai-le-gayic](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tematai-le-gayic/)
 * [ ] [ZP-02 - steve-chailloux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steve-chailloux/)
 * [ ] [ZP-03 - moetai-brotherson](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/moetai-brotherson/)
-* [ ] [Hors France 01 - oussama-laraichi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/oussama-laraichi/)
+* [x] [Hors France 01 - oussama-laraichi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/oussama-laraichi/)
 * [ ] [Hors France 02 - sergio-coronado](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sergio-coronado/)
 * [ ] [Hors France 03 - charlotte-minvielle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-minvielle/)
 * [ ] [Hors France 04 - cecilia-gondard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecilia-gondard/)
