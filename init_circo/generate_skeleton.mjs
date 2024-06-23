@@ -58,7 +58,7 @@ return `
 
 <section class="entete">
   <div>
-    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024" src="/images/candid_1_et_2.jpg"><div class="buttons">
+    <img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}, Élections législatives 2024" src="./images/candid_1_et_2.jpg"><div class="buttons">
 
       <div><a href="#programme" class="btn">Notre programme</a></div>
       <div><a href="#procuration" class="btn">Faire une procuration</a></div>
@@ -113,7 +113,7 @@ return `
       <div>
         ${commonsImage
         ? `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="${commonsImage}" />`
-        : `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="/images/candid_1.jpg" onerror="this.style.display='none';" />`
+        : `<img alt="${prenomNOM1} ${candidatLabel} pour le Nouveau Front Populaire, ${nomCirco}" src="./images/candid_1.jpg" onerror="this.style.display='none';" />`
         }
       </div>
 
@@ -136,7 +136,7 @@ return `
       ? `
       <article>
         <div>
-          <img alt="${prenomNOM2}, ${suppleanteLabel} pour le Front Populaire le 30 juin" src="/images/candid_2.jpg" onerror="this.style.display='none';" />
+          <img alt="${prenomNOM2}, ${suppleanteLabel} pour le Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';" />
         </div>
         <div>
           <h2>${prenomNOM2}</h2>
@@ -147,7 +147,7 @@ return `
      : `
       <!-- <article>
         <div>
-          <img alt="suppléant pour le Front Populaire le 30 juin" src="/images/candid_2.jpg">
+          <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candid_2.jpg">
         </div>
         <div>
           <h2>Présentation - suppléant·e</h2>
@@ -250,7 +250,7 @@ return `
     <ul>
       <li>
         <a target="_blank" href="https://www.facebook.com/victorymichele/posts/861819942431443">
-          <img src="/images/agenda/rencontre-19-juin-saint-agreve.jpg" alt="Rencontrons nous ! Avec Romain Evrard, nous vous donnons rendez-vous ce mercredi 19 juin à 18h30 à Saint-Agrève.">
+          <img src="./images/agenda/rencontre-19-juin-saint-agreve.jpg" alt="Rencontrons nous ! Avec Romain Evrard, nous vous donnons rendez-vous ce mercredi 19 juin à 18h30 à Saint-Agrève.">
         </a>
       </li>
     </ul>
