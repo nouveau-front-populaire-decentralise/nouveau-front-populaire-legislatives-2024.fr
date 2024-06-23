@@ -23,7 +23,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [07-01 - herve-saulignac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-saulignac/)
 * [x] [12-02 - laurent-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-alexandre/)
 * [x] [13-13 - pierre-dharreville](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-dharreville/)
-* [ ] [14-01 - emma-fourreau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emma-fourreau/)
+* [x] [14-01 - emma-fourreau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emma-fourreau/)
 * [ ] [18-01 - hugo-lefelle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hugo-lefelle/)
 * [ ] [18-02 - nicolas-sansu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-sansu/)
 * [ ] [22-01 - marion-gorgiard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marion-gorgiard/)
