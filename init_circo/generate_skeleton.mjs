@@ -150,7 +150,8 @@ return `
           <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candid_2.jpg">
         </div>
         <div>
-          <h2>Présentation - suppléant·e</h2>
+          <h2>prenomNOM2 - suppléant·e</h2>
+          <p>Présentation</p>
         </div>
       </article> -->
      `
