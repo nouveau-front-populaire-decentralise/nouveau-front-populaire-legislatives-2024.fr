@@ -1,4 +1,4 @@
-# [brigitte-sassou](https://nouveau-front-populaire-legislatives-2024.fr/brigitte-sassou)
+# [jean-baptiste-luccioni](https://nouveau-front-populaire-legislatives-2024.fr/jean-baptiste-luccioni)
 
 ## À faire
 
