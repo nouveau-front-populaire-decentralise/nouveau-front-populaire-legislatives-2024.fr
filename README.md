@@ -22,7 +22,9 @@ Puis ouvrez l'adresse du serveur dans votre navigateur web (soit, par défaut, h
 Arriver à une page avec des textes de présentation, des photos, les liens vers les différentes ressources existances. [Exemple de page complète](https://nouveau-front-populaire-legislatives-2024.fr/michele-victory/)
 
 ## À faire
-Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e). Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
+Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e).
+Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
+Mettez un indicateur de redirection 👉 quand il existe déjà un site de campagne pour les candidat·e·s cette circonscription
 
 ### Circonscriptions prioritaires
 [Source](https://docs.google.com/spreadsheets/d/1YpiHqYy4XmMNIekg41ZxnZwSz5fkOCsLpqgTXVOFjFQ/edit?gid=292222401)
@@ -61,7 +63,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [34-04 - sebastien-rome](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-rome/)
 * [x] [34-06 - magali-crozier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-crozier/)
 * [x] [34-08 - sylvain-carriere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvain-carriere/)
-* [ ] [35-02 - tristan-lahais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tristan-lahais/)
+* [x] [35-02 - tristan-lahais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tristan-lahais/) 👉
 * [ ] [36-01 - eloise-gonzalez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eloise-gonzalez/)
 * [ ] [40-03 - boris-vallaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-vallaud/)
 * [ ] [42-01 - pierrick-courbon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierrick-courbon/)
@@ -586,7 +588,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [ ] [Hors France 04 - cecilia-gondard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecilia-gondard/)
 * [ ] [Hors France 05 - maxime-da-silva](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-da-silva/)
 * [ ] [Hors France 06 - halina-delimi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/halina-delimi/)
-* [x] [Hors France 07 - asma-rharmaoui-claquin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/asma-rharmaoui-claquin/)
+* [x] [Hors France 07 - asma-rharmaoui-claquin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/asma-rharmaoui-claquin/) 👉
 * [ ] [Hors France 08 - yael-lerer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yael-lerer/)
 * [ ] [Hors France 09 - karim-ben-cheikh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-ben-cheikh/)
 * [ ] [Hors France 10 - elsa-di-meo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-di-meo/)
