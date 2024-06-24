@@ -64,7 +64,7 @@ return `
 
       <div role="listitem"><a href="#programme" class="btn">Notre programme</a></div>
       <div role="listitem"><a href="#procuration" class="btn">Faire une procuration</a></div>
-      <!-- <div><a href="#agenda" class="btn">Agenda</a></div> -->
+      <!-- <div role="listitem"><a href="#agenda" class="btn">Agenda</a></div> -->
       ${boucle ? `<div role="listitem"><a target="_blank" href="${boucle}" class="btn">Nous rejoindre</a></div>` : '<!-- <div role="listitem"><a target="_blank" href="" class="btn">Nous rejoindre</a></div> -->'}
     </div>
     </nav>
@@ -101,7 +101,7 @@ return `
 
     <div class="buttons" role="list">
       <div role="listitem">
-        <a target="_blank" href="https://www.nouveaufrontpopulaire.fr/" class="btn">Voir le programme en détail</a>
+        <a target="_blank" href="https://www.nouveaufrontpopulaire.fr/" title="Voir le programme du Nouveau Front Populaire en détail - nouvelle fenêtre">Voir le programme en détail</a>
       </div>
 
       <div role="listitem">
@@ -292,8 +292,8 @@ ${
 
 </main>
 
-<section class="footer">
 <footer role="contentinfo">
+<section class="footer">
   <p>
     <a href="https://nouveau-front-populaire-legislatives-2024.fr/">nouveau-front-populaire-legislatives-2024.fr</a> est une initiative citoyenne, non-officielle et indépendante de soutien aux campagnes du Nouveau Front Populaire, visant à s'assurer que chaque candidat·e a bien une page web pour visibiliser sa campagne. Si une page web dédiée à la campagne existe déjà, merci de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous en informer</a> pour que la présente page redirige vers celle-ci. Si vous avez des notions de HTML, vous pouvez contribuer à améliorer cette page directement depuis son <a target="_blank" href="https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/${slug}">code source</a>. Si ce n'est pas votre cas, le plus simple est encore de <a href="mailto:contact+${slug}@nouveau-front-populaire-legislatives-2024.fr">nous écrire</a>.
   </p>
