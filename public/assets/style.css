@@ -24,8 +24,8 @@
 
 @font-face {
   font-family: "Barlow";
-  src: url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-Regular.woff") format("woff"),
-    url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-Regular.woff2") format("woff2");
+  src: url("/assets/fonts/Barlow-Regular.woff") format("woff"),
+    url("/assets/fonts/Barlow-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: normal;
   text-rendering: optimizeLegibility;
@@ -33,8 +33,8 @@
 
 @font-face {
   font-family: "Barlow";
-  src: url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-SemiBold.woff") format("woff"),
-    url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-SemiBold.woff2") format("woff2");
+  src: url("/assets/fonts/Barlow-SemiBold.woff") format("woff"),
+    url("/assets/fonts/Barlow-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-weight: 600;
   text-rendering: optimizeLegibility;
@@ -42,8 +42,8 @@
 
 @font-face {
   font-family: "Barlow";
-  src: url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-Bold.woff") format("woff"),
-    url("https://nouveau-front-populaire-legislatives-2024.fr/assets/fonts/Barlow-Bold.woff2") format("woff2");
+  src: url("/assets/fonts/Barlow-Bold.woff") format("woff"),
+    url("/assets/fonts/Barlow-Bold.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   text-rendering: optimizeLegibility;

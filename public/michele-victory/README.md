@@ -1,4 +1,32 @@
 # [michele-victory](https://nouveau-front-populaire-legislatives-2024.fr/michele-victory)
 
-## Rien à faire
-Redirige vers [https://nouveau-front-populaire-decentralise.github.io/michelevictory2024/](https://nouveau-front-populaire-decentralise.github.io/michelevictory2024/)"
+## À faire
+
+Cochez quand c'est fait. On fait au mieux avec ce qui est disponible (typiquement ce qu'on trouve sur les réseaux sociaux ), libre à d'autres d'encore améliorer la page ensuite.
+
+### Ajouter des images
+Dans le dossier `./images` :
+- [x] Ajouter une image `candid_1_et_2.jpg` (Candidat·e et Suppléant·e ensemble)
+- [x] Ajouter une image `candid_1.jpg` (Candidat·e)
+- [x] Ajouter une image `candid_2.jpg` (Suppléant·e)
+- [x] Ajouter une image `banner.jpg` (Image d'illustration de la page web quand elle est partagé sur les réseaux sociaux ou dans les messageries, idéalement avec un ration largeur/hauteur de 1.91:1, par exemple 1200px de largeur pour 630px de hauteur)
+
+### Ajouter du texte
+Dans le fichier HTML `index.html` :
+
+**À l'intérieur de la balise `<section id="candidature">`**
+- [x] Ajouter un texte de présentation de la candidat·e
+- [x] Ajouter un texte de présentation de la suppléant·e
+
+**À l'intérieur de la balise `<section class="contact">`**
+- [x] Ajouter un lien vers le formulaire, ou autre, permettant de rejoindre la campagne
+- [x] Ajouter un email de contact
+- [x] Ajouter les réseaux sociaux existant
+
+**À l'intérieur de la balise `<section id="agenda">`**
+- [x] Ajouter les évenements de la campagne locale
+
+### Informer l'équipe de campagne de l'existance de cette page
+Iels sont surement déjà débordées, mais peut-être qu'iels peuvent aider à remplir ce qui n'a pas pu être trouvé en ligne (notamment les textes de présentation). Si elle le souhaite, l'équipe de campagne peut reprendre la main sur la page, voir demander à ce qu'elle soit remplacé par une redirection vers un site de campagne existant.
+
+- [x] Contacter l'équipe de campagne
