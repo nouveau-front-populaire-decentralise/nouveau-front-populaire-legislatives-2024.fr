@@ -66,7 +66,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [35-02 - tristan-lahais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tristan-lahais/) 👉
 * [x] [36-01 - eloise-gonzalez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eloise-gonzalez/) 👉
 * [x] [40-03 - boris-vallaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-vallaud/)
-* [ ] [42-01 - pierrick-courbon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierrick-courbon/)
+* [x] [42-01 - pierrick-courbon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierrick-courbon/) 👉
 * [ ] [44-01 - karim-benbrahim](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-benbrahim/)
 * [ ] [46-02 - christophe-proenca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-proenca/)
 * [ ] [49-04 - charlyne-bouvet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlyne-bouvet/)
