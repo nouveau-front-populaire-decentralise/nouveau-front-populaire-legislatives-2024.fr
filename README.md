@@ -45,7 +45,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [29-04 - sylvaine-vulpiani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvaine-vulpiani/)
 * [x] [29-07 - jugdeep-harvinder](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jugdeep-harvinder/)
 * [x] [29-08 - thomas-le-bon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thomas-le-bon/)
-* [ ] [30-05 - michel-sala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michel-sala/)
+* [x] [30-05 - michel-sala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michel-sala/)
 * [ ] [31-06 - arnaud-simion](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-simion/)
 * [ ] [31-07 - christophe-bex](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-bex/)
 * [ ] [31-08 - joel-aviragnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joel-aviragnet/)
