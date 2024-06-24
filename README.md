@@ -69,7 +69,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [42-01 - pierrick-courbon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierrick-courbon/)
 * [ ] [44-01 - karim-benbrahim](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-benbrahim/)
 * [ ] [46-02 - christophe-proenca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-proenca/)
-* [ ] [49-04 - charline-bouvet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charline-bouvet/)
+* [ ] [49-04 - charlyne-bouvet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlyne-bouvet/)
 * [ ] [50-03 - gaelle-verove](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gaelle-verove/)
 * [ ] [51-02 - stephane-pirouelle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-pirouelle/)
 * [ ] [53-01 - guillaume-garot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-garot/)
