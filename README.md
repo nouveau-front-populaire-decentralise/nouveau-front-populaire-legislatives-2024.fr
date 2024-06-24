@@ -586,3 +586,6 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [ ] [Hors France 09 - karim-ben-cheikh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-ben-cheikh/)
 * [ ] [Hors France 10 - elsa-di-meo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-di-meo/)
 * [ ] [Hors France 11 - francois-pajot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francois-pajot/)
+
+## Crédits
+Le design des pages de candidat·e·s est dérivé de ce que génère https://2024.scribouilli.org/ ([démo](https://maiwann.github.io/demonstration_2024/))
