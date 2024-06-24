@@ -18,6 +18,9 @@ Pour voir vos modifications localement :
 
 Puis ouvrez l'adresse du serveur dans votre navigateur web (soit, par défaut, http://localhost:8080 pour `live-server` ou http://localhost:8000 pour `python`)
 
+## Objectif
+Arriver à une page avec des textes de présentation, des photos, les liens vers les différentes ressources existances. [Exemple de page complète](https://nouveau-front-populaire-legislatives-2024.fr/michele-victory/)
+
 ## À faire
 Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e). Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
 
@@ -141,7 +144,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [ ] [06-07 - arthur-meyer-abatucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-meyer-abatucci/)
 * [ ] [06-08 - lucia-soudant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucia-soudant/)
 * [ ] [06-09 - jose-garcia-abia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jose-garcia-abia/)
-* [ ] [07-02 - michele-victory](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michele-victory/)
+* [x] [07-02 - michele-victory](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michele-victory/) ⭐
 * [ ] [07-03 - florence-pallot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-pallot/)
 * [ ] [08-01 - damien-lerouge](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-lerouge/)
 * [ ] [08-02 - gilles-loyez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gilles-loyez/)
