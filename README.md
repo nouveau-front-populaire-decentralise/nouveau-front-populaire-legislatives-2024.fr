@@ -9,6 +9,8 @@ Minimaliste, car le retour électoral sur investissement en énergie militante e
 * L'usage de bonnes pratiques de [SEO](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche) doit permettre de faire remonter l'information des candidatures moins connus (la page elle même, comme les ressources vers lesquelles elles lient) dans les résultats des moteurs de recherche, au dessus de la masse des homonymes.
 
 ## Développement
+Zero framework : tout est en HTML+CSS. L'usage de ces seuls standards du web vise à permettre à n'importe qui avec quelques compétences en dévelopement web de contribuer.
+
 Pour voir vos modifications localement :
 
 * Si vous avez NodeJS installé, depuis ce dossier, exécutez la commande `npx live-server ./public` (A l'avantage de recharger la page lors de changements)
