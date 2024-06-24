@@ -226,7 +226,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [2B-01 - sacha-bastelica](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sacha-bastelica/)
 * [ ] [2B-02 - helene-sanchez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/helene-sanchez/)
 * [ ] [30-01 - charles-menard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charles-menard/)
-* [ ] [30-02 - kathy-guyot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/kathy-guyot/)
+* [ ] [30-02 - katy-guyot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/katy-guyot/)
 * [ ] [30-03 - sabine-oromi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sabine-oromi/)
 * [ ] [30-04 - arnaud-bord](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-bord/)
 * [ ] [30-06 - nicolas-cadene](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-cadene/)
