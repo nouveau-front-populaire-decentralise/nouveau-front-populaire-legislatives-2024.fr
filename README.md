@@ -60,7 +60,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [34-01 - jean-louis-roumegas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-roumegas/)
 * [x] [34-04 - sebastien-rome](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-rome/)
 * [x] [34-06 - magali-crozier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-crozier/)
-* [ ] [34-08 - sylvain-carriere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvain-carriere/)
+* [x] [34-08 - sylvain-carriere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvain-carriere/)
 * [ ] [35-02 - tristan-lahais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tristan-lahais/)
 * [ ] [36-01 - eloise-gonzalez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eloise-gonzalez/)
 * [ ] [40-03 - boris-vallaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-vallaud/)
