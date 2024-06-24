@@ -55,7 +55,7 @@ Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de
 * [x] [31-07 - christophe-bex](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-bex/)
 * [x] [31-08 - joel-aviragnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joel-aviragnet/)
 * [x] [31-10 - jacques-oberti](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jacques-oberti/)
-* [ ] [33-06 - marie-recalde](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-recalde/)
+* [x] [33-06 - marie-recalde](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-recalde/)
 * [ ] [33-07 - sebastien-saint-pasteur](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-saint-pasteur/)
 * [ ] [34-01 - jean-louis-roumegas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-roumegas/)
 * [ ] [34-04 - sebastien-rome](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-rome/)
