@@ -21,7 +21,7 @@ Puis ouvrez l'adresse du serveur dans votre navigateur web (soit, par défaut, h
 ## À faire
 Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e). Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
 
-### Circo prioritaire
+### Circonscriptions prioritaires
 [Source](https://docs.google.com/spreadsheets/d/1YpiHqYy4XmMNIekg41ZxnZwSz5fkOCsLpqgTXVOFjFQ/edit?gid=292222401)
 
 * [x] [01-02 - maxime-meyer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-meyer/)
