@@ -16,7 +16,7 @@ Dans le fichier HTML `index.html` :
 
 **À l'intérieur de la balise `<section id="candidature">`**
 - [ ] Ajouter un texte de présentation de la candidat·e
-- [ ] Ajouter un texte de présentation de la suppléant·e
+- [x] Ajouter un texte de présentation de la suppléant·e
 
 **À l'intérieur de la balise `<section class="contact">`**
 - [ ] Ajouter un lien vers le formulaire, ou autre, permettant de rejoindre la campagne
@@ -29,4 +29,4 @@ Dans le fichier HTML `index.html` :
 ### Informer l'équipe de campagne de l'existance de cette page
 Iels sont surement déjà débordées, mais peut-être qu'iels peuvent aider à remplir ce qui n'a pas pu être trouvé en ligne (notamment les textes de présentation). Si elle le souhaite, l'équipe de campagne peut reprendre la main sur la page, voir demander à ce qu'elle soit remplacé par une redirection vers un site de campagne existant.
 
-- [ ] Contacter l'équipe de campagne
+- [x] Contacter l'équipe de campagne
