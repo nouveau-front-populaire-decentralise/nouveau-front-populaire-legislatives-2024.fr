@@ -8,6 +8,14 @@ Minimaliste, car le retour électoral sur investissement en énergie militante e
 * Là où les réseaux sociaux dispersent l'information dans le flu, ces pages web doivent permettre de consolider les informations de base sur les campagnes.
 * L'usage de bonnes pratiques de [SEO](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche) doit permettre de faire remonter l'information des candidatures moins connus (la page elle même, comme les ressources vers lesquelles elles lient) dans les résultats des moteurs de recherche, au dessus de la masse des homonymes.
 
+## Développement
+Pour voir vos modifications localement :
+
+* Si vous avez NodeJS installé, depuis ce dossier, exécutez la commande `npx live-server ./public` (A l'avantage de recharger la page lors de changements)
+* Sinon, vous avez probablement la commande python : `cd ./public && python3 -m http.server` ou `cd ./public && python -m http.server`
+
+Puis ouvrez l'adresse du serveur dans votre navigateur web (soit, par défaut, http://localhost:8080 pour `live-server` ou http://localhost:8000 pour `python`)
+
 ## À faire
 Cochez une case quand tout ce qui pouvait être fait sans l'aide de l'équipe de campagne a été fait (Typiquement l'ajout d'images et de réseaux sociaux, du nom de la suppléant·e). Mettez une étoile ⭐ à la fin de la ligne si la page est compléte, c'est à dire que toutes les tâches du `README.md` de cette circonscription ont été cochées.
 
