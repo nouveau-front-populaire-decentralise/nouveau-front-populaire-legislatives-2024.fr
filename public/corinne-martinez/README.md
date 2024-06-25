@@ -1,4 +1,4 @@
-# [corrine-martinez](https://nouveau-front-populaire-legislatives-2024.fr/corrine-martinez)
+# [corinne-martinez](https://nouveau-front-populaire-legislatives-2024.fr/corinne-martinez)
 
 ## À faire
 
