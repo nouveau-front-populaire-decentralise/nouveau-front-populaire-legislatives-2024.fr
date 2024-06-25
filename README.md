@@ -140,7 +140,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [05-01 - marie-jose-allemand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-jose-allemand/)
 * [ ] [06-01 - olivier-salerno](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-salerno/)
 * [ ] [06-02 - leila-tonnerre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leila-tonnerre/)
-* [ ] [06-04 - virigine-parent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virigine-parent/)
+* [ ] [06-04 - virginie-parent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virginie-parent/)
 * [ ] [06-05 - fabrice-decoupigny](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-decoupigny/)
 * [ ] [06-06 - nicole-mazella](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicole-mazella/)
 * [ ] [06-07 - arthur-meyer-abatucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-meyer-abatucci/)
