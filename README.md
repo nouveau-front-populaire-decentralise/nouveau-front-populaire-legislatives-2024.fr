@@ -34,7 +34,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [02-03 - jean-louis-bricout](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-bricout/)
 * [x] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
 * [x] [04-02 - leo-walter](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-walter/)
-* [x] [05-02 - francis-cruz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francis-cruz/)
+* [x] [05-02 - valerie-rossi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-rossi/)
 * [x] [07-01 - herve-saulignac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-saulignac/)
 * [x] [12-02 - laurent-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-alexandre/)
 * [x] [13-13 - pierre-dharreville](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-dharreville/)

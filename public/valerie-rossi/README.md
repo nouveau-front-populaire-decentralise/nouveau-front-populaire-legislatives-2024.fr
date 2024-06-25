@@ -1,4 +1,4 @@
-# [francis-cruz](https://nouveau-front-populaire-legislatives-2024.fr/francis-cruz)
+# [valerie-rossi](https://nouveau-front-populaire-legislatives-2024.fr/valerie-rossi)
 
 ## À faire
 
@@ -7,7 +7,7 @@ Cochez quand c'est fait. On fait au mieux avec ce qui est disponible (typiquemen
 ### Ajouter des images
 Dans le dossier `./images` :
 - [ ] Ajouter une image `candid_1_et_2.jpg` (Candidat·e et Suppléant·e ensemble)
-- [x] Ajouter une image `candid_1.jpg` (Candidat·e)
+- [ ] Ajouter une image `candid_1.jpg` (Candidat·e)
 - [ ] Ajouter une image `candid_2.jpg` (Suppléant·e)
 - [ ] Ajouter une image `banner.jpg` (Image d'illustration de la page web quand elle est partagé sur les réseaux sociaux ou dans les messageries, idéalement avec un ration largeur/hauteur de 1.91:1, par exemple 1200px de largeur pour 630px de hauteur)
 
