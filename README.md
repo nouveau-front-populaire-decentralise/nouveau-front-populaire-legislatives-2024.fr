@@ -93,7 +93,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [69-01 - anais-belouassa-cherifi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anais-belouassa-cherifi/)
 * [x] [69-07 - abdelkader-lahmar](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/abdelkader-lahmar/)
 * [x] [71-04 - cecile-untermaier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-untermaier/)
-* [ ] [72-02 - marietta-karamanli](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marietta-karamanli/)
+* [x] [72-02 - marietta-karamanli](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marietta-karamanli/)
 * [ ] [72-04 - elise-leboucher](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elise-leboucher/)
 * [ ] [75-02 - marine-rosset](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marine-rosset/)
 * [ ] [75-03 - lea-balage-el-mariky](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lea-balage-el-mariky/)
