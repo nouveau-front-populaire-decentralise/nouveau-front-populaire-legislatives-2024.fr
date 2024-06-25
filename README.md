@@ -506,7 +506,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [85-05 - pierre-hugues-fourage](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-hugues-fourage/)
 * [x] [86-01 - lisa-belluco](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lisa-belluco/)
 * [ ] [86-03 - gisele-jean](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gisele-jean/)
-* [ ] [86-04 - yves-trouselle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yves-trouselle/)
+* [ ] [86-04 - yves-trousselle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yves-trousselle/)
 * [ ] [87-01 - damien-maudet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-maudet/)
 * [ ] [87-03 - manon-meunier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/manon-meunier/)
 * [ ] [88-01 - dominique-perrin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-perrin/)

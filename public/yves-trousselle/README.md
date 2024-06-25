@@ -1,4 +1,4 @@
-# [yves-trouselle](https://nouveau-front-populaire-legislatives-2024.fr/yves-trouselle)
+# [yves-trousselle](https://nouveau-front-populaire-legislatives-2024.fr/yves-trousselle)
 
 ## À faire
 
