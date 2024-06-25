@@ -553,7 +553,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [94-04 - adel-amara](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/adel-amara/)
 * [ ] [94-05 - julien-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-leger/)
 * [ ] [94-07 - rachel-keke](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/rachel-keke/)
-* [ ] [94-08 - joao-martins-perreira](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joao-martins-perreira/)
+* [ ] [94-08 - joao-martins-pereira](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joao-martins-pereira/)
 * [ ] [94-09 - isabelle-santiago](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/isabelle-santiago/)
 * [ ] [94-10 - mathilde-panot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-panot/)
 * [ ] [94-11 - sophie-taille-polian](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sophie-taille-polian/)
