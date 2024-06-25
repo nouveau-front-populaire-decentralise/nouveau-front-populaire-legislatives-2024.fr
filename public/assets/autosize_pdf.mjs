@@ -7,6 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
   })
   object.addEventListener('error', () => {
     object.style.display = 'none'
+    Array.from(document.querySelectorAll('.redundant-with-program')).forEach(el => {
+      el.style.display = 'block'
+    })
   })
 })
 

@@ -86,7 +86,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [59-20 - fabien-roussel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabien-roussel/)
 * [x] [61-01 - chantal-jourdan](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-jourdan/)
 * [x] [62-03 - jean-marc-tellier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-tellier/)
-* [ ] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
+* [x] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
 * [ ] [63-05 - andre-chassaigne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chassaigne/)
 * [ ] [64-01 - jean-sanroman](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-sanroman/)
 * [ ] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)

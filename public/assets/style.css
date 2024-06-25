@@ -1424,3 +1424,7 @@ section > div {
     max-width: 100%;
   }
 }
+
+.redundant-with-program{
+  display: none;
+}
