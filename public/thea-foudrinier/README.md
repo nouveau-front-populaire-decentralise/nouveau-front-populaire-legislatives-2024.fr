@@ -1,4 +1,4 @@
-# [thea-fourdrinier](https://nouveau-front-populaire-legislatives-2024.fr/thea-fourdrinier)
+# [thea-foudrinier](https://nouveau-front-populaire-legislatives-2024.fr/thea-foudrinier)
 
 ## À faire
 

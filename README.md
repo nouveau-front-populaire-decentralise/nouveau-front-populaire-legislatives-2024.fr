@@ -443,7 +443,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [74-05 - jean-baptiste-baud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-baptiste-baud/)
 * [ ] [74-06 - alain-roubian](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-roubian/)
 * [ ] [75-01 - raphael-kempf](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/raphael-kempf/)
-* [ ] [75-04 - thea-fourdrinier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thea-fourdrinier/)
+* [ ] [75-04 - thea-foudrinier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thea-foudrinier/)
 * [ ] [75-05 - pouria-amirshahi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pouria-amirshahi/)
 * [ ] [75-06 - sophia-chikirou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sophia-chikirou/)
 * [x] [75-08 - eva-sas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eva-sas/)
