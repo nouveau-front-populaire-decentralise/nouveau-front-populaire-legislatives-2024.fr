@@ -1,5 +1,4 @@
-[
-  {
+[{
     "departement": "01",
     "circo": "0101",
     "nomDepartement": "Ain",
@@ -3648,6 +3647,7 @@
     "site": "",
     "boucle": "https://t.me/+R8SK7BukD55lOGRk",
     "slug": "andre-chapaveire",
+    "altSlug": "andre-antoine-celestin-chapaveire",
     "wikidata": "Q62887704",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chapaveire%20Andr%C3%A9.jpg?width=1000",
     "prenomNOM1": "André CHAPAVEIRE",
@@ -6372,6 +6372,7 @@
     "site": "",
     "boucle": "",
     "slug": "florence-perrin",
+    "altSlug": "florence-janine-jacqueline-perrin",
     "prenomNOM1": "Florence PERRIN",
     "feminin1": true
   },
