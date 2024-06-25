@@ -143,7 +143,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [06-04 - virginie-parent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virginie-parent/)
 * [ ] [06-05 - fabrice-decoupigny](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-decoupigny/)
 * [ ] [06-06 - nicole-mazzella](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicole-mazzella/)
-* [ ] [06-07 - arthur-meyer-abatucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-meyer-abatucci/)
+* [ ] [06-07 - arthur-meyer-abbatucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-meyer-abbatucci/)
 * [ ] [06-08 - lucia-soudant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucia-soudant/)
 * [ ] [06-09 - jose-garcia-abia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jose-garcia-abia/)
 * [x] [07-02 - michele-victory](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michele-victory/) ⭐
