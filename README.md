@@ -89,7 +89,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
 * [x] [63-05 - andre-chassaigne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chassaigne/)
 * [x] [64-01 - jean-sanroman](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-sanroman/)
-* [ ] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
+* [x] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
 * [ ] [69-01 - anais-belouassa-cherifi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anais-belouassa-cherifi/)
 * [ ] [69-07 - abdelkader-lahmar](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/abdelkader-lahmar/)
 * [ ] [71-04 - cecile-untermaier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-untermaier/)
