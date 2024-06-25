@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const object = document.querySelector('object')
+  if (!object) return
   object.addEventListener('load', () => {
     autosize(object)
     document.getElementById('program-link').style.display = 'none'
