@@ -483,7 +483,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [78-12 - christophe-massiaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-massiaux/)
 * [ ] [80-03 - leon-deffontaines](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leon-deffontaines/)
 * [ ] [80-04 - elodie-heren](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elodie-heren/)
-* [ ] [80-05 - simon-mauget](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/simon-mauget/)
+* [ ] [80-05 - alice-berger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alice-berger/)
 * [ ] [81-01 - margot-lapeyre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/margot-lapeyre/)
 * [ ] [81-03 - julien-lassalle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-lassalle/)
 * [ ] [82-02 - claudie-chretien](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claudie-chretien/)
