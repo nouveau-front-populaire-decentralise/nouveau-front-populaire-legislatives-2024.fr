@@ -477,7 +477,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [78-06 - melinda-sauger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/melinda-sauger/)
 * [ ] [78-07 - aurelien-rousseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-rousseau/)
 * [ ] [78-08 - benjamin-lucas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benjamin-lucas/)
-* [ ] [78-09 - diop-dieynaba](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/diop-dieynaba/)
+* [ ] [78-09 - dieynaba-diop](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dieynaba-diop/)
 * [ ] [78-10 - cedric-briolais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cedric-briolais/)
 * [ ] [78-11 - william-martinet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/william-martinet/)
 * [ ] [78-12 - christophe-massiaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-massiaux/)
