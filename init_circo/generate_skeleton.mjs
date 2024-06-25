@@ -38,6 +38,7 @@ return `
   <meta property="og:image" content="https://nouveau-front-populaire-legislatives-2024.fr/${slug}/images/banner.jpg">
 
   <link rel="stylesheet" href="/assets/style.css" />
+  <script type="module" src="/assets/autosize_pdf.mjs"></script>
 
   <style>
     /* Add custom CSS rules here */
@@ -73,31 +74,12 @@ return `
 
 <main>
 <section id="programme">
+  <h2>Notre programme</h2>
+
+  <object name="programme" data="./programme.pdf" type="application/pdf" width="0" height="0"></object>
+  <a id="program-link" class="btn" href="./programme.pdf" download>Télécharger le programme de prenomNOM1</a>
+
   <div>
-    <h2>Notre programme</h2>
-
-    <h3>100 jours pour tout changer avec le Nouveau Front Populaire</h3>
-
-    <ul>
-      <li>
-        Pour notre pouvoir d’achat et les droits sociaux
-      </li>
-      <li>
-        Pour la démocratie et l’égalité entre toutes et tous
-      </li>
-      <li>
-        Pour notre santé et nos services publics
-      </li>
-      <li>
-        Pour le vivant et le climat
-      </li>
-      <li>
-        Pour la relocalisation des industries et des emplois
-      </li>
-      <li>
-        Pour la paix partout, en Ukraine et à Gaza
-      </li>
-    </ul>
 
     <div class="buttons" role="list">
       <div role="listitem">
@@ -148,14 +130,14 @@ return `
     </article>
       `
      : `
-      <!-- <article>
+      <article>
         <div>
           <img alt="suppléant pour le Nouveau Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';"  />
         </div>
         <div>
           <h2>prenomNOM2 - suppléant·e</h2>
         </div>
-      </article> -->
+      </article>
      `
     }
   </div>
