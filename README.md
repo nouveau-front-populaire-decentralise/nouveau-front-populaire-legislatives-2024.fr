@@ -179,7 +179,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [14-04 - pierre-mouraret](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-mouraret/)
 * [ ] [14-05 - thomas-dupont-federici](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thomas-dupont-federici/)
 * [ ] [14-06 - noe-gauchard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/noe-gauchard/)
-* [ ] [15-01 - veronique-rueda](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/veronique-rueda/)
+* [ ] [15-01 - valerie-rueda](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-rueda/)
 * [ ] [15-02 - zoe-pebay](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/zoe-pebay/)
 * [ ] [16-01 - rene-pilato](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/rene-pilato/)
 * [ ] [16-02 - carole-ballu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/carole-ballu/)
