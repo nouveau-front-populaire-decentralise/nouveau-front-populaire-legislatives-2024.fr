@@ -425,7 +425,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [69-14 - idir-boumertit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/idir-boumertit/)
 * [ ] [70-01 - sebastien-poyard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-poyard/)
 * [ ] [70-02 - eric-houlley](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eric-houlley/)
-* [ ] [71-01 - jean-luc-deulpeuch](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-luc-deulpeuch/)
+* [ ] [71-01 - jean-luc-delpeuch](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-luc-delpeuch/)
 * [ ] [71-02 - sebastien-gautheron](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-gautheron/)
 * [ ] [71-03 - richard-beninger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/richard-beninger/)
 * [ ] [71-05 - fatima-kouriche](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fatima-kouriche/)

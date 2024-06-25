@@ -1,4 +1,4 @@
-# [jean-luc-deulpeuch](https://nouveau-front-populaire-legislatives-2024.fr/jean-luc-deulpeuch)
+# [jean-luc-delpeuch](https://nouveau-front-populaire-legislatives-2024.fr/jean-luc-delpeuch)
 
 ## À faire
 
