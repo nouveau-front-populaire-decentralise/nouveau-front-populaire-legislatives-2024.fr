@@ -323,7 +323,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [51-01 - evelyne-bourgoin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/evelyne-bourgoin/)
 * [ ] [51-03 - chantal-berthelemy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-berthelemy/)
 * [ ] [51-04 - maxence-laurent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxence-laurent/)
-* [ ] [51-05 - chantal-berthelemy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-berthelemy/)
+* [ ] [51-05 - gael-padiou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gael-padiou/)
 * [ ] [52-01 - benjamin-lambert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benjamin-lambert/)
 * [ ] [52-02 - ingrid-viot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ingrid-viot/)
 * [ ] [53-02 - gregory-boisseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-boisseau/)
