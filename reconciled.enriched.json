@@ -13,7 +13,11 @@
     "boucle": "",
     "slug": "sebastien-gueraud",
     "prenomNOM1": "Sébastien GUERAUD",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Gaëlle DIMBERTON",
+    "prenomNom2": "Gaëlle Dimberton",
+    "feminin2": true,
+    "pdf": "1-01-0101-4"
   },
   {
     "departement": "01",
@@ -26,7 +30,7 @@
     "feminin1": false,
     "nom2": "Colin",
     "prenom2": "Albane",
-    "prenomNom2": "Albane Meyer",
+    "prenomNom2": "Albane Colin",
     "feminin2": true,
     "twitter": "FrontPop0102",
     "instagram": "maximemeyer01",
@@ -34,7 +38,9 @@
     "facebookUrl": "",
     "site": "",
     "boucle": "https://chat.whatsapp.com/C2rvetzaYeh6nREjA4oGpU",
-    "slug": "maxime-meyer"
+    "slug": "maxime-meyer",
+    "prenomNOM2": "Albane COLIN",
+    "pdf": "1-01-0102-5"
   },
   {
     "departement": "01",
@@ -51,7 +57,11 @@
     "boucle": "",
     "slug": "christian-jolie",
     "prenomNOM1": "Christian JOLIE",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Lisa WILD",
+    "prenomNom2": "Lisa Wild",
+    "feminin2": true,
+    "pdf": "1-01-0103-2"
   },
   {
     "departement": "01",
@@ -68,7 +78,11 @@
     "boucle": "",
     "slug": "charline-liotier",
     "prenomNOM1": "Charline LIOTIER",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Agnès RENOUD-LYAT",
+    "prenomNom2": "Agnès Renoud-Lyat",
+    "feminin2": true,
+    "pdf": "1-01-0104-1"
   },
   {
     "departement": "01",
@@ -85,7 +99,11 @@
     "boucle": "",
     "slug": "florence-pisani",
     "prenomNOM1": "Florence PISANI",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Pascal BAUDET",
+    "prenomNom2": "Pascal Baudet",
+    "feminin2": false,
+    "pdf": "1-01-0105-4"
   },
   {
     "departement": "02",
@@ -102,7 +120,11 @@
     "boucle": "",
     "slug": "charles-culioli",
     "prenomNOM1": "Charles CULIOLI",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Brigitte FOURNIÉ-TURQUIN",
+    "prenomNom2": "Brigitte Fournié-Turquin",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "02",
@@ -119,7 +141,11 @@
     "boucle": "",
     "slug": "anne-sophie-dujancourt",
     "prenomNOM1": "Anne-Sophie DUJANCOURT",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Didier LATAPIE",
+    "prenomNom2": "Didier Latapie",
+    "feminin2": false,
+    "pdf": "1-02-0202-3"
   },
   {
     "departement": "02",
@@ -139,7 +165,11 @@
     "prenomNOM1": "Jean-Louis BRICOUT",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605069",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/jean-louis-bricout"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/jean-louis-bricout",
+    "prenomNOM2": "Johann WÉRY",
+    "prenomNom2": "Johann Wéry",
+    "feminin2": false,
+    "pdf": "1-02-0203-3"
   },
   {
     "departement": "02",
@@ -156,7 +186,11 @@
     "boucle": "",
     "slug": "lola-prie",
     "prenomNOM1": "Lola PRIÉ",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Muriel MORBELLI",
+    "prenomNom2": "Muriel Morbelli",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "02",
@@ -171,7 +205,11 @@
     "slug": "karim-belaid",
     "wikidata": "Q102271788",
     "prenomNOM1": "Karim BELAÏD",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Marie-Ange LAYER",
+    "prenomNom2": "Marie-Ange Layer",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "03",
@@ -193,7 +231,11 @@
     "prenomNOM1": "Yannick MONNET",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793174",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/yannick-monnet"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/yannick-monnet",
+    "prenomNOM2": "Jean-Paul DUFRÈGNE",
+    "prenomNom2": "Jean-Paul Dufrègne",
+    "feminin2": false,
+    "pdf": "1-03-0301-2"
   },
   {
     "departement": "03",
@@ -210,7 +252,11 @@
     "slug": "louise-heritier",
     "wikidata": "Q126596379",
     "prenomNOM1": "Louise HERITIER",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Marie-Claude MONCELON",
+    "prenomNom2": "Marie-Claude Moncelon",
+    "feminin2": true,
+    "pdf": "1-03-0302-3"
   },
   {
     "departement": "03",
@@ -227,7 +273,11 @@
     "boucle": "",
     "slug": "aline-jeudi",
     "prenomNOM1": "Aline JEUDI",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Christine BOUARD",
+    "prenomNom2": "Christine Bouard",
+    "feminin2": true,
+    "pdf": "1-03-0303-4"
   },
   {
     "departement": "04",
@@ -244,7 +294,11 @@
     "boucle": "",
     "slug": "felix-blanc",
     "prenomNOM1": "Félix BLANC",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Florence WALGENWITZ",
+    "prenomNom2": "Florence Walgenwitz",
+    "feminin2": true,
+    "pdf": "1-04-0401-6"
   },
   {
     "departement": "04",
@@ -265,7 +319,11 @@
     "prenomNOM1": "Léo WALTER",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793110",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/leo-walter"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/leo-walter",
+    "prenomNOM2": "Alice ALLAMEL",
+    "prenomNom2": "Alice Allamel",
+    "feminin2": true,
+    "pdf": "1-04-0402-4"
   },
   {
     "departement": "05",
@@ -280,7 +338,11 @@
     "slug": "marie-jose-allemand",
     "wikidata": "Q126688999",
     "prenomNOM1": "Marie-José ALLEMAND",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Lionel TARDY",
+    "prenomNom2": "Lionel Tardy",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "05",
@@ -288,16 +350,20 @@
     "nomDepartement": "Hautes-Alpes",
     "nom1": "Cruz",
     "prenom1": "Françis",
-    "prenomNom1": "Françis Cruz",
+    "prenomNom1": "Valérie Rossi",
     "twitter": "",
     "instagram": "",
     "facebook": "",
     "facebookUrl": "",
     "site": "",
     "boucle": "",
-    "slug": "francis-cruz",
-    "prenomNOM1": "Françis CRUZ",
-    "feminin1": false
+    "slug": "valerie-rossi",
+    "prenomNOM1": "Valérie ROSSI",
+    "feminin1": true,
+    "prenomNOM2": "Vincent BONNARDEL",
+    "prenomNom2": "Vincent Bonnardel",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -314,7 +380,11 @@
     "boucle": "",
     "slug": "olivier-salerno",
     "prenomNOM1": "Olivier SALERNO",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Anne-Laure CHAINTRON",
+    "prenomNom2": "Anne-Laure Chaintron",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -331,14 +401,18 @@
     "boucle": "",
     "slug": "leila-tonnerre",
     "prenomNOM1": "Leïla TONNERRE",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Sébastien BRACCO",
+    "prenomNom2": "Sébastien Bracco",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "06",
     "circo": "0604",
     "nomDepartement": "Alpes-Maritimes",
     "nom1": "Parent",
-    "prenom1": "Virigine",
+    "prenom1": "Virginie",
     "prenomNom1": "Virginie Parent",
     "twitter": "",
     "instagram": "",
@@ -348,7 +422,11 @@
     "boucle": "",
     "slug": "virginie-parent",
     "prenomNOM1": "Virginie PARENT",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Olivier CAMOUS",
+    "prenomNom2": "Olivier Camous",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -365,7 +443,11 @@
     "boucle": "",
     "slug": "fabrice-decoupigny",
     "prenomNOM1": "Fabrice DECOUPIGNY",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Marie-Claude DUCHEIN",
+    "prenomNom2": "Marie-Claude Duchein",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -382,7 +464,11 @@
     "boucle": "",
     "slug": "nicole-mazzella",
     "prenomNOM1": "Nicole MAZZELLA",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Guillaume BOILEAU",
+    "prenomNom2": "Guillaume Boileau",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -399,7 +485,11 @@
     "boucle": "",
     "slug": "arthur-meyer-abbatucci",
     "prenomNOM1": "Arthur MEYER ABBATUCCI",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Laïla BLANDEL",
+    "prenomNom2": "Laïla Blandel",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -416,7 +506,11 @@
     "boucle": "",
     "slug": "lucia-soudant",
     "prenomNOM1": "Lucia SOUDANT",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Cedric RAMAGE",
+    "prenomNom2": "Cedric Ramage",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "06",
@@ -433,7 +527,11 @@
     "boucle": "",
     "slug": "jose-garcia-abia",
     "prenomNOM1": "José GARCIA ABIA",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Lola DALLIMONTI",
+    "prenomNom2": "Lola Dallimonti",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "07",
@@ -454,7 +552,11 @@
     "prenomNOM1": "Hervé SAULIGNAC",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340343",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/herve-saulignac"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/herve-saulignac",
+    "prenomNOM2": "Françoise GONNET TABARDEL",
+    "prenomNom2": "Françoise Gonnet Tabardel",
+    "feminin2": true,
+    "pdf": "1-07-0701-6"
   },
   {
     "departement": "07",
@@ -475,7 +577,11 @@
     "prenomNOM1": "Michèle VICTORY",
     "feminin1": true,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340357",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/michele-victory"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/michele-victory",
+    "prenomNOM2": "Romain EVRARD",
+    "prenomNom2": "Romain Evrard",
+    "feminin2": false,
+    "pdf": "1-07-0702-4"
   },
   {
     "departement": "07",
@@ -492,7 +598,11 @@
     "boucle": "",
     "slug": "florence-pallot",
     "prenomNOM1": "Florence PALLOT",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Michel SABATIER",
+    "prenomNom2": "Michel Sabatier",
+    "feminin2": false,
+    "pdf": "1-07-0703-4"
   },
   {
     "departement": "08",
@@ -509,7 +619,11 @@
     "boucle": "",
     "slug": "damien-lerouge",
     "prenomNOM1": "Damien LEROUGE",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Emeline JOIGNY",
+    "prenomNom2": "Emeline Joigny",
+    "feminin2": true,
+    "pdf": "1-08-0801-7"
   },
   {
     "departement": "08",
@@ -526,7 +640,11 @@
     "boucle": "",
     "slug": "gilles-loyez",
     "prenomNOM1": "Gilles LOYEZ",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Véronique VELTER",
+    "prenomNom2": "Véronique Velter",
+    "feminin2": true,
+    "pdf": "1-08-0802-5"
   },
   {
     "departement": "08",
@@ -541,7 +659,11 @@
     "slug": "sophie-perrin",
     "wikidata": "Q59690445",
     "prenomNOM1": "Sophie PERRIN",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Johnny GONZALEZ",
+    "prenomNom2": "Johnny Gonzalez",
+    "feminin2": false,
+    "pdf": "1-08-0803-4"
   },
   {
     "departement": "10",
@@ -558,7 +680,11 @@
     "boucle": "",
     "slug": "alice-barry",
     "prenomNOM1": "Alice BARRY",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Yoann LEMARIÉ",
+    "prenomNom2": "Yoann Lemarié",
+    "feminin2": false,
+    "pdf": "1-10-1001-3"
   },
   {
     "departement": "10",
@@ -575,7 +701,11 @@
     "boucle": "",
     "slug": "samira-sebbari",
     "prenomNOM1": "Samira SEBBARI",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "David MORIN",
+    "prenomNom2": "David Morin",
+    "feminin2": false,
+    "pdf": "1-10-1002-1"
   },
   {
     "departement": "10",
@@ -590,7 +720,11 @@
     "slug": "olivier-girardin",
     "wikidata": "Q62663955",
     "prenomNOM1": "Olivier GIRARDIN",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Camille LAINÉ",
+    "prenomNom2": "Camille Lainé",
+    "feminin2": true,
+    "pdf": "1-10-1003-1"
   },
   {
     "departement": "11",
@@ -612,7 +746,11 @@
     "prenomNOM1": "Philippe POUTOU",
     "feminin1": false,
     "viePublicUrl": "https://www.vie-publique.fr/14914-philippe-poutou",
-    "radioFranceUrl": "https://www.radiofrance.fr/personnes/philippe-poutou"
+    "radioFranceUrl": "https://www.radiofrance.fr/personnes/philippe-poutou",
+    "prenomNOM2": "Pauline SALINGUE",
+    "prenomNom2": "Pauline Salingue",
+    "feminin2": true,
+    "pdf": "1-11-1101-9"
   },
   {
     "departement": "11",
@@ -630,7 +768,11 @@
     "slug": "viviane-thivent",
     "wikidata": "Q117387145",
     "prenomNOM1": "Viviane THIVENT",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Nicolas SAINTE-CLUQUE",
+    "prenomNom2": "Nicolas Sainte-Cluque",
+    "feminin2": false,
+    "pdf": "1-11-1102-8"
   },
   {
     "departement": "11",
@@ -647,7 +789,11 @@
     "boucle": "",
     "slug": "philippe-andrieu",
     "prenomNOM1": "Philippe ANDRIEU",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Sabine CHABERT",
+    "prenomNom2": "Sabine Chabert",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "12",
@@ -664,7 +810,11 @@
     "boucle": "",
     "slug": "leon-thebault",
     "prenomNOM1": "Léon THEBAULT",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Isabelle COURTIAL",
+    "prenomNom2": "Isabelle Courtial",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "12",
@@ -681,7 +831,11 @@
     "boucle": "https://t.me/+77tGd75rFBgxMGNk",
     "slug": "laurent-alexandre",
     "prenomNOM1": "Laurent ALEXANDRE",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Dorothée PIC",
+    "prenomNom2": "Dorothée Pic",
+    "feminin2": true,
+    "pdf": "1-12-1202-2"
   },
   {
     "departement": "12",
@@ -699,7 +853,11 @@
     "slug": "richard-bouigue",
     "wikidata": "Q122863863",
     "prenomNOM1": "Richard BOUIGUE",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Clément CARLES",
+    "prenomNom2": "Clément Carles",
+    "feminin2": false,
+    "pdf": "1-12-1203-1"
   },
   {
     "departement": "13",
@@ -716,7 +874,11 @@
     "boucle": "",
     "slug": "pascaline-lecorche",
     "prenomNOM1": "Pascaline LECORCHÉ",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Pauline ROSSELL",
+    "prenomNom2": "Pauline Rossell",
+    "feminin2": true,
+    "pdf": "1-13-1301-1"
   },
   {
     "departement": "13",
@@ -732,7 +894,11 @@
     "slug": "laurent-lhardit",
     "wikidata": "Q118546910",
     "prenomNOM1": "Laurent LHARDIT",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Marie-Hélène AMSALLEM",
+    "prenomNom2": "Marie-Hélène Amsallem",
+    "feminin2": true,
+    "pdf": "1-13-1302-2"
   },
   {
     "departement": "13",
@@ -752,7 +918,11 @@
     "wikipediaTitle": "Amine Kessaci",
     "commonsImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Amine%20Kessaci.jpg?width=1000",
     "prenomNOM1": "Amine KESSACI",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Katia YAKOUBI",
+    "prenomNom2": "Katia Yakoubi",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "13",
@@ -775,7 +945,11 @@
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793444",
     "nosDeputesUrl": "https://www.nosdeputes.fr/manuel-bompard",
-    "radioFranceUrl": "https://www.radiofrance.fr/personnes/manuel-bompard"
+    "radioFranceUrl": "https://www.radiofrance.fr/personnes/manuel-bompard",
+    "prenomNOM2": "Kalila SEVIN",
+    "prenomNom2": "Kalila Sevin",
+    "feminin2": true,
+    "pdf": "1-13-1304-5"
   },
   {
     "departement": "13",
@@ -790,7 +964,11 @@
     "slug": "allan-popelard",
     "wikidata": "Q126689307",
     "prenomNOM1": "Allan POPELARD",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Charlotte DEWEERDT",
+    "prenomNom2": "Charlotte Deweerdt",
+    "feminin2": true,
+    "pdf": "1-13-1305-4"
   },
   {
     "departement": "13",
@@ -807,7 +985,11 @@
     "boucle": "",
     "slug": "christine-juste",
     "prenomNOM1": "Christine JUSTE",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Dimitri LEFEBVRE",
+    "prenomNom2": "Dimitri Lefebvre",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "13",
@@ -828,7 +1010,11 @@
     "prenomNOM1": "Sébastien DELOGU",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793464",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/sebastien-delogu"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/sebastien-delogu",
+    "prenomNOM2": "Lilia AZIZ",
+    "prenomNom2": "Lilia Aziz",
+    "feminin2": true,
+    "pdf": "1-13-1307-2"
   },
   {
     "departement": "13",
@@ -845,7 +1031,11 @@
     "boucle": "",
     "slug": "alexandre-beddock",
     "prenomNOM1": "Alexandre BEDDOCK",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Nadia GRAINDORGE",
+    "prenomNom2": "Nadia Graindorge",
+    "feminin2": true,
+    "pdf": "1-13-1308-3"
   },
   {
     "departement": "13",
@@ -862,7 +1052,11 @@
     "boucle": "",
     "slug": "bernard-ougourlou-oglou",
     "prenomNOM1": "Bernard OUGOURLOU-OGLOU",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Cristel MIGLIACCIO",
+    "prenomNom2": "Cristel Migliaccio",
+    "feminin2": true,
+    "pdf": "1-13-1309-2"
   },
   {
     "departement": "13",
@@ -876,7 +1070,11 @@
     "boucle": "",
     "slug": "jimmy-bessaih",
     "prenomNOM1": "Jimmy BESSAIH",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Pauline SAUNIER",
+    "prenomNom2": "Pauline Saunier",
+    "feminin2": true,
+    "pdf": "1-13-1310-8"
   },
   {
     "departement": "13",
@@ -893,7 +1091,11 @@
     "boucle": "",
     "slug": "marc-pena",
     "prenomNOM1": "Marc PENA",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Magali BAILLEUL",
+    "prenomNom2": "Magali Bailleul",
+    "feminin2": true,
+    "pdf": "1-13-1311-4"
   },
   {
     "departement": "13",
@@ -910,7 +1112,11 @@
     "boucle": "",
     "slug": "maryline-czurka",
     "prenomNOM1": "Maryline CZURKA",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Ariane LOMBARDI",
+    "prenomNom2": "Ariane Lombardi",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "13",
@@ -932,7 +1138,11 @@
     "prenomNOM1": "Pierre DHARREVILLE",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718926",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/pierre-dharreville"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/pierre-dharreville",
+    "prenomNOM2": "Magali GIORGETTI",
+    "prenomNom2": "Magali Giorgetti",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "13",
@@ -952,7 +1162,11 @@
     "prenomNOM1": "Jean-David CIOT",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605557",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/jean-david-ciot"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/jean-david-ciot",
+    "prenomNOM2": "Noëlle CICCOLINI JOUFFRET",
+    "prenomNom2": "Noëlle Ciccolini Jouffret",
+    "feminin2": true,
+    "pdf": "1-13-1314-2"
   },
   {
     "departement": "13",
@@ -969,7 +1183,11 @@
     "boucle": "",
     "slug": "wassila-aidarous",
     "prenomNOM1": "Wassila AIDAROUS",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Danièle MONGES",
+    "prenomNom2": "Danièle Monges",
+    "feminin2": true,
+    "pdf": "1-13-1315-4"
   },
   {
     "departement": "13",
@@ -986,7 +1204,11 @@
     "slug": "nicolas-koukas",
     "wikidata": "Q63764565",
     "prenomNOM1": "Nicolas KOUKAS",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Christophe CAILLAULT",
+    "prenomNom2": "Christophe Caillault",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "14",
@@ -1005,7 +1227,11 @@
     "wikidata": "Q126372922",
     "wikipediaTitle": "Emma Fourreau",
     "prenomNOM1": "Emma FOURREAU",
-    "feminin1": true
+    "feminin1": true,
+    "prenomNOM2": "Aurélien GUIDI",
+    "prenomNom2": "Aurélien Guidi",
+    "feminin2": false,
+    "pdf": "0"
   },
   {
     "departement": "14",
@@ -1025,7 +1251,11 @@
     "prenomNOM1": "Arthur DELAPORTE",
     "feminin1": false,
     "assembleeNationalUrl": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793394",
-    "nosDeputesUrl": "https://www.nosdeputes.fr/arthur-delaporte"
+    "nosDeputesUrl": "https://www.nosdeputes.fr/arthur-delaporte",
+    "prenomNOM2": "Elise CASSETTO-GADRAT",
+    "prenomNom2": "Elise Cassetto-Gadrat",
+    "feminin2": true,
+    "pdf": "1-14-1402-3"
   },
   {
     "departement": "14",
@@ -1042,7 +1272,11 @@
     "boucle": "",
     "slug": "olivier-truffaut",
     "prenomNOM1": "Olivier TRUFFAUT",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Marie-Andrée QUESTE",
+    "prenomNom2": "Marie-Andrée Queste",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "14",
@@ -1058,7 +1292,11 @@
     "slug": "pierre-mouraret",
     "wikidata": "Q65594043",
     "prenomNOM1": "Pierre MOURARET",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Clémentine LE MARREC",
+    "prenomNom2": "Clémentine Le Marrec",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "14",
@@ -1075,7 +1313,11 @@
     "slug": "thomas-dupont-federici",
     "wikidata": "Q98246768",
     "prenomNOM1": "Thomas DUPONT FEDERICI",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Valérie HAREL",
+    "prenomNom2": "Valérie Harel",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "14",
@@ -1093,7 +1335,11 @@
     "slug": "noe-gauchard",
     "wikidata": "Q126683288",
     "prenomNOM1": "Noé GAUCHARD",
-    "feminin1": false
+    "feminin1": false,
+    "prenomNOM2": "Annie BIHEL",
+    "prenomNom2": "Annie Bihel",
+    "feminin2": true,
+    "pdf": "0"
   },
   {
     "departement": "15",

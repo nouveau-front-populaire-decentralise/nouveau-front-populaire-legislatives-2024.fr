@@ -1,13 +1,11 @@
 #!/usr/bin/env node
 import { readFile } from 'node:fs/promises'
-import ASCIIFolder from 'fold-to-ascii'
+import { getSlug } from './init_circo/utils.mjs'
 
 const data = JSON.parse(await readFile('./reconciled.enriched.json', 'utf8'))
 const sexes = JSON.parse(await readFile('./sexes.json', 'utf8'))
 
 const sexById = Object.fromEntries(sexes.map(({ id, sexe }) => [ id, sexe ]))
-
-const getSlug = str => ASCIIFolder.foldMaintaining(str.toLowerCase().normalize()).replace("'", '').replace(/\s/g, '-')
 
 async function getWikidata (wdId) {
   const uri = `wd:${wdId}`

@@ -54,33 +54,26 @@ async function getOfficialCircoData (circoData) {
   circoData.feminin2 = suppleantSexe === 'F'
   circoData.pdf = pdfId
   console.log('🚀 ~ file: program_scraper.mjs ~ line', 94, 'getOfficialCircoData ~ ', { pdfId })
-  // if (pdfId) {
-  //   const response = await fetch(`https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/data-pdf-propagandes/${pdfId}.pdf`)
-  //   const body = Readable.fromWeb(response.body)
-  //   await writeFile(`./public/${slug}/programme.pdf`, body)
-  // }
-  // await updateHtml(circoData)
+  if (pdfId) {
+    const response = await fetch(`https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/data-pdf-propagandes/${pdfId}.pdf`)
+    const body = Readable.fromWeb(response.body)
+    await writeFile(`./public/${slug}/programme.pdf`, body)
+  }
+  await updateHtml(circoData)
 }
-
-let passedValids = false
-let lastValid = '9507'
 
 try {
   for (const circoData of data) {
-    if (circoData.circo === lastValid) passedValids = true
-    else if (passedValids && !circoData.circo.startsWith('99')) {
-      try {
-        await getOfficialCircoData(circoData)
-      } catch (err) {
-        const circoCode = circoData.circo.startsWith('Z') ? circoData.departement + circoData.circo.slice(-2) : circo
-        console.error('debug circo', `https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/candidats.html?departement=${circoData.departement}&circo=${circoCode}&tour=1`)
-        console.error('debug circo',  `https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/ajax/1_candidats_circo_${circoCode}.json`)
-        throw err
-      }
+    try {
+      await getOfficialCircoData(circoData)
+    } catch (err) {
+      console.error('debug circo', `https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/candidats.html?departement=${circoData.departement}&circo=${circoData.circo}&tour=1`)
+      console.error('debug circo',  `https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/ajax/1_candidats_circo_${circoData.circo}.json`)
+      throw err
     }
   }
 } catch (err) {
   throw err
 } finally {
-  // await writeFile('./reconciled.enriched.json', JSON.stringify(data, null, 2) + '\n')
+  await writeFile('./reconciled.enriched.json', JSON.stringify(data, null, 2) + '\n')
 }
