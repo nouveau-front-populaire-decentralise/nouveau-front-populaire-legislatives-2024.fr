@@ -83,7 +83,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [57-03 - charlotte-leduc](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-leduc/)
 * [x] [57-09 - brigitte-vaisse](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brigitte-vaisse/)
 * [x] [58-02 - christian-paul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christian-paul/)
-* [ ] [59-20 - fabien-roussel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabien-roussel/)
+* [x] [59-20 - fabien-roussel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabien-roussel/)
 * [ ] [61-01 - chantal-jourdan](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-jourdan/)
 * [ ] [62-03 - jean-marc-tellier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-tellier/)
 * [ ] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
