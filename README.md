@@ -336,7 +336,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [56-04 - lhea-le-flecher](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lhea-le-flecher/)
 * [ ] [56-06 - jean-michel-baudry](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-michel-baudry/)
 * [ ] [57-01 - vincent-felix](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/vincent-felix/)
-* [ ] [57-02 - nicolas-victorien](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-victorien/)
+* [ ] [57-02 - victorien-nicolas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/victorien-nicolas/)
 * [ ] [57-04 - helene-girardot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/helene-girardot/)
 * [ ] [57-05 - lisa-lahore](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lisa-lahore/)
 * [ ] [57-06 - claire-bladt](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claire-bladt/)
