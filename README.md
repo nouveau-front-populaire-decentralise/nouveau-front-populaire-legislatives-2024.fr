@@ -78,7 +78,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [54-03 - martine-etienne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/martine-etienne/)
 * [x] [54-05 - dominique-potier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-potier/)
 * [x] [54-06 - caroline-fiat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/caroline-fiat/)
-* [ ] [56-03 - marie-madeleine-dore-lucas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-madeleine-dore-lucas/)
+* [x] [56-03 - marie-madeleine-dore-lucas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-madeleine-dore-lucas/)
 * [ ] [56-05 - damien-girard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-girard/)
 * [ ] [57-03 - charlotte-leduc](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-leduc/)
 * [ ] [57-09 - brigitte-vaisse](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brigitte-vaisse/)
