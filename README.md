@@ -567,7 +567,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [ZA-04 - elie-califer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elie-califer/)
 * [ ] [ZB-01 - jiovanny-william](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jiovanny-william/)
 * [ ] [ZB-02 - marcellin-nadeau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marcellin-nadeau/)
-* [ ] [ZB-03 - johnny-ahjjar](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/johnny-ahjjar/)
+* [ ] [ZB-03 - beatrice-bellay](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/beatrice-bellay/)
 * [ ] [ZB-04 - jean-philippe-nilor](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-philippe-nilor/)
 * [ ] [ZC-02 - davy-rimane](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/davy-rimane/)
 * [ ] [ZD-01 - philippe-naillet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-naillet/)
