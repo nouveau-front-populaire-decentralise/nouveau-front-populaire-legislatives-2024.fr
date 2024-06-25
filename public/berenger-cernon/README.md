@@ -1,4 +1,4 @@
-# [beranger-cernon](https://nouveau-front-populaire-legislatives-2024.fr/beranger-cernon)
+# [berenger-cernon](https://nouveau-front-populaire-legislatives-2024.fr/berenger-cernon)
 
 ## À faire
 

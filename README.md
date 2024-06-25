@@ -522,7 +522,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [91-03 - steevy-gustave](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steevy-gustave/)
 * [ ] [91-04 - amadou-deme](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amadou-deme/)
 * [ ] [91-06 - hella-kribi-romdhane](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hella-kribi-romdhane/)
-* [ ] [91-08 - beranger-cernon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/beranger-cernon/)
+* [ ] [91-08 - berenger-cernon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/berenger-cernon/)
 * [ ] [91-10 - antoine-leaument](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/antoine-leaument/)
 * [ ] [92-01 - elsa-faucillon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-faucillon/)
 * [ ] [92-02 - francesca-pasquini](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francesca-pasquini/)

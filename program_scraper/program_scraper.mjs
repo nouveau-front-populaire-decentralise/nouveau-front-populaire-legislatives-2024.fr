@@ -7,7 +7,7 @@ const data = JSON.parse(await readFile('./reconciled.enriched.json', 'utf8'))
 
 const lowercaseNames = str => {
   return str
-  .replaceAll(' -', '-')
+  .replaceAll(/\s*-\s*/g, '-')
   .split(' ')
   .map(part => {
     return part
