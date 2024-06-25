@@ -573,7 +573,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [ZD-01 - philippe-naillet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-naillet/)
 * [ ] [ZD-02 - karine-lebon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karine-lebon/)
 * [ ] [ZD-03 - alexis-chaussalet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alexis-chaussalet/)
-* [ ] [ZD-04 - emeline-k-bidy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emeline-k-bidy/)
+* [ ] [ZD-04 - emeline-kbidi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emeline-kbidi/)
 * [ ] [ZD-05 - jean-hugues-ratenon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-hugues-ratenon/)
 * [ ] [ZD-06 - frederic-maillot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/frederic-maillot/)
 * [ ] [ZD-07 - perceval-gaillard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/perceval-gaillard/)

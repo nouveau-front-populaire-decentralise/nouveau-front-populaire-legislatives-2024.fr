@@ -1,4 +1,4 @@
-# [emeline-k-bidy](https://nouveau-front-populaire-legislatives-2024.fr/emeline-k-bidy)
+# [emeline-kbidi](https://nouveau-front-populaire-legislatives-2024.fr/emeline-kbidi)
 
 ## À faire
 
