@@ -464,7 +464,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [77-02 - nour-benaissa-watbot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nour-benaissa-watbot/)
 * [ ] [77-03 - laura-vallee-hans](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laura-vallee-hans/)
 * [ ] [77-04 - mathieu-garnier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathieu-garnier/)
-* [ ] [77-05 - laurie-caenberg](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurie-caenberg/)
+* [ ] [77-05 - laurie-caenbergs](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurie-caenbergs/)
 * [ ] [77-06 - amal-bentounsi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amal-bentounsi/)
 * [ ] [77-09 - celine-thiebault-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-thiebault-martinez/)
 * [ ] [77-10 - maxime-laisney](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-laisney/)
