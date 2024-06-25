@@ -577,7 +577,6 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [ZD-05 - jean-hugues-ratenon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-hugues-ratenon/)
 * [ ] [ZD-06 - frederic-maillot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/frederic-maillot/)
 * [ ] [ZD-07 - perceval-gaillard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/perceval-gaillard/)
-* [ ] [ZM-01 - yasmina-aouny](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yasmina-aouny/)
 * [ ] [ZM-02 - kira-bacar-adacolo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/kira-bacar-adacolo/)
 * [ ] [ZP-01 - tematai-le-gayic](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tematai-le-gayic/)
 * [ ] [ZP-02 - steve-chailloux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steve-chailloux/)
