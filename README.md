@@ -380,7 +380,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [62-07 - jean-pierre-moussally](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-pierre-moussally/)
 * [ ] [62-08 - bertrand-petit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bertrand-petit/)
 * [ ] [62-09 - estelle-harremoes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/estelle-harremoes/)
-* [ ] [62-10 - sandrine-coquerie](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-coquerie/)
+* [ ] [62-10 - emmanuelle-leveugle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuelle-leveugle/)
 * [ ] [62-11 - samira-laal](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/samira-laal/)
 * [ ] [62-12 - alain-bavay](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-bavay/)
 * [ ] [63-01 - marianne-maximi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marianne-maximi/)
