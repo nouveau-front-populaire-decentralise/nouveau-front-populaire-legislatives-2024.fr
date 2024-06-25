@@ -1,4 +1,4 @@
-# [nicole-mazella](https://nouveau-front-populaire-legislatives-2024.fr/nicole-mazella)
+# [nicole-mazzella](https://nouveau-front-populaire-legislatives-2024.fr/nicole-mazzella)
 
 ## À faire
 
