@@ -395,7 +395,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [65-02 - denis-fegne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/denis-fegne/)
 * [ ] [66-01 - francis-daspe](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francis-daspe/)
 * [ ] [66-02 - david-berrue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/david-berrue/)
-* [ ] [66-03 - nathalie-cullel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nathalie-cullel/)
+* [ ] [66-03 - nathalie-cullell](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nathalie-cullell/)
 * [ ] [66-04 - julien-baraille](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-baraille/)
 * [x] [67-01 - sandra-regol](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandra-regol/)
 * [ ] [67-02 - emmanuel-fernandes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-fernandes/)
