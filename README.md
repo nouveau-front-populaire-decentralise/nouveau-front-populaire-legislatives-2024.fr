@@ -557,7 +557,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [94-09 - isabelle-santiago](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/isabelle-santiago/)
 * [ ] [94-10 - mathilde-panot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-panot/)
 * [ ] [94-11 - sophie-taille-polian](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sophie-taille-polian/)
-* [ ] [95-01 - maximilien-jules-arthur](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maximilien-jules-arthur/)
+* [ ] [95-01 - maximillien-jules-arthur](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maximillien-jules-arthur/)
 * [ ] [95-05 - paul-vannier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/paul-vannier/)
 * [ ] [95-08 - carlos-martens-bilongo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/carlos-martens-bilongo/)
 * [ ] [95-09 - arnaud-le-gall](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-le-gall/)
