@@ -289,7 +289,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [42-04 - bernard-paemelaere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bernard-paemelaere/)
 * [ ] [42-05 - ismael-stevenson](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ismael-stevenson/)
 * [ ] [42-06 - marie-paule-olive](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-paule-olive/)
-* [ ] [43-01 - celine-gacon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-gacon/)
+* [ ] [43-01 - celline-gacon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celline-gacon/)
 * [ ] [43-02 - andre-chapaveire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chapaveire/)
 * [ ] [44-02 - andy-kerbrat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andy-kerbrat/)
 * [ ] [44-03 - segolene-amiot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/segolene-amiot/)
