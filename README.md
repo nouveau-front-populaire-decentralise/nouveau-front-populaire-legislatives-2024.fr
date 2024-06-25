@@ -496,7 +496,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [83-07 - claudie-cartereau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claudie-cartereau/)
 * [ ] [83-08 - sarah-breffy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sarah-breffy/)
 * [ ] [84-01 - raphael-arnault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/raphael-arnault/)
-* [ ] [84-02 - francois-sandoz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francois-sandoz/)
+* [ ] [84-02 - patrick-blanes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/patrick-blanes/)
 * [ ] [84-03 - muriel-duenas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/muriel-duenas/)
 * [ ] [84-04 - monia-galvez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/monia-galvez/)
 * [ ] [84-05 - celine-celce](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-celce/)
