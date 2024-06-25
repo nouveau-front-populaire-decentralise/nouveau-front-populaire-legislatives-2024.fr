@@ -139,7 +139,7 @@ return `
       ? `
       <article>
         <div>
-          <img alt="${prenomNOM2}, ${suppleanteLabel} pour le Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';" />
+          <img alt="${prenomNOM2}, ${suppleanteLabel} pour le Nouveau Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';" />
         </div>
         <div>
           <h2>${prenomNOM2}</h2>
@@ -150,7 +150,7 @@ return `
      : `
       <!-- <article>
         <div>
-          <img alt="suppléant pour le Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';"  />
+          <img alt="suppléant pour le Nouveau Front Populaire le 30 juin" src="./images/candid_2.jpg" onerror="this.style.display='none';"  />
         </div>
         <div>
           <h2>prenomNOM2 - suppléant·e</h2>
