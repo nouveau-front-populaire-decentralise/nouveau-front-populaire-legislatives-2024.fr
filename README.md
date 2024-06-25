@@ -246,7 +246,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [33-08 - marylene-faure](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marylene-faure/)
 * [ ] [33-09 - corinne-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/corinne-martinez/)
 * [ ] [33-10 - pascal-bourgois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascal-bourgois/)
-* [ ] [33-11 - cecilia-fonseca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecilia-fonseca/)
+* [ ] [33-11 - celia-fonseca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celia-fonseca/)
 * [ ] [33-12 - mathilde-feld](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-feld/)
 * [ ] [34-02 - nathalie-oziol](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nathalie-oziol/)
 * [ ] [34-03 - fanny-dombre-coste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fanny-dombre-coste/)
