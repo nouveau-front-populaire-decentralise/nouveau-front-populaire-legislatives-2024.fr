@@ -343,7 +343,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [57-07 - luc-muller](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/luc-muller/)
 * [ ] [57-08 - celine-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-leger/)
 * [ ] [58-01 - brice-larepe](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brice-larepe/)
-* [ ] [59-01 - le-coq-aurelien](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/le-coq-aurelien/)
+* [ ] [59-01 - aurelien-le-coq](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-le-coq/)
 * [ ] [59-02 - ugo-bernalicis](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ugo-bernalicis/)
 * [ ] [59-03 - benjamin-saint-huile](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benjamin-saint-huile/)
 * [ ] [59-04 - charlotte-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-brun/)

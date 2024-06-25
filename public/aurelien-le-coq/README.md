@@ -1,4 +1,4 @@
-# [le-coq-aurelien](https://nouveau-front-populaire-legislatives-2024.fr/le-coq-aurelien)
+# [aurelien-le-coq](https://nouveau-front-populaire-legislatives-2024.fr/aurelien-le-coq)
 
 ## À faire
 
