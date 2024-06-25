@@ -565,7 +565,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [ZA-01 - olivier-serva](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-serva/)
 * [ ] [ZA-02 - christian-baptiste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christian-baptiste/)
 * [ ] [ZA-04 - elie-califer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elie-califer/)
-* [ ] [ZB-01 - william-giovanni](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/william-giovanni/)
+* [ ] [ZB-01 - jiovanny-william](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jiovanny-william/)
 * [ ] [ZB-02 - marcellin-nadaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marcellin-nadaud/)
 * [ ] [ZB-03 - johnny-ahjjar](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/johnny-ahjjar/)
 * [ ] [ZB-04 - jean-philippe-nilor](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-philippe-nilor/)
