@@ -29,7 +29,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 ### Circonscriptions prioritaires
 [Source](https://docs.google.com/spreadsheets/d/1YpiHqYy4XmMNIekg41ZxnZwSz5fkOCsLpqgTXVOFjFQ/edit?gid=292222401)
 
-* [x] [01-02 - maxime-meyer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-meyer/)
+* [x] [01-02 - maxime-meyer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-meyer/) ⭐
 * [x] [01-05 - florence-pisani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-pisani/)
 * [x] [02-03 - jean-louis-bricout](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-bricout/)
 * [x] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
