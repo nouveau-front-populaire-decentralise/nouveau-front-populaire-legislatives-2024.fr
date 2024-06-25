@@ -1,4 +1,4 @@
-# [soumya-bourouhaha](https://nouveau-front-populaire-legislatives-2024.fr/soumya-bourouhaha)
+# [soumya-bourouaha](https://nouveau-front-populaire-legislatives-2024.fr/soumya-bourouaha)
 
 ## À faire
 

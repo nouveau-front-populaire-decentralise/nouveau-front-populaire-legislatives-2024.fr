@@ -540,7 +540,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [93-01 - eric-coquerel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eric-coquerel/)
 * [ ] [93-02 - stephane-peu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-peu/)
 * [ ] [93-03 - thomas-portes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thomas-portes/)
-* [ ] [93-04 - soumya-bourouhaha](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/soumya-bourouhaha/)
+* [ ] [93-04 - soumya-bourouaha](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/soumya-bourouaha/)
 * [ ] [93-06 - bastien-lachaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bastien-lachaud/)
 * [ ] [93-08 - fatiha-keloua-hachi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fatiha-keloua-hachi/)
 * [ ] [93-09 - aurelie-trouve](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelie-trouve/)
