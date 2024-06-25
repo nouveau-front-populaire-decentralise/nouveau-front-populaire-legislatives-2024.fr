@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFile, writeFile } from 'node:fs/promises'
+import { readFile, writeFile, stat } from 'node:fs/promises'
 import { Readable } from 'node:stream'
 import { getSlug } from '../init_circo/utils.mjs'
 
@@ -26,8 +26,19 @@ async function updateHtml ({ slug, prenomNOM1, prenomNOM2, feminin2, pdfId }) {
   await writeFile(`./public/${slug}/index.html`, html)
 }
 
+async function exists (path) {
+  try {
+    await stat(path)
+    return true
+  } catch (err) {
+    return false
+  }
+}
+
 async function getOfficialCircoData (circoData) {
-  if (circoData.pdf) return
+  console.log("circoData.circo.startsWith('99')", circoData.circo.startsWith('99'))
+  if (circoData.pdf === '0' || (await exists(`./public/${circoData.slug}/programme.pdf`) || circoData.circo.startsWith('99'))) return
+  console.log('🚀 ~ file: program_scraper.mjs ~ line', 40, 'getOfficialCircoData ~ ', { circoData })
   const { circo, slug, altSlug, departement } = circoData
   const circoCode = circo.startsWith('Z') ? departement + circo.slice(-2) : circo
   const url = `https://programme-candidats.interieur.gouv.fr/elections-legislatives-2024/ajax/1_candidats_circo_${circoCode}.json`
