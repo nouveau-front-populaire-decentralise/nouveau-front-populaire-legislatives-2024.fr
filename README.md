@@ -101,7 +101,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [76-01 - florence-herouin-leautey](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-herouin-leautey/)
 * [x] [76-04 - alma-dufour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alma-dufour/)
 * [x] [76-05 - gerard-leseul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gerard-leseul/)
-* [ ] [76-06 - sebastien-jumel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-jumel/)
+* [x] [76-06 - sebastien-jumel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-jumel/)
 * [ ] [76-08 - jean-paul-lecoq](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-paul-lecoq/)
 * [ ] [77-01 - arnaud-saint-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-saint-martin/)
 * [ ] [77-07 - ersilia-soudais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ersilia-soudais/)
