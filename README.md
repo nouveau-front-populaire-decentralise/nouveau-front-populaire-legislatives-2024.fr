@@ -105,7 +105,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [76-08 - jean-paul-lecoq](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-paul-lecoq/)
 * [x] [77-01 - arnaud-saint-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-saint-martin/)
 * [x] [77-07 - ersilia-soudais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ersilia-soudais/)
-* [ ] [77-08 - arnaud-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-bonnet/)
+* [x] [77-08 - arnaud-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-bonnet/)
 * [ ] [79-01 - nathalie-lanzi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nathalie-lanzi/)
 * [ ] [79-02 - delphine-batho](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/delphine-batho/)
 * [ ] [79-03 - juliette-woillez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/juliette-woillez/)
