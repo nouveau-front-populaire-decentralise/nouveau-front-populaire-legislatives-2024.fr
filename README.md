@@ -97,7 +97,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [72-04 - elise-leboucher](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elise-leboucher/)
 * [x] [75-02 - marine-rosset](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marine-rosset/)
 * [x] [75-03 - lea-balage-el-mariky](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lea-balage-el-mariky/)
-* [ ] [75-07 - emmanuel-gregoire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-gregoire/)
+* [x] [75-07 - emmanuel-gregoire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-gregoire/)
 * [ ] [76-01 - florence-herouin-leautey](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-herouin-leautey/)
 * [ ] [76-04 - alma-dufour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alma-dufour/)
 * [ ] [76-05 - gerard-leseul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gerard-leseul/)
