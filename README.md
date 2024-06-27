@@ -113,7 +113,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [80-02 - zahia-hamdane](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/zahia-hamdane/)
 * [x] [81-02 - karen-erodi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karen-erodi/)
 * [x] [82-01 - valerie-rabault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-rabault/)
-* [ ] [85-02 - nicolas-helary](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-helary/)
+* [x] [85-02 - nicolas-helary](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-helary/)
 * [ ] [86-02 - valerie-soumaille](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-soumaille/)
 * [ ] [87-02 - stephane-delautrette](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-delautrette/)
 * [ ] [90-02 - florian-chauche](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florian-chauche/)
