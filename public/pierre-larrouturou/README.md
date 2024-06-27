@@ -20,8 +20,8 @@ Dans le fichier HTML `index.html` :
 
 **À l'intérieur de la balise `<section class="contact">`**
 - [ ] Ajouter un lien vers le formulaire, ou autre, permettant de rejoindre la campagne
-- [ ] Ajouter un email de contact
-- [ ] Ajouter les réseaux sociaux existant
+- [x] Ajouter un email de contact
+- [x] Ajouter les réseaux sociaux existant
 
 **À l'intérieur de la balise `<section id="agenda">`**
 - [ ] Ajouter les évenements de la campagne locale
