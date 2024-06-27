@@ -281,7 +281,6 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [39-03 - herve-prat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-prat/)
 * [ ] [40-01 - marie-laure-lafargue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-laure-lafargue/)
 * [ ] [40-02 - jean-marc-lespade](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-lespade/)
-* [ ] [41-01 - reda-belkadi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/reda-belkadi/)
 * [ ] [41-02 - sylvie-mayer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-mayer/)
 * [ ] [41-03 - noe-petit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/noe-petit/)
 * [ ] [42-02 - andree-taurinya](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andree-taurinya/)
