@@ -130,7 +130,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 ### Autres circonscriptions prioritaires
 [Source](https://www.instagram.com/circospivots)
 
-* [ ] [03-02 - louise-heritier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/louise-heritier/)
+* [x] [03-02 - louise-heritier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/louise-heritier/)
 * [ ] [05-01 - marie-jose-allemand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-jose-allemand/)
 * [ ] [17-02 - benoit-biteau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benoit-biteau/)
 * [ ] [21-02 - catherine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/catherine-hervieu/)
