@@ -121,7 +121,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [91-07 - claire-lejeune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claire-lejeune/)
 * [x] [91-09 - julie-ozenne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julie-ozenne/)
 * [x] [94-06 - may-bouhada](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/may-bouhada/)
-* [ ] [95-02 - ayda-hadizadeh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ayda-hadizadeh/)
+* [x] [95-02 - ayda-hadizadeh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ayda-hadizadeh/)
 * [ ] [95-03 - emmanuel-maurel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-maurel/)
 * [ ] [95-06 - gabrielle-cathala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gabrielle-cathala/)
 * [ ] [95-07 - romain-eskenazi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/romain-eskenazi/)
