@@ -123,7 +123,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [94-06 - may-bouhada](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/may-bouhada/)
 * [x] [95-02 - ayda-hadizadeh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ayda-hadizadeh/)
 * [x] [95-03 - emmanuel-maurel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-maurel/)
-* [ ] [95-06 - gabrielle-cathala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gabrielle-cathala/)
+* [x] [95-06 - gabrielle-cathala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gabrielle-cathala/)
 * [ ] [95-07 - romain-eskenazi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/romain-eskenazi/)
 
 ### Autre Circonscriptions
