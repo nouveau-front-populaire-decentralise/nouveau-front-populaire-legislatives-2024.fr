@@ -153,30 +153,30 @@ return `
 
     ${facebookUrl
       ? `<li><a target="_blank" href="${facebookUrl}"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.facebook.com/username/"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
+      : '<!-- <li><a target="_blank" title="Compte Facebook - nouvelle fenêtre" href="https://www.facebook.com/username/"><img src="/assets/icons/svg/bxl-facebook-circle.svg" alt="facebook"></a></li> -->'}
 
     ${instagram
-      ? `<li><a target="_blank" href="https://www.instagram.com/${instagram}/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.instagram.com/username/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
+      ? `<li><a target="_blank" title="Compte Instagram - nouvelle fenêtre" href="https://www.instagram.com/${instagram}/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li>`
+      : '<!-- <li><a target="_blank" title="Compte Instagram - nouvelle fenêtre" href="https://www.instagram.com/username/"><img src="/assets/icons/svg/bxl-instagram.svg" alt="instagram"></a></li> -->'}
 
     ${tiktok
-      ? `<li><a target="_blank" href="https://tiktok.com/@${tiktok}"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://tiktok.com/@username"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li> -->'}
+      ? `<li><a target="_blank" title="Compte Tiktok - nouvelle fenêtre" href="https://tiktok.com/@${tiktok}"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li>`
+      : '<!-- <li><a target="_blank" title="Compte Tiktok - nouvelle fenêtre" href="https://tiktok.com/@username"><img src="/assets/icons/svg/bxl-tiktok.svg" alt="tiktok"></a></li> -->'}
 
     ${twitter
-      ? `<li><a target="_blank" href="https://twitter.com/${twitter}"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://twitter.com/username"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
+      ? `<li><a target="_blank" title="Compte X-Twitter - nouvelle fenêtre" href="https://twitter.com/${twitter}"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li>`
+      : '<!-- <li><a target="_blank" title="Compte X-Twitter - nouvelle fenêtre" href="https://twitter.com/username"><img src="/assets/icons/svg/bxl-twitter.svg" alt="xtwitter"></a></li> -->'}
 
     ${youtube
-      ? `<li><a target="_blank" href="https://www.youtube.com/channel/${youtube}"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://www.youtube.com/@username"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li> -->'}
+      ? `<li><a target="_blank" title="Compte Youtube - nouvelle fenêtre" href="https://www.youtube.com/channel/${youtube}"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li>`
+      : '<!-- <li><a target="_blank" title="Compte Youtube - nouvelle fenêtre" href="https://www.youtube.com/@username"><img src="/assets/icons/svg/bxl-youtube.svg" alt="youtube"></a></li> -->'}
 
     ${mastodonUrl
-      ? `<li><a target="_blank" href="${mastodonUrl}"><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li>`
-      : '<!-- <li><a target="_blank" href="https://mastodon.social/@username"><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li> -->'}
+      ? `<li><a target="_blank" title="Compte Mastodon - nouvelle fenêtre" href="${mastodonUrl}"><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li>`
+      : '<!-- <li><a target="_blank" title="Compte Mastodon - nouvelle fenêtre" href="https://mastodon.social/@username"><img src="/assets/icons/svg/bxl-mastodon.svg" alt="mastodon"></a></li> -->'}
 
-    <!-- <li><a target="_blank" href="https://t.me/channelname"><img src="/assets/icons/svg/bxl-telegram.svg" alt="telegram"></a></li> -->
-    <li><a target="_blank" href="https://chat.whatsapp.com/channelid"><img src="/assets/icons/svg/bxl-whatsapp.svg" alt="whatsapp"></a></li>
+    <!-- <li><a target="_blank" title="Canal Telegram - nouvelle fenêtre" href="https://t.me/channelname"><img src="/assets/icons/svg/bxl-telegram.svg" alt="telegram"></a></li> -->
+    <li><a target="_blank" title="Groupe WhatsApp - nouvelle fenêtre" href="https://chat.whatsapp.com/channelid"><img src="/assets/icons/svg/bxl-whatsapp.svg" alt="whatsapp"></a></li>
 
   </ul>
 </section>
