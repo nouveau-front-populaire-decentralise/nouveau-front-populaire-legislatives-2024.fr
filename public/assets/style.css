@@ -1256,11 +1256,12 @@ section > div {
 }
 
 .logos_partis > div {
-  max-width: 100ch;
+  max-width: 120ch;
 }
 
 .logos_partis h2 {
   margin-bottom: 4rem;
+  text-align: center;
 }
 
 .logos_partis ul {
