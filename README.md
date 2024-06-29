@@ -138,7 +138,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [30-06 - nicolas-cadene](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-cadene/) 👉
 * [x] [31-05 - sylvie-espagnolle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-espagnolle/)
 * [x] [33-09 - corinne-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/corinne-martinez/)
-* [ ] [33-12 - mathilde-feld](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-feld/)
+* [x] [33-12 - mathilde-feld](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-feld/)
 * [ ] [35-04 - mathilde-hignet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-hignet/)
 * [ ] [37-04 - laurent-baumel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-baumel/)
 * [ ] [40-02 - jean-marc-lespade](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-lespade/)
