@@ -1153,6 +1153,14 @@ header ul {
   flex-wrap: wrap;
 }
 
+li{
+  /* Highlight <li> elemnts that aren't directly the child of a <ul> or <ol> */
+  background-color: red;
+}
+ul > li, ol > li{
+  background-color: inherit;
+}
+
 .container {
   max-width: 1000px;
   width: 100%;
