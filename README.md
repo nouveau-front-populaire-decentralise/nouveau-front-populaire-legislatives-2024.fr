@@ -186,7 +186,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [ ] [10-01 - alice-barry](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alice-barry/)
 * [ ] [10-02 - samira-sebbari](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/samira-sebbari/)
 * [ ] [10-03 - olivier-girardin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-girardin/)
-* [ ] [11-01 - philippe-poutou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-poutou/)
+* [x] [11-01 - philippe-poutou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-poutou/)
 * [ ] [11-02 - viviane-thivent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/viviane-thivent/)
 * [ ] [11-03 - philippe-andrieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-andrieu/)
 * [ ] [12-01 - leon-thebault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leon-thebault/)
