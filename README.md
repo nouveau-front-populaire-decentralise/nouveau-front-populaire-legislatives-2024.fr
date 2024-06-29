@@ -132,9 +132,9 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 
 * [x] [03-02 - louise-heritier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/louise-heritier/)
 * [x] [05-01 - marie-jose-allemand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-jose-allemand/)
-* [ ] [17-02 - benoit-biteau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benoit-biteau/)
-* [ ] [21-02 - catherine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/catherine-hervieu/)
-* [ ] [21-03 - pierre-pribetich](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-pribetich/)
+* [x] [17-02 - benoit-biteau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benoit-biteau/) 👉
+* [x] [21-02 - catherine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/catherine-hervieu/) 👉
+* [x] [21-03 - pierre-pribetich](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-pribetich/)
 * [ ] [30-06 - nicolas-cadene](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-cadene/)
 * [ ] [31-05 - sylvie-espagnolle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-espagnolle/)
 * [ ] [33-09 - corinne-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/corinne-martinez/)
