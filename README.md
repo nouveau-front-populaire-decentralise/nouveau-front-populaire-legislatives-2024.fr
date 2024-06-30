@@ -145,7 +145,7 @@ Mettez un indicateur de redirection 👉 quand il existe déjà un site de campa
 * [x] [44-08 - matthias-tavel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/matthias-tavel/) 👉
 * [x] [59-04 - charlotte-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-brun/)
 * [x] [59-05 - ophelie-delneste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ophelie-delneste/)
-* [ ] [59-16 - alain-bruneel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-bruneel/)
+* [x] [59-16 - alain-bruneel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-bruneel/)
 * [ ] [60-03 - amadou-ka](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amadou-ka/)
 * [ ] [63-04 - valerie-goleo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-goleo/)
 * [ ] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
