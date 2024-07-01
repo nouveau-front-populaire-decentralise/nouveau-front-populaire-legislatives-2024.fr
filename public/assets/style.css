@@ -1304,7 +1304,7 @@ section > div {
   color: var(--rouge);
 }
 .villes > div {
-  max-width: 80rem;
+  max-width: 85rem;
 }
 
 .villes img {
