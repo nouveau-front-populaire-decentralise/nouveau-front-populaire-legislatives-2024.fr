@@ -44,7 +44,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [13-03 - amine-kessaci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amine-kessaci/) 👉
 * [x] [13-06 - christine-juste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-juste/) 👉
 * [x] [13-13 - pierre-dharreville](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-dharreville/)
-* [ ] [13-14 - jean-david-ciot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-david-ciot/)
+* [x] [13-14 - jean-david-ciot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-david-ciot/)
 * [x] [14-01 - emma-fourreau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emma-fourreau/)
 * [ ] [16-01 - rene-pilato](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/rene-pilato/)
 * [ ] [16-03 - virginie-lebraud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virginie-lebraud/)
