@@ -41,8 +41,8 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [12-02 - laurent-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-alexandre/)
 * [x] [13-01 - pascaline-lecorche](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascaline-lecorche/)
 * [x] [13-02 - laurent-lhardit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-lhardit/)
-* [ ] [13-03 - amine-kessaci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amine-kessaci/)
-* [ ] [13-06 - christine-juste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-juste/)
+* [x] [13-03 - amine-kessaci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amine-kessaci/) 👉
+* [x] [13-06 - christine-juste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-juste/) 👉
 * [x] [13-13 - pierre-dharreville](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-dharreville/)
 * [ ] [13-14 - jean-david-ciot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-david-ciot/)
 * [x] [14-01 - emma-fourreau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emma-fourreau/)
@@ -65,7 +65,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [ ] [25-04 - magali-duvernois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-duvernois/)
 * [ ] [26-01 - paul-christophle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/paul-christophle/)
 * [x] [27-04 - philippe-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-brun/)
-* [ ] [29-01 - gregory-lebert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-lebert/)
+* [x] [29-01 - gregory-lebert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-lebert/) 👉
 * [x] [29-04 - sylvaine-vulpiani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvaine-vulpiani/)
 * [ ] [29-05 - gladys-grelaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gladys-grelaud/)
 * [ ] [29-06 - melanie-thomin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/melanie-thomin/)
@@ -115,13 +115,13 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [ ] [57-08 - celine-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-leger/)
 * [x] [58-02 - christian-paul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christian-paul/)
 * [x] [59-04 - charlotte-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-brun/)
-* [ ] [59-07 - karima-chouia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karima-chouia/)
+* [x] [59-07 - karima-chouia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karima-chouia/) 👉
 * [ ] [59-09 - odile-vidal-sagnier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/odile-vidal-sagnier/)
 * [ ] [60-03 - amadou-ka](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amadou-ka/)
 * [x] [61-01 - chantal-jourdan](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-jourdan/)
 * [ ] [62-05 - olivier-barbarin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-barbarin/)
 * [x] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
-* [ ] [63-03 - nicolas-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-bonnet/)
+* [x] [63-03 - nicolas-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-bonnet/) 👉
 * [x] [63-05 - andre-chassaigne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chassaigne/)
 * [ ] [64-04 - inaki-echaniz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/inaki-echaniz/)
 * [ ] [64-05 - colette-capdevielle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/colette-capdevielle/)
@@ -129,12 +129,12 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [ ] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
 * [x] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
 * [ ] [69-04 - sandrine-runel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-runel/)
-* [ ] [69-12 - lucie-gaillot-durand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-gaillot-durand/)
+* [x] [69-12 - lucie-gaillot-durand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-gaillot-durand/) 👉
 * [x] [71-04 - cecile-untermaier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-untermaier/)
 * [x] [72-02 - marietta-karamanli](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marietta-karamanli/)
 * [x] [75-03 - lea-balage-el-mariky](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lea-balage-el-mariky/)
 * [ ] [75-11 - celine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-hervieu/)
-* [ ] [75-13 - aminata-niakate](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aminata-niakate/)
+* [x] [75-13 - aminata-niakate](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aminata-niakate/) 👉
 * [x] [76-01 - florence-herouin-leautey](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-herouin-leautey/)
 * [x] [76-04 - alma-dufour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alma-dufour/)
 * [x] [76-05 - gerard-leseul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gerard-leseul/)
@@ -144,7 +144,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [ ] [77-09 - celine-thiebault-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-thiebault-martinez/)
 * [ ] [78-07 - aurelien-rousseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-rousseau/)
 * [ ] [78-09 - dieynaba-diop](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dieynaba-diop/)
-* [ ] [78-12 - christophe-massiaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-massiaux/)
+* [x] [78-12 - christophe-massiaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-massiaux/) 👉
 * [x] [79-01 - nathalie-lanzi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nathalie-lanzi/)
 * [x] [79-02 - delphine-batho](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/delphine-batho/)
 * [x] [80-01 - francois-ruffin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francois-ruffin/)
@@ -157,7 +157,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [87-02 - stephane-delautrette](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-delautrette/)
 * [ ] [87-03 - manon-meunier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/manon-meunier/)
 * [x] [90-02 - florian-chauche](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florian-chauche/)
-* [ ] [91-03 - steevy-gustave](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steevy-gustave/)
+* [x] [91-03 - steevy-gustave](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steevy-gustave/) 👉
 * [x] [91-05 - pierre-larrouturou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-larrouturou/)
 * [x] [91-07 - claire-lejeune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claire-lejeune/)
 * [x] [91-09 - julie-ozenne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julie-ozenne/)
@@ -182,14 +182,14 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [06-02 - leila-tonnerre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leila-tonnerre/)
 * [ ] [10-03 - olivier-girardin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-girardin/)
 * [x] [11-01 - philippe-poutou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-poutou/)
-* [ ] [11-02 - viviane-thivent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/viviane-thivent/)
+* [x] [11-02 - viviane-thivent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/viviane-thivent/) 👉
 * [ ] [11-03 - philippe-andrieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-andrieu/)
 * [ ] [13-09 - bernard-ougourlou-oglou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bernard-ougourlou-oglou/)
 * [ ] [13-11 - marc-pena](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marc-pena/)
 * [ ] [13-15 - wassila-aidarous](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/wassila-aidarous/)
 * [ ] [13-16 - nicolas-koukas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-koukas/)
 * [ ] [14-02 - arthur-delaporte](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-delaporte/)
-* [ ] [17-01 - jean-marc-soubeste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-soubeste/)
+* [x] [17-01 - jean-marc-soubeste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-soubeste/) 👉
 * [ ] [19-01 - francois-hollande](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/francois-hollande/)
 * [x] [23-01 - catherine-couturier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/catherine-couturier/)
 * [x] [24-01 - pascale-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascale-martin/)
@@ -217,7 +217,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [38-03 - elisa-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elisa-martin/)
 * [x] [38-05 - jeremie-iordanoff](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jeremie-iordanoff/)
 * [ ] [38-06 - yaqine-di-spigno](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yaqine-di-spigno/)
-* [ ] [38-08 - cecile-michel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-michel/)
+* [x] [38-08 - cecile-michel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-michel/) 👉
 * [ ] [38-10 - joelle-richol](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joelle-richol/)
 * [ ] [42-02 - andree-taurinya](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andree-taurinya/)
 * [x] [44-01 - karim-benbrahim](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-benbrahim/) ⭐
@@ -244,7 +244,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [x] [67-01 - sandra-regol](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandra-regol/)
 * [ ] [67-02 - emmanuel-fernandes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-fernandes/)
 * [x] [69-01 - anais-belouassa-cherifi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anais-belouassa-cherifi/)
-* [ ] [69-02 - boris-tavernier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-tavernier/)
+* [x] [69-02 - boris-tavernier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-tavernier/) 👉
 * [ ] [69-05 - fabrice-matteucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-matteucci/)
 * [ ] [69-06 - gabriel-amard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gabriel-amard/)
 * [x] [69-07 - abdelkader-lahmar](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/abdelkader-lahmar/)
@@ -263,7 +263,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [x] [77-07 - ersilia-soudais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ersilia-soudais/)
 * [ ] [77-10 - maxime-laisney](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-laisney/)
 * [ ] [78-01 - sebastien-ramage](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-ramage/)
-* [ ] [78-02 - maite-carrive-bedouani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maite-carrive-bedouani/)
+* [x] [78-02 - maite-carrive-bedouani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maite-carrive-bedouani/) 👉
 * [ ] [78-04 - celine-bourdon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-bourdon/)
 * [ ] [78-05 - yassine-benyettou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yassine-benyettou/)
 * [ ] [78-06 - melinda-sauger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/melinda-sauger/)
@@ -274,7 +274,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [84-02 - patrick-blanes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/patrick-blanes/)
 * [ ] [84-04 - monia-galvez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/monia-galvez/)
 * [x] [86-01 - lisa-belluco](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lisa-belluco/)
-* [ ] [89-01 - florence-loury](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-loury/)
+* [x] [89-01 - florence-loury](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-loury/) 👉
 * [ ] [91-01 - farida-amrani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/farida-amrani/)
 * [ ] [91-02 - mathieu-hillaire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathieu-hillaire/)
 * [ ] [91-06 - hella-kribi-romdhane](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hella-kribi-romdhane/)
@@ -304,7 +304,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [35-08 - mickael-bouloux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mickael-bouloux/)
 * [ ] [44-02 - andy-kerbrat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andy-kerbrat/)
 * [x] [69-03 - marie-charlotte-garin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-charlotte-garin/)
-* [ ] [75-05 - pouria-amirshahi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pouria-amirshahi/)
+* [x] [75-05 - pouria-amirshahi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pouria-amirshahi/) 👉
 * [ ] [75-06 - sophia-chikirou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sophia-chikirou/)
 * [x] [75-07 - emmanuel-gregoire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-gregoire/)
 * [x] [75-08 - eva-sas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eva-sas/)
@@ -341,7 +341,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [02-05 - karim-belaid](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karim-belaid/)
 * [ ] [03-03 - aline-jeudi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aline-jeudi/)
 * [ ] [06-04 - virginie-parent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virginie-parent/)
-* [ ] [06-05 - fabrice-decoupigny](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-decoupigny/)
+* [x] [06-05 - fabrice-decoupigny](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-decoupigny/) 👉
 * [ ] [06-06 - nicole-mazzella](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicole-mazzella/)
 * [ ] [06-07 - arthur-meyer-abbatucci](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arthur-meyer-abbatucci/)
 * [ ] [06-08 - lucia-soudant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucia-soudant/)
@@ -351,7 +351,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [08-03 - sophie-perrin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sophie-perrin/)
 * [ ] [10-01 - alice-barry](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alice-barry/)
 * [ ] [10-02 - samira-sebbari](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/samira-sebbari/)
-* [ ] [12-01 - leon-thebault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leon-thebault/)
+* [x] [12-01 - leon-thebault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leon-thebault/) 👉
 * [ ] [12-03 - richard-bouigue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/richard-bouigue/)
 * [ ] [13-05 - allan-popelard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/allan-popelard/)
 * [ ] [13-08 - alexandre-beddock](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alexandre-beddock/)
@@ -368,7 +368,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [17-05 - anne-brachet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anne-brachet/)
 * [x] [18-01 - hugo-lefelle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hugo-lefelle/)
 * [ ] [18-03 - emma-moreira](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emma-moreira/)
-* [ ] [19-02 - amandine-dewaele](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amandine-dewaele/)
+* [x] [19-02 - amandine-dewaele](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amandine-dewaele/) 👉
 * [ ] [21-04 - valerie-jacq](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-jacq/)
 * [ ] [21-05 - jerome-flache](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jerome-flache/)
 * [ ] [22-02 - jeremy-dauphin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jeremy-dauphin/)
@@ -377,8 +377,8 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [25-05 - matthieu-cassez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/matthieu-cassez/)
 * [ ] [27-01 - christine-le-bonte](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-le-bonte/)
 * [ ] [27-03 - jean-christophe-turpin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-christophe-turpin/)
-* [ ] [27-05 - pierre-yves-jourdain](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-yves-jourdain/)
-* [ ] [28-01 - jean-francois-bridet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-francois-bridet/)
+* [x] [27-05 - pierre-yves-jourdain](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-yves-jourdain/) 👉
+* [x] [28-01 - jean-francois-bridet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-francois-bridet/) 👉
 * [ ] [28-02 - nadia-faveris](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nadia-faveris/)
 * [ ] [28-04 - sylviane-boens](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylviane-boens/)
 * [ ] [29-03 - pierre-smolarz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-smolarz/)
@@ -388,7 +388,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [32-01 - pascal-levieux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascal-levieux/)
 * [ ] [33-08 - marylene-faure](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marylene-faure/)
 * [x] [33-09 - corinne-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/corinne-martinez/)
-* [ ] [33-10 - pascal-bourgois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascal-bourgois/)
+* [x] [33-10 - pascal-bourgois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascal-bourgois/) 👉
 * [ ] [33-11 - celia-fonseca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celia-fonseca/)
 * [x] [34-06 - magali-crozier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-crozier/)
 * [ ] [34-07 - gabriel-blasco](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gabriel-blasco/)
@@ -403,41 +403,41 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [38-07 - dominique-dichard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-dichard/)
 * [ ] [39-01 - anthony-brondel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anthony-brondel/)
 * [ ] [39-02 - evelyne-ternant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/evelyne-ternant/)
-* [ ] [39-03 - herve-prat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-prat/)
+* [x] [39-03 - herve-prat](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/herve-prat/) 👉
 * [ ] [40-01 - marie-laure-lafargue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-laure-lafargue/)
 * [x] [40-02 - jean-marc-lespade](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-lespade/)
 * [ ] [41-02 - sylvie-mayer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-mayer/)
-* [ ] [41-03 - noe-petit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/noe-petit/)
+* [x] [41-03 - noe-petit](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/noe-petit/) 👉
 * [ ] [42-03 - vincent-bony](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/vincent-bony/)
 * [ ] [42-04 - bernard-paemelaere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bernard-paemelaere/)
 * [ ] [42-05 - ismael-stevenson](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ismael-stevenson/)
 * [ ] [42-06 - marie-paule-olive](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-paule-olive/)
-* [ ] [43-01 - celline-gacon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celline-gacon/)
+* [x] [43-01 - celline-gacon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celline-gacon/) 👉
 * [ ] [43-02 - andre-chapaveire](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chapaveire/)
 * [ ] [44-07 - veronique-mahe](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/veronique-mahe/)
 * [ ] [44-09 - helene-macon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/helene-macon/)
 * [ ] [45-03 - clement-verde](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/clement-verde/)
 * [ ] [45-05 - anne-laure-boutet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anne-laure-boutet/)
 * [ ] [45-06 - christophe-lavialle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-lavialle/)
-* [ ] [47-01 - paul-vo-van](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/paul-vo-van/)
+* [x] [47-01 - paul-vo-van](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/paul-vo-van/) 👉
 * [ ] [47-03 - xavier-czapla](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/xavier-czapla/)
 * [ ] [49-03 - patrick-alexandre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/patrick-alexandre/)
 * [x] [49-04 - charlyne-bouvet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlyne-bouvet/)
 * [ ] [49-05 - france-moreau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/france-moreau/)
 * [ ] [49-06 - sylvie-gabin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-gabin/)
-* [ ] [50-01 - guillaume-hedouin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-hedouin/)
+* [x] [50-01 - guillaume-hedouin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-hedouin/) 👉
 * [ ] [50-02 - patrick-grimbert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/patrick-grimbert/)
 * [x] [50-03 - gaelle-verove](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gaelle-verove/)
-* [ ] [51-01 - evelyne-bourgoin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/evelyne-bourgoin/)
+* [x] [51-01 - evelyne-bourgoin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/evelyne-bourgoin/) 👉
 * [x] [51-02 - stephane-pirouelle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-pirouelle/)
 * [ ] [51-03 - chantal-berthelemy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-berthelemy/)
 * [ ] [51-04 - maxence-laurent](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxence-laurent/)
 * [ ] [51-05 - gael-padiou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gael-padiou/)
 * [ ] [52-01 - benjamin-lambert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benjamin-lambert/)
 * [ ] [52-02 - ingrid-viot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ingrid-viot/)
-* [ ] [53-02 - gregory-boisseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-boisseau/)
+* [x] [53-02 - gregory-boisseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-boisseau/) 👉
 * [ ] [53-03 - stephanie-lefoulon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephanie-lefoulon/)
-* [ ] [54-04 - barbara-bertozzi-bievelot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/barbara-bertozzi-bievelot/)
+* [x] [54-04 - barbara-bertozzi-bievelot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/barbara-bertozzi-bievelot/) 👉
 * [ ] [55-01 - olivier-guckert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-guckert/)
 * [ ] [55-02 - johan-laflotte](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/johan-laflotte/)
 * [ ] [56-02 - jade-beniguel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jade-beniguel/)
@@ -450,7 +450,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [57-04 - helene-girardot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/helene-girardot/)
 * [ ] [57-05 - lisa-lahore](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lisa-lahore/)
 * [ ] [57-06 - claire-bladt](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claire-bladt/)
-* [ ] [57-07 - luc-muller](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/luc-muller/)
+* [x] [57-07 - luc-muller](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/luc-muller/) 👉
 * [x] [57-09 - brigitte-vaisse](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brigitte-vaisse/)
 * [ ] [58-01 - brice-larepe](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brice-larepe/)
 * [ ] [59-03 - benjamin-saint-huile](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benjamin-saint-huile/)
@@ -460,7 +460,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [59-12 - bernard-baudoux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/bernard-baudoux/)
 * [ ] [59-13 - damien-lacroix](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-lacroix/)
 * [ ] [59-14 - philippine-heyman](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippine-heyman/)
-* [ ] [59-15 - emilie-ducourant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emilie-ducourant/)
+* [x] [59-15 - emilie-ducourant](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emilie-ducourant/) 👉
 * [x] [59-16 - alain-bruneel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-bruneel/)
 * [ ] [59-18 - benoit-marechal](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benoit-marechal/)
 * [ ] [59-19 - cedric-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cedric-brun/)
@@ -469,27 +469,27 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [60-01 - roxane-lundy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/roxane-lundy/)
 * [ ] [60-02 - marianne-seck](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marianne-seck/)
 * [ ] [60-04 - mohamed-assamti](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mohamed-assamti/)
-* [ ] [60-06 - baptiste-de-fresse-de-monval](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/baptiste-de-fresse-de-monval/)
+* [x] [60-06 - baptiste-de-fresse-de-monval](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/baptiste-de-fresse-de-monval/) 👉
 * [ ] [61-02 - guillaume-sacriste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-sacriste/)
 * [ ] [61-03 - lori-helloco](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lori-helloco/)
 * [ ] [62-01 - jean-michel-sauvage](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-michel-sauvage/)
-* [ ] [62-02 - alexandre-cousin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alexandre-cousin/)
+* [x] [62-02 - alexandre-cousin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alexandre-cousin/) 👉
 * [x] [62-03 - jean-marc-tellier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-marc-tellier/)
 * [ ] [62-04 - blandine-drain](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/blandine-drain/)
 * [ ] [62-06 - aurore-pageaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurore-pageaud/)
-* [ ] [62-07 - jean-pierre-moussally](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-pierre-moussally/)
+* [x] [62-07 - jean-pierre-moussally](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-pierre-moussally/) 👉
 * [ ] [62-09 - estelle-harremoes](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/estelle-harremoes/)
 * [ ] [62-10 - emmanuelle-leveugle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuelle-leveugle/)
 * [ ] [62-11 - samira-laal](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/samira-laal/)
 * [ ] [62-12 - alain-bavay](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alain-bavay/)
 * [ ] [63-04 - valerie-goleo](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-goleo/)
 * [x] [64-01 - jean-sanroman](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-sanroman/)
-* [ ] [64-02 - julien-brunel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-brunel/)
+* [x] [64-02 - julien-brunel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-brunel/) 👉
 * [ ] [64-03 - joelle-losson](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joelle-losson/)
-* [ ] [66-02 - david-berrue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/david-berrue/)
+* [x] [66-02 - david-berrue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/david-berrue/) 👉
 * [ ] [67-04 - raphaele-krattinger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/raphaele-krattinger/)
 * [ ] [67-05 - marc-ruhlmann](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marc-ruhlmann/)
-* [ ] [67-06 - didier-andres](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/didier-andres/)
+* [x] [67-06 - didier-andres](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/didier-andres/) 👉
 * [ ] [67-07 - serge-bloch](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/serge-bloch/)
 * [ ] [67-08 - myriam-zekagh](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/myriam-zekagh/)
 * [ ] [67-09 - olivier-terrien](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-terrien/)
@@ -504,7 +504,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [69-11 - abdel-yousfi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/abdel-yousfi/)
 * [ ] [70-01 - sebastien-poyard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-poyard/)
 * [ ] [70-02 - eric-houlley](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/eric-houlley/)
-* [ ] [71-01 - jean-luc-delpeuch](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-luc-delpeuch/)
+* [x] [71-01 - jean-luc-delpeuch](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-luc-delpeuch/) 👉
 * [ ] [71-02 - sebastien-gautheron](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-gautheron/)
 * [ ] [71-03 - richard-beninger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/richard-beninger/)
 * [ ] [72-01 - ghislaine-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/ghislaine-bonnet/)
@@ -514,7 +514,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [73-02 - pascale-martinot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascale-martinot/)
 * [ ] [73-03 - daniel-ibanez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/daniel-ibanez/)
 * [ ] [74-01 - anne-valerie-duval](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anne-valerie-duval/)
-* [ ] [74-02 - guillaume-tatu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-tatu/)
+* [x] [74-02 - guillaume-tatu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-tatu/) 👉
 * [ ] [74-03 - gerard-vez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gerard-vez/)
 * [ ] [74-04 - dominique-lachenal](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-lachenal/)
 * [ ] [74-05 - jean-baptiste-baud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-baptiste-baud/)
@@ -533,7 +533,7 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [78-10 - cedric-briolais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cedric-briolais/)
 * [x] [79-03 - juliette-woillez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/juliette-woillez/)
 * [ ] [80-03 - leon-deffontaines](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leon-deffontaines/)
-* [ ] [80-04 - elodie-heren](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elodie-heren/)
+* [x] [80-04 - elodie-heren](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elodie-heren/) 👉
 * [ ] [80-05 - alice-berger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alice-berger/)
 * [ ] [81-01 - margot-lapeyre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/margot-lapeyre/)
 * [ ] [81-03 - julien-lassalle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-lassalle/)
@@ -543,10 +543,10 @@ Parce que la victoire du NFP y est très improbable ou au contraire très probab
 * [ ] [83-04 - sabine-cristofani-viglione](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sabine-cristofani-viglione/)
 * [ ] [83-05 - aurelien-lacour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-lacour/)
 * [ ] [83-06 - sylvie-vinceneux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-vinceneux/)
-* [ ] [83-07 - claudie-cartereau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claudie-cartereau/)
+* [x] [83-07 - claudie-cartereau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claudie-cartereau/) 👉
 * [ ] [83-08 - sarah-breffy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sarah-breffy/)
 * [ ] [84-03 - muriel-duenas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/muriel-duenas/)
-* [ ] [85-01 - lucie-etonno](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-etonno/)
+* [x] [85-01 - lucie-etonno](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-etonno/) 👉
 * [x] [85-02 - nicolas-helary](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-helary/)
 * [ ] [85-03 - pascale-marchand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pascale-marchand/)
 * [ ] [85-04 - julie-mariel-godard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julie-mariel-godard/)
