@@ -31,7 +31,7 @@ Circonscriptions où la victoire risque de se jouer à quelques points de pource
 Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgagner/)
 
 * [x] [03-01 - yannick-monnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/yannick-monnet/)
-* [ ] [04-01 - felix-blanc](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/felix-blanc/)
+* [x] [04-01 - felix-blanc](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/felix-blanc/) 👉
 * [x] [04-02 - leo-walter](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-walter/)
 * [x] [05-01 - marie-jose-allemand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-jose-allemand/)
 * [x] [05-02 - valerie-rossi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-rossi/)
