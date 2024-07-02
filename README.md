@@ -67,7 +67,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [27-04 - philippe-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-brun/)
 * [x] [29-01 - gregory-lebert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-lebert/) 👉
 * [x] [29-04 - sylvaine-vulpiani](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvaine-vulpiani/)
-* [ ] [29-05 - gladys-grelaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gladys-grelaud/)
+* [x] [29-05 - gladys-grelaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gladys-grelaud/)
 * [ ] [29-06 - melanie-thomin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/melanie-thomin/)
 * [x] [29-07 - jugdeep-harvinder](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jugdeep-harvinder/)
 * [x] [30-05 - michel-sala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michel-sala/)
