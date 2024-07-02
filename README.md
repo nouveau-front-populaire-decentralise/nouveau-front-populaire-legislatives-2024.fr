@@ -62,7 +62,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [24-04 - sebastien-peytavie](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-peytavie/)
 * [x] [25-01 - severine-vezies](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/severine-vezies/)
 * [x] [25-02 - dominique-voynet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-voynet/)
-* [ ] [25-04 - magali-duvernois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-duvernois/)
+* [x] [25-04 - magali-duvernois](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/magali-duvernois/)
 * [ ] [26-01 - paul-christophle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/paul-christophle/)
 * [x] [27-04 - philippe-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/philippe-brun/)
 * [x] [29-01 - gregory-lebert](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gregory-lebert/) 👉
