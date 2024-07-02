@@ -56,7 +56,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [21-03 - pierre-pribetich](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-pribetich/)
 * [x] [22-01 - marion-gorgiard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marion-gorgiard/)
 * [x] [22-04 - murielle-lepvraud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/murielle-lepvraud/)
-* [ ] [22-05 - marielle-lemaitre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marielle-lemaitre/)
+* [x] [22-05 - marielle-lemaitre](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marielle-lemaitre/)
 * [ ] [24-02 - christophe-cathus](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-cathus/)
 * [ ] [24-03 - christelle-druillole](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christelle-druillole/)
 * [x] [24-04 - sebastien-peytavie](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-peytavie/)
