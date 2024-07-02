@@ -49,7 +49,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [16-01 - rene-pilato](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/rene-pilato/)
 * [x] [16-03 - virginie-lebraud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/virginie-lebraud/)
 * [x] [17-02 - benoit-biteau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/benoit-biteau/) 👉
-* [ ] [17-03 - fabrice-barusseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-barusseau/)
+* [x] [17-03 - fabrice-barusseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-barusseau/)
 * [x] [18-02 - nicolas-sansu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-sansu/)
 * [ ] [21-01 - oceane-godard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/oceane-godard/)
 * [x] [21-02 - catherine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/catherine-hervieu/) 👉
