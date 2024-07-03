@@ -76,7 +76,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [31-07 - christophe-bex](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-bex/)
 * [x] [31-08 - joel-aviragnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joel-aviragnet/)
 * [x] [31-10 - jacques-oberti](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jacques-oberti/)
-* [ ] [32-02 - david-taupiac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/david-taupiac/)
+* [x] [32-02 - david-taupiac](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/david-taupiac/)
 * [x] [33-06 - marie-recalde](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-recalde/)
 * [x] [33-07 - sebastien-saint-pasteur](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-saint-pasteur/)
 * [x] [33-12 - mathilde-feld](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-feld/)
