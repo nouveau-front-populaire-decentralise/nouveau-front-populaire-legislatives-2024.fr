@@ -95,8 +95,8 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [42-01 - pierrick-courbon](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierrick-courbon/) 👉
 * [x] [44-05 - fabrice-roussel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fabrice-roussel/)
 * [x] [44-08 - matthias-tavel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/matthias-tavel/) 👉
-* [ ] [44-10 - maxime-viancin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-viancin/)
-* [ ] [45-02 - emmanuel-duplessy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-duplessy/)
+* [x] [44-10 - maxime-viancin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/maxime-viancin/)
+* [x] [45-02 - emmanuel-duplessy](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/emmanuel-duplessy/)
 * [x] [46-02 - christophe-proenca](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-proenca/)
 * [ ] [47-02 - christophe-courregelongue](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-courregelongue/)
 * [ ] [49-01 - elsa-richard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-richard/)
