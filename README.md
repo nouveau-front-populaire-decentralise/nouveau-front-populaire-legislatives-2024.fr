@@ -88,7 +88,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [35-03 - claudia-rouaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/claudia-rouaux/)
 * [x] [35-04 - mathilde-hignet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-hignet/)
 * [x] [37-04 - laurent-baumel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/laurent-baumel/)
-* [ ] [38-01 - hugo-prevost](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hugo-prevost/)
+* [x] [38-01 - hugo-prevost](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/hugo-prevost/)
 * [ ] [38-04 - marie-noelle-battistel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marie-noelle-battistel/)
 * [ ] [38-09 - sandrine-nosbe](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-nosbe/)
 * [x] [40-03 - boris-vallaud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/boris-vallaud/)
