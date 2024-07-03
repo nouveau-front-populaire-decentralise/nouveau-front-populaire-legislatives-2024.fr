@@ -71,7 +71,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [29-07 - jugdeep-harvinder](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jugdeep-harvinder/)
 * [x] [30-05 - michel-sala](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/michel-sala/)
 * [x] [30-06 - nicolas-cadene](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-cadene/) 👉
-* [ ] [31-03 - agathe-roby](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/agathe-roby/)
+* [x] [31-03 - agathe-roby](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/agathe-roby/)
 * [x] [31-06 - arnaud-simion](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-simion/)
 * [x] [31-07 - christophe-bex](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-bex/)
 * [x] [31-08 - joel-aviragnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/joel-aviragnet/)
