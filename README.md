@@ -81,7 +81,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [33-07 - sebastien-saint-pasteur](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-saint-pasteur/)
 * [x] [33-12 - mathilde-feld](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/mathilde-feld/)
 * [x] [34-01 - jean-louis-roumegas](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/jean-louis-roumegas/)
-* [ ] [34-03 - fanny-dombre-coste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fanny-dombre-coste/)
+* [x] [34-03 - fanny-dombre-coste](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/fanny-dombre-coste/)
 * [x] [34-04 - sebastien-rome](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sebastien-rome/)
 * [x] [34-08 - sylvain-carriere](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvain-carriere/)
 * [x] [35-02 - tristan-lahais](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/tristan-lahais/) 👉
