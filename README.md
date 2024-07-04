@@ -148,7 +148,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [80-02 - zahia-hamdane](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/zahia-hamdane/)
 * [x] [81-02 - karen-erodi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karen-erodi/)
 * [x] [82-01 - valerie-rabault](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-rabault/)
-* [ ] [84-05 - celine-celce](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-celce/)
+* [x] [84-05 - celine-celce](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-celce/)
 * [x] [86-02 - valerie-soumaille](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-soumaille/) 👉
 * [ ] [87-01 - damien-maudet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-maudet/)
 * [x] [87-02 - stephane-delautrette](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-delautrette/)
