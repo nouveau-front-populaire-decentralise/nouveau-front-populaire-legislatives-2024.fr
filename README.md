@@ -102,7 +102,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [49-01 - elsa-richard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/elsa-richard/)
 * [x] [49-02 - leo-metayer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/leo-metayer/)
 * [x] [49-07 - guillaume-jouanneau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-jouanneau/)
-* [ ] [50-04 - anna-pic](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anna-pic/)
+* [x] [50-04 - anna-pic](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/anna-pic/)
 * [x] [53-01 - guillaume-garot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/guillaume-garot/)
 * [x] [54-01 - estelle-mercier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/estelle-mercier/)
 * [x] [54-02 - stephane-hablot](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-hablot/)
