@@ -125,7 +125,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [64-06 - peio-dufau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/peio-dufau/)
 * [x] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
 * [x] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
-* [ ] [69-04 - sandrine-runel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-runel/)
+* [x] [69-04 - sandrine-runel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-runel/)
 * [x] [69-12 - lucie-gaillot-durand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-gaillot-durand/) 👉
 * [x] [71-04 - cecile-untermaier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-untermaier/)
 * [x] [72-02 - marietta-karamanli](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marietta-karamanli/)
