@@ -161,7 +161,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [92-12 - lounes-adjroud](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lounes-adjroud/)
 * [x] [92-13 - brice-gaillard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/brice-gaillard/)
 * [x] [94-01 - lyes-louffok](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lyes-louffok/)
-* [ ] [94-04 - adel-amara](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/adel-amara/)
+* [x] [94-04 - adel-amara](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/adel-amara/)
 * [ ] [94-05 - julien-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/julien-leger/)
 * [x] [94-06 - may-bouhada](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/may-bouhada/)
 * [ ] [94-07 - rachel-keke](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/rachel-keke/)
