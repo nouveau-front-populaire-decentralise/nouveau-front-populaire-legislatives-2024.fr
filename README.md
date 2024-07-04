@@ -123,7 +123,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [64-04 - inaki-echaniz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/inaki-echaniz/)
 * [x] [64-05 - colette-capdevielle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/colette-capdevielle/)
 * [x] [64-06 - peio-dufau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/peio-dufau/)
-* [ ] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
+* [x] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
 * [x] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
 * [ ] [69-04 - sandrine-runel](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sandrine-runel/)
 * [x] [69-12 - lucie-gaillot-durand](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lucie-gaillot-durand/) 👉
