@@ -130,7 +130,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [71-04 - cecile-untermaier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/cecile-untermaier/)
 * [x] [72-02 - marietta-karamanli](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/marietta-karamanli/)
 * [x] [75-03 - lea-balage-el-mariky](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/lea-balage-el-mariky/)
-* [ ] [75-11 - celine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-hervieu/)
+* [x] [75-11 - celine-hervieu](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-hervieu/)
 * [x] [75-13 - aminata-niakate](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aminata-niakate/) 👉
 * [x] [76-01 - florence-herouin-leautey](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florence-herouin-leautey/)
 * [x] [76-04 - alma-dufour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alma-dufour/)
