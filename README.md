@@ -152,7 +152,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [86-02 - valerie-soumaille](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/valerie-soumaille/) 👉
 * [x] [87-01 - damien-maudet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-maudet/)
 * [x] [87-02 - stephane-delautrette](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/stephane-delautrette/)
-* [ ] [87-03 - manon-meunier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/manon-meunier/)
+* [x] [87-03 - manon-meunier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/manon-meunier/)
 * [x] [90-02 - florian-chauche](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/florian-chauche/)
 * [x] [91-03 - steevy-gustave](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/steevy-gustave/) 👉
 * [x] [91-05 - pierre-larrouturou](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/pierre-larrouturou/)
