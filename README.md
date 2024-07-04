@@ -109,7 +109,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [54-03 - martine-etienne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/martine-etienne/)
 * [x] [54-05 - dominique-potier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dominique-potier/)
 * [x] [56-05 - damien-girard](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/damien-girard/) 👉
-* [ ] [57-08 - celine-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-leger/)
+* [x] [57-08 - celine-leger](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-leger/)
 * [x] [58-02 - christian-paul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christian-paul/)
 * [x] [59-04 - charlotte-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-brun/)
 * [x] [59-07 - karima-chouia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karima-chouia/) 👉
