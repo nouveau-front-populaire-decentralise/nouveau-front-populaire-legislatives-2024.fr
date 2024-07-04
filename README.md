@@ -136,7 +136,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [76-04 - alma-dufour](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/alma-dufour/)
 * [x] [76-05 - gerard-leseul](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/gerard-leseul/)
 * [x] [77-01 - arnaud-saint-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-saint-martin/)
-* [ ] [77-06 - amal-bentounsi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amal-bentounsi/)
+* [x] [77-06 - amal-bentounsi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amal-bentounsi/)
 * [x] [77-08 - arnaud-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-bonnet/)
 * [ ] [77-09 - celine-thiebault-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-thiebault-martinez/)
 * [ ] [78-07 - aurelien-rousseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-rousseau/)
