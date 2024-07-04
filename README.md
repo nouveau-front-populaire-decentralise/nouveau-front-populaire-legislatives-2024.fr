@@ -121,7 +121,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [63-03 - nicolas-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-bonnet/) 👉
 * [x] [63-05 - andre-chassaigne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chassaigne/)
 * [x] [64-04 - inaki-echaniz](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/inaki-echaniz/)
-* [ ] [64-05 - colette-capdevielle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/colette-capdevielle/)
+* [x] [64-05 - colette-capdevielle](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/colette-capdevielle/)
 * [ ] [64-06 - peio-dufau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/peio-dufau/)
 * [ ] [65-01 - sylvie-ferrer](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/sylvie-ferrer/)
 * [x] [67-03 - thierry-sother](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/thierry-sother/)
