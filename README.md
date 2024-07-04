@@ -114,9 +114,9 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [59-04 - charlotte-brun](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/charlotte-brun/)
 * [x] [59-07 - karima-chouia](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/karima-chouia/) 👉
 * [x] [59-09 - odile-vidal-sagnier](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/odile-vidal-sagnier/)
-* [ ] [60-03 - amadou-ka](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amadou-ka/)
+* [x] [60-03 - amadou-ka](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amadou-ka/)
 * [x] [61-01 - chantal-jourdan](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/chantal-jourdan/)
-* [ ] [62-05 - olivier-barbarin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-barbarin/)
+* [x] [62-05 - olivier-barbarin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/olivier-barbarin/)
 * [x] [63-02 - christine-pires-beaune](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christine-pires-beaune/)
 * [x] [63-03 - nicolas-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/nicolas-bonnet/) 👉
 * [x] [63-05 - andre-chassaigne](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/andre-chassaigne/)
