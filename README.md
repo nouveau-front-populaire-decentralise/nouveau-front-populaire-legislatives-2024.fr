@@ -138,7 +138,7 @@ Source: [indivisibles.fr/5jourspourgagner](https://indivisibles.fr/5jourspourgag
 * [x] [77-01 - arnaud-saint-martin](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-saint-martin/)
 * [x] [77-06 - amal-bentounsi](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/amal-bentounsi/)
 * [x] [77-08 - arnaud-bonnet](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/arnaud-bonnet/)
-* [ ] [77-09 - celine-thiebault-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-thiebault-martinez/)
+* [x] [77-09 - celine-thiebault-martinez](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/celine-thiebault-martinez/)
 * [ ] [78-07 - aurelien-rousseau](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/aurelien-rousseau/)
 * [ ] [78-09 - dieynaba-diop](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/dieynaba-diop/)
 * [x] [78-12 - christophe-massiaux](https://github.com/nouveau-front-populaire-decentralise/nouveau-front-populaire-legislatives-2024.fr/tree/main/public/christophe-massiaux/) 👉
